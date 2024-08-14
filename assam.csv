@@ -1,0 +1,453 @@
+,route-collected,name,type,departure_time,arrival_time,duration,price,seats_available,rating
+0,Tezpur to Guwahati,Assam State Transport Corporation (ASTC) - 147480,Bharat Benz A/C Seater (2+2),05:00,09:00,04h 00m,INR 270,1 Seat available,3.4
+1,Tezpur to Guwahati,Assam State Transport Corporation (ASTC) - 135927,Volvo AC Seater 2+2,07:10,11:40,04h 30m,INR 298,10 Seats available,4.3
+2,Tezpur to Guwahati,Assam State Transport Corporation (ASTC) - 174830,Bharat Benz A/C Seater (2+2),09:30,14:00,04h 30m,INR 298,8 Seats available,4.0
+3,Tezpur to Guwahati,Assam State Transport Corporation (ASTC) - 170878,Bharat Benz A/C Seater (2+2),10:35,15:15,04h 40m,INR 298,17 Seats available,4.4
+4,Tezpur to Guwahati,Assam State Transport Corporation (ASTC) - 157959,Bharat Benz A/C Seater (2+2),14:00,18:30,04h 30m,INR 298,22 Seats available,4.4
+5,Tezpur to Guwahati,Assam State Transport Corporation (ASTC) - 168821,Bharat Benz A/C Seater (2+2),15:45,20:30,04h 45m,INR 298,35 Seats available,2.7
+6,Tezpur to Guwahati,Assam State Transport Corporation (ASTC) - 161055,Volvo AC Seater 2+2,16:15,20:30,04h 15m,INR 298,12 Seats available,4.0
+7,Tezpur to Guwahati,NEELKANTH TRAVELS,A/C Seater Push Back (2+2),05:15,08:30,03h 15m,INR 300,24 Seats available,4.3
+8,Tezpur to Guwahati,Sparrow Travels (Under ASTC),A/C Seater Push Back (2+2),05:20,09:30,04h 10m,INR 330,40 Seats available,3.7
+9,Tezpur to Guwahati,MAA Anada (UNDER ASTC),AC Seater (2+2),05:20,08:30,03h 10m,INR 304.2,31 Seats available,4.1
+10,Tezpur to Guwahati,Kanchan Travels,AC Seater (2+2),05:30,08:45,03h 15m,332,22 Seats available,4.6
+11,Tezpur to Guwahati,WARISPIYA TRAVELS,AC Seater (2+2),05:45,09:00,03h 15m,INR 360,29 Seats available,4.0
+12,Tezpur to Guwahati,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),06:15,09:35,03h 20m,329,13 Seats available,3.9
+13,Tezpur to Guwahati,WARISPIYA TRAVELS,Bharat Benz A/C Seater (2+2),06:30,10:25,03h 55m,INR 360,28 Seats available,4.1
+14,Tezpur to Guwahati,Orient Transline,A/C Seater (2+1),06:45,10:25,03h 40m,INR 342.86,21 Seats available,3.7
+15,Tezpur to Guwahati,Orient Transline,A/C Seater (2+1),07:25,10:55,03h 30m,INR 342.86,15 Seats available,4.4
+16,Tezpur to Guwahati,WARISPIYA TRAVELS,AC Seater (2+2),07:45,12:00,04h 15m,INR 360,28 Seats available,4.1
+17,Tezpur to Guwahati,Mahi Travels(Under ASTC),A/C Seater (2+2),08:00,11:30,03h 30m,357,23 Seats available,4.6
+18,Tezpur to Guwahati,Mahalaxmi Travels,Tata A/C Seater (2+2),09:55,14:00,04h 05m,INR 300,26 Seats available,4.0
+19,Tezpur to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),10:10,15:00,04h 50m,INR 450,33 Seats available,3.1
+20,Tezpur to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),10:30,15:45,05h 15m,INR 450,30 Seats available,3.3
+21,Tezpur to Guwahati,Chartered Bus - ASTC,A/C Seater Push Back (2+2),11:30,16:15,04h 45m,INR 324.47,13 Seats available,4.4
+22,Tezpur to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),11:30,16:45,05h 15m,INR 450,24 Seats available,4.2
+23,Tezpur to Guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,13:00,17:00,04h 00m,INR 349.43,26 Seats available,4.7
+24,Tezpur to Guwahati,Karisma (Aziba),NON A/C Seater (2+1),13:40,14:10,00h 30m,INR 300,14 Seats available,3.2
+25,Tezpur to Guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,14:30,18:30,04h 00m,INR 432.06,31 Seats available,4.6
+26,Tezpur to Guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,15:30,19:15,03h 45m,INR 378.92,24 Seats available,4.6
+27,Tezpur to Guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),21:30,03:30,06h 00m,INR 400,25 Seats available,3.2
+28,Tezpur to Guwahati,Upasana Travels (Under ASTC),AC Seater (2+2),06:10,10:20,04h 10m,INR 330,40 Seats available,1.6
+29,Tezpur to Guwahati,Upasana Travels (Under ASTC),Non AC Seater (2+2),06:55,11:00,04h 05m,INR 325,40 Seats available,2.6
+30,Tezpur to Guwahati,Kalpana Travels,Non AC Seater (2+2),08:50,12:30,03h 40m,318,35 Seats available,1.9
+31,Tezpur to Guwahati,Brindaban Travels,Non AC Seater (2+2),09:15,13:15,04h 00m,INR 300,35 Seats available,2.7
+32,Tezpur to Guwahati,PANKAJ TRAVELS,A/C Seater (2+1),13:00,17:00,04h 00m,456,20 Seats available,No rating
+33,Tezpur to Guwahati,Maya Travels,Tata A/C Seater (2+2),13:00,17:30,04h 30m,INR 300,39 Seats available,1.6
+34,Tezpur to Guwahati,BARBIE TRAVELS,A/C Seater Push Back (2+2),13:10,17:50,04h 40m,INR 350,32 Seats available,No rating
+35,Tezpur to Guwahati,DESTINY TRAVELS,NON A/C Seater (2+1),18:30,03:45,09h 15m,380,34 Seats available,No rating
+36,Tezpur to Guwahati,Himalayan Travels,NON A/C Seater (2+2),23:40,04:00,04h 20m,450,24 Seats available,No rating
+37,Tezpur to Guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),22:15,03:45,05h 30m,INR 550,23 Seats available,3.8
+38,Guwahati to Tezpur,Assam State Transport Corporation (ASTC) - 139846,Volvo AC Seater 2+2,06:10,10:00,03h 50m,INR 298,15 Seats available,4.5
+39,Guwahati to Tezpur,Assam State Transport Corporation (ASTC) - 143955,Bharat Benz A/C Seater (2+2),07:00,11:00,04h 00m,INR 298,26 Seats available,4.3
+40,Guwahati to Tezpur,Assam State Transport Corporation (ASTC) - 173419,Bharat Benz A/C Seater (2+2),07:15,10:50,03h 35m,INR 298,25 Seats available,4.4
+41,Guwahati to Tezpur,Assam State Transport Corporation (ASTC) - 154910,Bharat Benz A/C Seater (2+2),10:30,15:00,04h 30m,INR 298,22 Seats available,3.7
+42,Guwahati to Tezpur,Karisma (Aziba),NON A/C Seater (2+1),06:00,10:40,04h 40m,INR 300,21 Seats available,3.7
+43,Guwahati to Tezpur,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,06:15,10:30,04h 15m,INR 432.06,26 Seats available,4.5
+44,Guwahati to Tezpur,Yatra Travels,NON A/C Seater (2+1),07:00,12:00,05h 00m,450,14 Seats available,3.3
+45,Guwahati to Tezpur,Chartered Bus - ASTC,A/C Seater Push Back (2+2),07:00,11:00,04h 00m,INR 324.47,16 Seats available,4.4
+46,Guwahati to Tezpur,KIRAN TRAVELS,A/C Seater (2+1),07:05,11:30,04h 25m,324,15 Seats available,3.1
+47,Guwahati to Tezpur,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,07:30,11:30,04h 00m,INR 378.92,25 Seats available,4.6
+48,Guwahati to Tezpur,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,08:30,12:30,04h 00m,INR 432.06,24 Seats available,4.0
+49,Guwahati to Tezpur,NEELKANTH TRAVELS,A/C Seater Push Back (2+2),09:05,14:30,05h 25m,INR 300,41 Seats available,4.7
+50,Guwahati to Tezpur,MAA Anada (UNDER ASTC),AC Seater (2+2),09:30,14:45,05h 15m,INR 328.5,40 Seats available,3.4
+51,Guwahati to Tezpur,Mahi Travels(Under ASTC),A/C Seater (2+2),10:00,15:00,05h 00m,341,28 Seats available,4.2
+52,Guwahati to Tezpur,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),10:30,15:25,04h 55m,342,25 Seats available,3.3
+53,Guwahati to Tezpur,Sparrow Travels (Under ASTC),A/C Seater Push Back (2+2),10:45,16:00,05h 15m,INR 330,39 Seats available,3.7
+54,Guwahati to Tezpur,Kanchan Travels,AC Seater (2+2),10:45,16:00,05h 15m,343,30 Seats available,3.6
+55,Guwahati to Tezpur,Orient Transline,A/C Seater (2+1),11:30,15:30,04h 00m,INR 380.95,27 Seats available,4.2
+56,Guwahati to Tezpur,Orient Transline,NON A/C Seater (2+1),12:15,17:35,05h 20m,INR 300,27 Seats available,4.3
+57,Guwahati to Tezpur,Orient Transline,A/C Seater (2+1),13:00,17:30,04h 30m,INR 380.95,30 Seats available,4.0
+58,Guwahati to Tezpur,Mahi Travels(Under ASTC),A/C Seater (2+2),14:15,17:50,03h 35m,369,42 Seats available,4.2
+59,Guwahati to Tezpur,WARISPIYA TRAVELS,AC Seater (2+2),15:00,18:40,03h 40m,INR 360,33 Seats available,4.5
+60,Guwahati to Tezpur,WARISPIYA TRAVELS,AC Seater (2+2),15:35,19:15,03h 40m,INR 360,37 Seats available,4.1
+61,Guwahati to Tezpur,WARISPIYA TRAVELS,Bharat Benz A/C Seater (2+2),16:15,19:40,03h 25m,INR 360,34 Seats available,4.2
+62,Guwahati to Tezpur,Yatra Travels,NON AC Seater/ Sleeper (2+1),18:00,23:30,05h 30m,400,46 Seats available,3.3
+63,Guwahati to Tezpur,Yatra Travels,NON AC Seater/ Sleeper (2+1),20:00,00:00,04h 00m,400,44 Seats available,3.6
+64,Guwahati to Tezpur,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),20:15,01:15,05h 00m,INR 450,27 Seats available,3.4
+65,Guwahati to Tezpur,Pranjit Travels (Under ASTC),A/C Seater / Sleeper (2+1),20:45,02:30,05h 45m,INR 500,38 Seats available,3.4
+66,Guwahati to Tezpur,Pranjit Travels (Under ASTC),Non AC Seater (2+1),21:15,01:15,04h 00m,INR 450,29 Seats available,3.5
+67,Guwahati to Tezpur,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),21:45,02:00,04h 15m,INR 450,33 Seats available,3.9
+68,Guwahati to Tezpur,PANKAJ TRAVELS,AC Seater (2+2),05:30,10:00,04h 30m,333,25 Seats available,No rating
+69,Guwahati to Tezpur,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),07:45,13:10,05h 25m,INR 450,37 Seats available,2.8
+70,Guwahati to Tezpur,Pranjit Travels (Under ASTC),A/C Seater (2+1),08:45,14:00,05h 15m,INR 500,35 Seats available,2.9
+71,Guwahati to Tezpur,NETWORK TRAVELS,NON A/C Seater Push Back (2+2),09:30,16:15,06h 45m,INR 250,24 Seats available,1.8
+72,Guwahati to Tezpur,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),09:30,13:00,03h 30m,INR 360,31 Seats available,2.4
+73,Guwahati to Tezpur,Upasana Travels (Under ASTC),Non AC Seater (2+2),11:00,15:00,04h 00m,INR 325,38 Seats available,1.3
+74,Guwahati to Tezpur,Volenath,Non AC Seater (2+2),11:30,16:30,05h 00m,INR 280,40 Seats available,1.4
+75,Guwahati to Tezpur,Upasana Travels (Under ASTC),AC Seater (2+2),13:45,18:00,04h 15m,INR 330,40 Seats available,1.6
+76,Guwahati to Tezpur,Mahalaxmi Travels,Tata A/C Seater (2+2),14:35,18:30,03h 55m,INR 300,39 Seats available,2.7
+77,Guwahati to Tezpur,Kalpana Travels,Non AC Seater (2+2),16:45,20:30,03h 45m,318,35 Seats available,2.6
+78,Guwahati to Tezpur,NETWORK TRAVELS,Bharat Benz A/C Seater /Sleeper (2+1),17:00,22:00,29h 00m,INR 450,44 Seats available,1.8
+79,Guwahati to Tezpur,Brindaban Travels,Non AC Seater (2+2),17:15,21:15,04h 00m,INR 300,35 Seats available,2.0
+80,Guwahati to Tezpur,DESTINY TRAVELS,NON A/C Seater (2+1),18:45,23:30,04h 45m,398,32 Seats available,No rating
+81,Guwahati to Tezpur,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),20:00,01:15,05h 15m,INR 500,30 Seats available,2.6
+82,Guwahati to Tezpur,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),20:30,01:45,05h 15m,INR 500,31 Seats available,2.4
+83,Guwahati to Tezpur,Himalayan Travels,NON A/C Seater (2+2),20:30,02:30,06h 00m,450,26 Seats available,No rating
+84,Guwahati to Tezpur,KIRAN TRAVELS,A/C Seater (2+1),20:40,00:30,03h 50m,INR 600,23 Seats available,3.1
+85,Guwahati to Tezpur,Pranjit Travels (Under ASTC),Bharat Benz A/C Seater (2+1),21:30,02:30,05h 00m,INR 550,27 Seats available,4.1
+86,Nagaon (Assam) to Guwahati,Assam State Transport Corporation (ASTC) - 145920,Bharat Benz A/C Seater (2+2),07:20,10:00,02h 40m,INR 191,14 Seats available,3.8
+87,Nagaon (Assam) to Guwahati,Assam State Transport Corporation (ASTC) - 146078,Bharat Benz A/C Seater (2+2),08:15,11:00,02h 45m,INR 191,3 Seats available,4.4
+88,Nagaon (Assam) to Guwahati,Assam State Transport Corporation (ASTC) - 154175,NON A/C Seater Push Back (2+1),12:30,16:00,03h 30m,INR 164,13 Seats available,3.5
+89,Nagaon (Assam) to Guwahati,Assam State Transport Corporation (ASTC) - 174838,Bharat Benz A/C Seater (2+2),15:45,18:15,02h 30m,INR 191,34 Seats available,4.1
+90,Nagaon (Assam) to Guwahati,MAA Anada (UNDER ASTC),AC Seater (2+2),06:25,08:30,02h 05m,INR 247.5,32 Seats available,4.1
+91,Nagaon (Assam) to Guwahati,NEELKANTH TRAVELS,A/C Seater Push Back (2+2),06:25,08:30,02h 05m,INR 250,27 Seats available,No rating
+92,Nagaon (Assam) to Guwahati,Kanchan Travels,AC Seater (2+2),06:30,08:45,02h 15m,INR 262,22 Seats available,4.1
+93,Nagaon (Assam) to Guwahati,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),07:15,09:35,02h 20m,329,13 Seats available,4.3
+94,Nagaon (Assam) to Guwahati,Orient Transline,A/C Seater (2+1),08:00,10:25,02h 25m,INR 333.33,21 Seats available,3.4
+95,Nagaon (Assam) to Guwahati,Orient Transline,A/C Seater (2+1),08:50,10:55,02h 05m,INR 333.33,20 Seats available,4.5
+96,Nagaon (Assam) to Guwahati,Mahi Travels(Under ASTC),A/C Seater (2+2),09:10,11:30,02h 20m,293,24 Seats available,4.8
+97,Nagaon (Assam) to Guwahati,Anindita Travels,NON A/C Seater (2+1),09:15,11:30,02h 15m,INR 450,16 Seats available,4.7
+98,Nagaon (Assam) to Guwahati,Mahalaxmi Travels,Tata A/C Seater (2+2),11:10,14:00,02h 50m,INR 250,26 Seats available,3.8
+99,Nagaon (Assam) to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),11:55,15:00,03h 05m,INR 400,37 Seats available,3.4
+100,Nagaon (Assam) to Guwahati,Deep Travels,Non AC Seater (2+1),13:00,16:00,03h 00m,INR 250,31 Seats available,3.7
+101,Nagaon (Assam) to Guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),13:15,16:00,02h 45m,285,10 Seats available,4.1
+102,Nagaon (Assam) to Guwahati,Baikuntha Transport Service,A/C Seater (2+1),14:00,17:00,03h 00m,450,12 Seats available,3.3
+103,Nagaon (Assam) to Guwahati,Kareng Travels,Non AC Seater (2+1),14:15,16:30,02h 15m,285,27 Seats available,4.1
+104,Nagaon (Assam) to Guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,14:30,17:00,02h 30m,INR 349.43,26 Seats available,4.7
+105,Nagaon (Assam) to Guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,16:00,18:30,02h 30m,INR 324.04,31 Seats available,4.8
+106,Nagaon (Assam) to Guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,17:00,19:15,02h 15m,INR 349.43,24 Seats available,4.3
+107,Nagaon (Assam) to Guwahati,TRINAYAN TRANSPORT (Under ASTC),A/C Seater (2+1),11:45,14:30,02h 45m,398,17 Seats available,1.4
+108,Nagaon (Assam) to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),13:00,15:45,02h 45m,INR 300,30 Seats available,2.4
+109,Nagaon (Assam) to Guwahati,BARBIE TRAVELS,A/C Seater Push Back (2+2),14:50,17:50,03h 00m,INR 300,33 Seats available,No rating
+110,Nagaon (Assam) to Guwahati,Christina Travels,NON A/C Seater (2+2),16:00,18:20,02h 20m,650,35 Seats available,2.8
+111,Guwahati to Nagaon (Assam),Assam State Transport Corporation (ASTC) - 174837,Bharat Benz A/C Seater (2+2),07:45,10:00,02h 15m,INR 191,22 Seats available,3.9
+112,Guwahati to Nagaon (Assam),Assam State Transport Corporation (ASTC) - 154910,Bharat Benz A/C Seater (2+2),10:30,13:00,02h 30m,INR 191,22 Seats available,3.7
+113,Guwahati to Nagaon (Assam),Assam State Transport Corporation (ASTC) - 146146,Bharat Benz A/C Seater (2+2),13:00,16:00,03h 00m,INR 191,15 Seats available,4.0
+114,Guwahati to Nagaon (Assam),Assam State Transport Corporation (ASTC) - 146079,Bharat Benz A/C Seater (2+2),15:00,18:00,03h 00m,INR 191,35 Seats available,3.8
+115,Guwahati to Nagaon (Assam),Kareng Travels,Non AC Seater (2+1),05:00,07:30,02h 30m,278,21 Seats available,4.4
+116,Guwahati to Nagaon (Assam),Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,06:15,09:15,03h 00m,INR 324.04,26 Seats available,4.7
+117,Guwahati to Nagaon (Assam),Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,07:30,09:30,02h 00m,INR 270.01,25 Seats available,4.7
+118,Guwahati to Nagaon (Assam),Deep Travels,Non AC Seater (2+1),07:30,10:00,02h 30m,INR 250,33 Seats available,3.7
+119,Guwahati to Nagaon (Assam),Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,08:30,10:45,02h 15m,INR 324.04,32 Seats available,4.9
+120,Guwahati to Nagaon (Assam),NEELKANTH TRAVELS,A/C Seater Push Back (2+2),09:05,12:00,02h 55m,INR 250,41 Seats available,No rating
+121,Guwahati to Nagaon (Assam),Kareng Travels,A/C Seater (2+1),09:30,13:00,03h 30m,285,23 Seats available,4.4
+122,Guwahati to Nagaon (Assam),MAA Anada (UNDER ASTC),AC Seater (2+2),09:30,13:00,03h 30m,INR 247.5,32 Seats available,3.5
+123,Guwahati to Nagaon (Assam),Kareng Travels,NON A/C Seater Push Back (2+2),09:30,13:00,03h 30m,266,41 Seats available,4.4
+124,Guwahati to Nagaon (Assam),Mahi Travels(Under ASTC),A/C Seater (2+2),10:00,13:30,03h 30m,341,40 Seats available,3.4
+125,Guwahati to Nagaon (Assam),Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),10:30,13:50,03h 20m,303,28 Seats available,3.9
+126,Guwahati to Nagaon (Assam),Kanchan Travels,AC Seater (2+2),10:45,14:10,03h 25m,INR 285,30 Seats available,4.1
+127,Guwahati to Nagaon (Assam),Orient Transline,A/C Seater (2+1),11:30,14:25,02h 55m,INR 285.71,26 Seats available,3.6
+128,Guwahati to Nagaon (Assam),Kareng Travels,Non AC Seater (2+2),11:45,14:45,03h 00m,266,45 Seats available,4.4
+129,Guwahati to Nagaon (Assam),Orient Transline,NON A/C Seater (2+1),12:15,15:30,03h 15m,INR 285.71,34 Seats available,4.3
+130,Guwahati to Nagaon (Assam),Kareng Travels,NON A/C Seater Push Back (2+2),12:30,15:30,03h 00m,238,41 Seats available,4.4
+131,Guwahati to Nagaon (Assam),Orient Transline,A/C Seater (2+1),13:00,15:45,02h 45m,INR 333.33,31 Seats available,4.5
+132,Guwahati to Nagaon (Assam),Mahi Travels(Under ASTC),A/C Seater (2+2),14:15,16:15,02h 00m,312,42 Seats available,3.9
+133,Guwahati to Nagaon (Assam),Mahalaxmi Travels,Tata A/C Seater (2+2),14:40,16:40,02h 00m,INR 230,40 Seats available,3.8
+134,Guwahati to Nagaon (Assam),TRINAYAN TRANSPORT (Under ASTC),A/C Seater (2+1),08:00,11:30,03h 30m,444,35 Seats available,2.9
+135,Guwahati to Nagaon (Assam),Anindita Travels,NON A/C Seater (2+1),12:30,15:45,03h 15m,INR 400,37 Seats available,2.9
+136,Guwahati to Nagaon (Assam),DESTINY TRAVELS,NON A/C Seater (2+1),18:45,21:50,27h 05m,419,25 Seats available,No rating
+137,Goalpara to Guwahati,Assam State Transport Corporation (ASTC) - 141730,Bharat Benz A/C Seater (2+2),06:10,10:10,04h 00m,INR 233,7 Seats available,4.1
+138,Goalpara to Guwahati,Balaji Tours And Travels,NON A/C Seater (2+2),10:45,14:45,04h 00m,INR 162,33 Seats available,2.3
+139,Goalpara to Guwahati,Balaji Tours And Travels,NON A/C Seater Push Back (2+2),11:15,15:35,04h 20m,INR 162,41 Seats available,2.3
+140,Goalpara to Guwahati,Balaji Tours And Travels,NON A/C Seater (2+2),12:00,16:20,04h 20m,INR 162,33 Seats available,2.3
+141,Goalpara to Guwahati,Balaji Tours And Travels,NON A/C Seater (2+2),12:15,16:30,04h 15m,INR 162,33 Seats available,2.3
+142,Jorhat to North Lakhimpur,Priyanka,NON A/C Seater (2+1),19:00,05:30,10h 30m,INR 600,25 Seats available,3.0
+143,Jorhat to North Lakhimpur,Padmanav Travels,NON A/C Seater Push Back (2+2),06:00,13:45,07h 45m,INR 590,38 Seats available,2.8
+144,Dhubri to Guwahati,Assam State Transport Corporation (ASTC) - 150573,Bharat Benz A/C Seater (2+2),05:00,11:00,06h 00m,INR 410,25 Seats available,4.1
+145,Dhubri to Guwahati,Yatra,Non AC Seater (2+2),20:15,03:30,07h 15m,INR 350,40 Seats available,2.8
+146,Dhubri to Guwahati,Yatra,Non AC Seater (2+2),11:15,18:45,07h 30m,INR 300,41 Seats available,1.5
+147,Dhubri to Guwahati,Maa monosha travels,Non AC Seater (2+2),06:45,13:45,07h 00m,INR 350,40 Seats available,No rating
+148,Dhubri to Guwahati,Maa monosha travels,Non AC Seater (2+2),06:15,13:15,07h 00m,INR 350,40 Seats available,No rating
+149,Dhubri to Guwahati,Arifa Travels,Non AC Seater (2+2),05:30,11:00,05h 30m,INR 300,44 Seats available,1.7
+150,Dhubri to Guwahati,Arifa Travels,A/C Seater (2+2),06:30,13:00,06h 30m,INR 350,40 Seats available,1.2
+151,Dhubri to Guwahati,Yatra,Non AC Seater (2+2),13:15,20:30,07h 15m,INR 300,41 Seats available,2.5
+152,Dhubri to Guwahati,Arifa Travels,Non AC Seater (2+2),06:40,13:30,06h 50m,INR 300,44 Seats available,1.3
+153,Guwahati to Dhubri,Assam State Transport Corporation (ASTC) - 150574,Bharat Benz A/C Seater (2+2),12:00,19:00,07h 00m,INR 410,28 Seats available,3.8
+154,Guwahati to Dhubri,Yatra,Non AC Seater (2+2),08:15,15:30,07h 15m,INR 350,40 Seats available,2.6
+155,Guwahati to Dhubri,Maa monosha travels,Non AC Seater (2+2),14:00,21:30,07h 30m,INR 350,40 Seats available,No rating
+156,Guwahati to Dhubri,Maa monosha travels,Non AC Seater (2+2),14:30,22:00,07h 30m,INR 350,40 Seats available,No rating
+157,Guwahati to Dhubri,Yatra,Non AC Seater (2+2),06:30,12:45,06h 15m,INR 300,41 Seats available,1.1
+158,North Lakhimpur to Sibsagar,Assam State Transport Corporation (ASTC) - 173044,Non AC Seater (2+2),13:00,16:30,03h 30m,INR 220,21 Seats available,2.6
+159,North Lakhimpur to Sibsagar,Sylvan DEE Transport,Non AC Seater (2+1),17:30,05:30,12h 00m,INR 640,10 Seats available,3.3
+160,North Lakhimpur to Jorhat,Padmanav Travels,NON A/C Seater Push Back (2+2),05:30,13:35,08h 05m,INR 590,22 Seats available,2.7
+161,North Lakhimpur to Jorhat,Sylvan DEE Transport,Non AC Seater (2+1),17:30,04:30,11h 00m,INR 530,10 Seats available,2.7
+162,Dhekiajuli to Guwahati,Assam State Transport Corporation (ASTC) - 147480,Bharat Benz A/C Seater (2+2),05:55,09:00,03h 05m,INR 213,1 Seat available,3.6
+163,Dhekiajuli to Guwahati,Sparrow Travels (Under ASTC),A/C Seater Push Back (2+2),06:00,09:30,03h 30m,INR 290,40 Seats available,3.7
+164,Dhekiajuli to Guwahati,Volenath,Non AC Seater (2+2),06:50,11:00,04h 10m,INR 190,26 Seats available,1.5
+165,Jorhat to Dibrugarh,Assam State Transport Corporation (ASTC) - 166131,Bharat Benz A/C Seater (2+2),07:20,11:40,04h 20m,INR 207,11 Seats available,4.3
+166,Jorhat to Dibrugarh,NETWORK TRAVELS,NON A/C Seater Push Back (2+1),04:01,08:30,04h 29m,300,30 Seats available,3.7
+167,Jorhat to Dibrugarh,Basudev Transline,A/C Seater (2+2),10:00,14:10,04h 10m,284,30 Seats available,4.2
+168,Jorhat to Dibrugarh,Aniruddha Travels,AC Seater (2+2),11:45,16:15,04h 30m,450,41 Seats available,3.6
+169,Jorhat to Dibrugarh,NETWORK TRAVELS,A/C Seater Push Back (2+2),12:15,16:00,03h 45m,INR 450,40 Seats available,3.7
+170,Jorhat to Dibrugarh,Aroti Travels (Under ASTC),Non AC Seater (2+2),12:30,16:20,03h 50m,INR 250,20 Seats available,3.8
+171,Jorhat to Dibrugarh,Baikuntha Transport Service,Bharat Benz A/C Sleeper (2+1),04:00,07:15,03h 15m,404,34 Seats available,2.8
+172,Jorhat to Dibrugarh,NEELAKANTHA (RIYA),Tempo Traveler NON A/C,10:00,10:00,--,INR 250,20 Seats available,No rating
+173,Jorhat to Dibrugarh,Christina Travels,NON A/C Seater (2+2),12:30,16:30,04h 00m,420,41 Seats available,2.8
+174,Jorhat to Dibrugarh,Purple Wings Coaches,A/C Seater / Sleeper (2+1),01:10,04:30,03h 20m,540,17 Seats available,3.2
+175,Jorhat to Dibrugarh,RAYAN TRAVELS,Bharat Benz A/C Seater (2+1),12:30,16:15,03h 45m,INR 600,5 Seats available,3.6
+176,Jorhat to Dibrugarh,MADHURIKA TRAVELS,A/C Seater (2+1),12:45,17:00,04h 15m,509,16 Seats available,3.9
+177,Jorhat to Dibrugarh,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,13:30,17:15,03h 45m,INR 626.24,18 Seats available,4.3
+178,Jorhat to Dibrugarh,Bashudev Transline (Under ASTC),A/C Seater (2+1),14:10,18:00,03h 50m,INR 550,15 Seats available,4.3
+179,Sibsagar to North Lakhimpur,Assam State Transport Corporation (ASTC) - 173043,Non AC Seater (2+2),07:30,11:30,04h 00m,INR 220,7 Seats available,3.2
+180,Tezpur to Dibrugarh,Assam State Transport Corporation (ASTC) - 96880,A/C Seater (2+1),08:00,16:00,08h 00m,INR 463,10 Seats available,3.6
+181,Tezpur to Dibrugarh,Aniruddha Travels,AC Seater (2+2),07:50,16:15,08h 25m,500,7 Seats available,3.8
+182,Tezpur to Dibrugarh,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),20:00,04:00,08h 00m,INR 550,17 Seats available,3.8
+183,Tezpur to Dibrugarh,Puja Transport,Non AC Seater (2+2),20:00,05:00,09h 00m,INR 550,24 Seats available,2.4
+184,Tezpur to Dibrugarh,Puja Transport,NON AC Seater / Sleeper 2+1,20:00,04:30,08h 30m,INR 550,10 Seats available,3.2
+185,Tezpur to Dibrugarh,J.S. Travels,Non AC Seater (2+1),21:00,04:00,07h 00m,INR 550,20 Seats available,2.3
+186,Tezpur to Dibrugarh,Maa Laxmi,NON A/C Seater Push Back (2+1),23:00,05:30,06h 30m,INR 550,31 Seats available,2.5
+187,Tezpur to Dibrugarh,Neha Travels,NON A/C Seater (2+2),22:40,07:00,08h 20m,INR 650,32 Seats available,2.0
+188,Tezpur to Dibrugarh,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),19:45,04:00,08h 15m,INR 470,44 Seats available,2.0
+189,Tezpur to Dibrugarh,MOON TRAVELS,AC Seater (2+2),07:15,15:20,08h 05m,523,15 Seats available,2.2
+190,Tezpur to Dibrugarh,Neha Travels,NON A/C Seater (2+2),22:40,04:30,05h 50m,INR 650,35 Seats available,2.6
+191,Haflong to Guwahati,Assam State Transport Corporation (ASTC) - 154175,NON A/C Seater Push Back (2+1),07:00,16:00,09h 00m,INR 523,9 Seats available,3.8
+192,Haflong to Guwahati,Deep Travels,Non AC Seater (2+1),07:30,16:00,08h 30m,INR 650,29 Seats available,4.0
+193,Haflong to Guwahati,Deep Travels,Non AC Seater (2+1),17:45,04:30,10h 45m,INR 650,30 Seats available,4.0
+194,Haflong to Guwahati,NETWORK TRAVELS,NON A/C Seater (2+1),18:00,04:00,10h 00m,INR 700,21 Seats available,4.5
+195,North Lakhimpur to Dibrugarh,BARBIE TRAVELS,NON A/C Hi-Tech Push Back (2+2),06:00,10:20,04h 20m,INR 240,40 Seats available,No rating
+196,North Lakhimpur to Dibrugarh,PANKAJ TRAVELS,NON A/C Hi-Tech Push Back (2+2),07:25,11:15,03h 50m,INR 240,37 Seats available,No rating
+197,North Lakhimpur to Dibrugarh,BARBIE TRAVELS,NON A/C Hi-Tech Push Back (2+2),07:55,12:30,04h 35m,INR 240,39 Seats available,No rating
+198,North Lakhimpur to Dibrugarh,Maa Jagadamba,NON A/C Seater (2+3),09:20,13:30,04h 10m,INR 250,39 Seats available,1.8
+199,North Lakhimpur to Dibrugarh,Maa Jagadamba,A/C Seater Push Back (2+2),09:40,13:00,03h 20m,INR 260,40 Seats available,1.8
+200,North Lakhimpur to Dibrugarh,BARBIE TRAVELS,A/C Seater Push Back (2+2),10:20,13:40,03h 20m,INR 280,39 Seats available,No rating
+201,North Lakhimpur to Dibrugarh,Air Bus Travels,NON AC Seater / Sleeper 2+1,21:00,03:00,06h 00m,INR 400,46 Seats available,3.5
+202,Jorhat to Tinsukia,Assam State Transport Corporation (ASTC) - 166131,Bharat Benz A/C Seater (2+2),07:20,13:30,06h 10m,INR 281,11 Seats available,4.0
+203,Jorhat to Tinsukia,Assam State Transport Corporation (ASTC) - 139495,NON A/C Seater Push Back (2+1),09:15,15:00,05h 45m,INR 247,11 Seats available,4.4
+204,Jorhat to Tinsukia,Purple Wings Coaches,A/C Seater / Sleeper (2+1),01:10,05:45,04h 35m,558,17 Seats available,3.9
+205,Jorhat to Tinsukia,Aniruddha Travels,AC Seater (2+2),11:45,17:30,05h 45m,450,9 Seats available,3.6
+206,Jorhat to Tinsukia,Aroti Travels (Under ASTC),Non AC Seater (2+2),12:30,17:50,05h 20m,INR 350,20 Seats available,4.4
+207,Jorhat to Tinsukia,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,13:30,18:30,05h 00m,INR 669.36,18 Seats available,4.7
+208,Jorhat to Tinsukia,NETWORK TRAVELS,Non A/C Seater / Sleeper (2+1),00:30,05:30,05h 00m,350,26 Seats available,2.6
+209,Jorhat to Tinsukia,NETWORK TRAVELS,NON A/C Seater Push Back (2+1),04:01,09:30,05h 29m,300,17 Seats available,2.6
+210,Jorhat to Tinsukia,Christina Travels,NON A/C Seater (2+2),12:30,18:00,05h 30m,450,41 Seats available,2.0
+211,Jorhat to Tinsukia,MADHURIKA TRAVELS,A/C Seater (2+1),12:45,18:00,05h 15m,555,16 Seats available,2.2
+212,Dibrugarh to Tezpur,Assam State Transport Corporation (ASTC) - 163953,NON A/C Seater Push Back (2+1),08:30,16:00,07h 30m,INR 400,12 Seats available,3.3
+213,Dibrugarh to Tezpur,Aniruddha Travels,AC Seater (2+2),07:30,15:35,08h 05m,500,8 Seats available,4.3
+214,Dibrugarh to Tezpur,Puja Transport,NON AC Seater / Sleeper 2+1,20:00,05:00,09h 00m,INR 550,14 Seats available,4.1
+215,Dibrugarh to Tezpur,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),20:00,04:00,08h 00m,INR 550,27 Seats available,3.0
+216,Dibrugarh to Tezpur,J.S. Travels,Non AC Seater (2+1),19:00,04:00,09h 00m,INR 500,32 Seats available,2.7
+217,Dibrugarh to Tezpur,Puja Transport,Non AC Seater (2+2),19:15,04:00,08h 45m,INR 550,35 Seats available,2.9
+218,Dibrugarh to Tezpur,Neha Travels,NON A/C Seater (2+2),17:00,03:15,10h 15m,INR 650,35 Seats available,2.8
+219,Dibrugarh to Tezpur,MOON TRAVELS,AC Seater (2+2),09:10,17:00,07h 50m,570,32 Seats available,1.0
+220,Dibrugarh to Tezpur,Aniruddha Travels,AC Seater (2+2),20:00,04:10,08h 10m,INR 650,44 Seats available,3.5
+221,Dibrugarh to Tezpur,Maa Laxmi,NON A/C Seater Push Back (2+1),18:15,02:00,07h 45m,INR 550,34 Seats available,2.7
+222,Guwahati to Biswanath Charali,Assam State Transport Corporation (ASTC) - 173419,Bharat Benz A/C Seater (2+2),07:15,11:50,04h 35m,INR 412,23 Seats available,4.1
+223,Guwahati to Biswanath Charali,Karisma (Aziba),NON A/C Seater (2+1),06:00,11:50,05h 50m,INR 400,21 Seats available,4.5
+224,Guwahati to Biswanath Charali,Yatra Travels,NON A/C Seater (2+1),07:00,12:40,05h 40m,450,14 Seats available,4.3
+225,Guwahati to Biswanath Charali,Chartered Bus - ASTC,A/C Seater Push Back (2+2),07:00,12:00,05h 00m,INR 594.48,14 Seats available,4.4
+226,Guwahati to Biswanath Charali,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),07:45,15:00,07h 15m,INR 500,27 Seats available,4.0
+227,Guwahati to Biswanath Charali,Pranjit Travels (Under ASTC),A/C Seater (2+1),08:45,14:45,06h 00m,INR 550,28 Seats available,4.2
+228,Guwahati to Biswanath Charali,MAA Anada (UNDER ASTC),AC Seater (2+2),09:30,16:15,06h 45m,INR 384.3,40 Seats available,3.0
+229,Guwahati to Biswanath Charali,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),09:30,15:00,05h 30m,INR 410,31 Seats available,3.6
+230,Guwahati to Biswanath Charali,Mahi Travels(Under ASTC),A/C Seater (2+2),10:00,16:30,06h 30m,432,28 Seats available,4.3
+231,Guwahati to Biswanath Charali,Kanchan Travels,AC Seater (2+2),10:45,17:25,06h 40m,437,30 Seats available,4.3
+232,Guwahati to Biswanath Charali,Orient Transline,A/C Seater (2+1),11:30,16:40,05h 10m,INR 476.19,27 Seats available,4.2
+233,Guwahati to Biswanath Charali,Orient Transline,NON A/C Seater (2+1),12:15,19:30,07h 15m,INR 380.95,27 Seats available,3.9
+234,Guwahati to Biswanath Charali,Orient Transline,A/C Seater (2+1),13:00,19:10,06h 10m,INR 476.19,31 Seats available,3.7
+235,Guwahati to Biswanath Charali,Mahi Travels(Under ASTC),A/C Seater (2+2),14:15,19:30,05h 15m,454,42 Seats available,4.6
+236,Guwahati to Biswanath Charali,Mahalaxmi Travels,Tata A/C Seater (2+2),14:35,20:00,05h 25m,INR 410,39 Seats available,4.5
+237,Guwahati to Biswanath Charali,Yatra Travels,NON AC Seater/ Sleeper (2+1),18:00,01:30,07h 30m,450,44 Seats available,4.0
+238,Guwahati to Biswanath Charali,PARIJAT TRAVELS(UNDER ASTC),NON A/C Seater (2+1),19:35,02:00,06h 25m,INR 500,24 Seats available,3.8
+239,Guwahati to Biswanath Charali,Yatra Travels,NON AC Seater/ Sleeper (2+1),20:00,01:00,05h 00m,450,41 Seats available,3.4
+240,Guwahati to Biswanath Charali,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),20:15,02:00,05h 45m,INR 500,26 Seats available,3.9
+241,Guwahati to Biswanath Charali,Pranjit Travels (Under ASTC),A/C Seater / Sleeper (2+1),20:45,03:30,06h 45m,INR 550,37 Seats available,3.3
+242,Guwahati to Biswanath Charali,Maharathi Travels(UNDER ASTC),NON A/C Seater (2+1),20:55,03:30,06h 35m,400,34 Seats available,4.1
+243,Guwahati to Biswanath Charali,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),21:15,03:00,05h 45m,INR 500,24 Seats available,4.2
+244,Guwahati to Biswanath Charali,Pranjit Travels (Under ASTC),Bharat Benz A/C Seater (2+1),21:30,03:45,06h 15m,INR 550,27 Seats available,4.1
+245,Guwahati to Biswanath Charali,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),21:45,03:00,05h 15m,INR 500,35 Seats available,3.9
+246,Guwahati to Biswanath Charali,PANKAJ TRAVELS,AC Seater (2+2),05:30,10:50,05h 20m,428,25 Seats available,No rating
+247,Guwahati to Biswanath Charali,KIRAN TRAVELS,A/C Seater (2+1),07:05,12:30,05h 25m,432,16 Seats available,2.9
+248,Guwahati to Biswanath Charali,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),10:30,17:00,06h 30m,427,25 Seats available,2.9
+249,Guwahati to Biswanath Charali,DESTINY TRAVELS,NON A/C Seater (2+1),18:45,00:24,29h 39m,448,24 Seats available,No rating
+250,Guwahati to Biswanath Charali,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),20:00,02:00,06h 00m,INR 550,30 Seats available,1.9
+251,Guwahati to Biswanath Charali,NORTH EAST TRAVELS(UNDER ASTC),NON A/C Seater (2+1),20:15,02:30,06h 15m,INR 500,26 Seats available,2.2
+252,Guwahati to Haflong,NETWORK TRAVELS,NON A/C Seater (2+1),18:30,07:00,12h 30m,INR 700,19 Seats available,4.5
+253,Guwahati to Haflong,Deep Travels,Non AC Seater (2+1),19:30,06:30,11h 00m,INR 650,23 Seats available,3.6
+254,Guwahati to Haflong,Deep Travels,Non AC Seater (2+1),07:30,17:00,09h 30m,INR 650,30 Seats available,3.6
+255,Dibrugarh to North Lakhimpur,Maa Jagadamba,NON A/C Seater (2+3),15:40,19:30,03h 50m,INR 250,39 Seats available,3.7
+256,Dibrugarh to North Lakhimpur,Maa Jagadamba,A/C Seater Push Back (2+2),16:15,19:30,03h 15m,INR 260,41 Seats available,3.7
+257,Dibrugarh to North Lakhimpur,BARBIE TRAVELS,NON A/C Hi-Tech Push Back (2+2),11:10,15:30,04h 20m,INR 240,40 Seats available,No rating
+258,Dibrugarh to North Lakhimpur,PANKAJ TRAVELS,NON A/C Hi-Tech Push Back (2+2),12:30,17:10,04h 40m,INR 240,40 Seats available,No rating
+259,Dibrugarh to North Lakhimpur,BARBIE TRAVELS,NON A/C Hi-Tech Push Back (2+2),13:30,18:30,05h 00m,INR 240,40 Seats available,No rating
+260,Dibrugarh to North Lakhimpur,BARBIE TRAVELS,NON A/C Hi-Tech Push Back (2+2),15:30,19:30,04h 00m,INR 240,40 Seats available,No rating
+261,Dibrugarh to North Lakhimpur,Air Bus Travels,NON AC Seater / Sleeper 2+1,19:40,01:00,05h 20m,INR 400,36 Seats available,2.4
+262,Dibrugarh to North Lakhimpur,Air Bus Travels,NON AC Seater / Sleeper 2+1,21:15,02:00,04h 45m,INR 400,46 Seats available,2.3
+263,Nagaon (Assam) to Haflong,Deep Travels,Non AC Seater (2+1),10:00,17:00,07h 00m,INR 400,30 Seats available,2.0
+264,Tezpur to Moran,Assam State Transport Corporation (ASTC) - 96880,A/C Seater (2+1),08:00,14:45,06h 45m,INR 405,10 Seats available,3.9
+265,Tezpur to Moran,Aniruddha Travels,AC Seater (2+2),07:50,15:00,07h 10m,500,21 Seats available,3.9
+266,Tezpur to Moran,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),19:45,03:00,07h 15m,INR 520,46 Seats available,2.8
+267,Tezpur to Moran,Neha Travels,NON A/C Seater (2+2),22:40,04:00,05h 20m,INR 650,35 Seats available,1.9
+268,Tezpur to Moran,MOON TRAVELS,AC Seater (2+2),07:15,14:15,07h 00m,475,22 Seats available,3.0
+269,Tezpur to Moran,Maa Laxmi,NON A/C Seater Push Back (2+1),23:00,05:00,06h 00m,INR 500,34 Seats available,2.7
+270,Tezpur to Moran,Neha Travels,NON A/C Seater (2+2),22:40,06:00,07h 20m,INR 650,33 Seats available,1.9
+271,Dibrugarh to Jorhat,Assam State Transport Corporation (ASTC) - 166134,Bharat Benz A/C Seater (2+2),10:30,15:30,05h 00m,INR 207,20 Seats available,3.7
+272,Dibrugarh to Jorhat,Bashudev Transline (Under ASTC),A/C Seater (2+1),06:45,10:30,03h 45m,INR 550,16 Seats available,4.0
+273,Dibrugarh to Jorhat,Aroti Travels (Under ASTC),Non AC Seater (2+2),06:51,10:00,03h 09m,INR 250,21 Seats available,3.5
+274,Dibrugarh to Jorhat,SHIVAM TRAVELS,Bharat Benz A/C Seater (2+1),07:30,11:15,03h 45m,532,13 Seats available,4.9
+275,Dibrugarh to Jorhat,RAYAN TRAVELS,Bharat Benz A/C Seater (2+1),07:30,10:45,03h 15m,INR 600,17 Seats available,4.0
+276,Dibrugarh to Jorhat,Chartered Bus - ASTC,A/C Seater Push Back (2+2),08:00,11:00,03h 00m,INR 647.8,18 Seats available,4.5
+277,Dibrugarh to Jorhat,Basudev Transline,A/C Seater (2+2),15:15,19:40,04h 25m,284,30 Seats available,4.0
+278,Dibrugarh to Jorhat,Trishul Transport Service,A/C Seater / Sleeper (2+1),19:15,22:55,03h 40m,509,37 Seats available,3.6
+279,Dibrugarh to Jorhat,Baikuntha Transport Service,Bharat Benz A/C Seater /Sleeper (2+1),19:30,23:15,03h 45m,450,50 Seats available,3.7
+280,Dibrugarh to Jorhat,Purple Wings Coaches,A/C Seater / Sleeper (2+1),19:55,00:00,04h 05m,540,35 Seats available,3.4
+281,Dibrugarh to Jorhat,Aniruddha Travels,AC Seater (2+2),07:30,11:10,03h 40m,450,11 Seats available,2.7
+282,Dibrugarh to Jorhat,Christina Travels,NON A/C Seater (2+2),08:20,11:15,02h 55m,650,32 Seats available,2.8
+283,Dibrugarh to Jorhat,NEELAKANTHA (RIYA),Tempo Traveler NON A/C,15:45,20:00,04h 15m,INR 250,18 Seats available,No rating
+284,Dibrugarh to Jorhat,Maa Laxmi,NON A/C Seater Push Back (2+1),18:15,21:30,03h 15m,INR 500,36 Seats available,2.7
+285,Dibrugarh to Jorhat,Murugan RC Travels,NON A/C Seater (2+1),18:55,23:00,04h 05m,338,34 Seats available,2.6
+286,Dibrugarh to Jorhat,Aniruddha Travels,AC Seater (2+2),20:00,23:25,03h 25m,INR 500,44 Seats available,2.7
+287,Guwahati to Silchar,Assam State Transport Corporation (ASTC) - 146022,NON A/C Seater Push Back (2+1),17:45,05:30,11h 45m,INR 547,30 Seats available,3.8
+288,Guwahati to Silchar,Jagannath Travels and Tours Pvt. Ltd.,NON A/C Seater Push Back (2+1),07:00,17:30,10h 30m,INR 700,26 Seats available,2.4
+289,Guwahati to Silchar,JAYSIKA,NON A/C Seater (2+1),18:30,06:00,11h 30m,INR 650,35 Seats available,2.0
+290,Guwahati to Silchar,Deep Travels,Non AC Seater (2+1),19:00,05:30,10h 30m,INR 650,35 Seats available,3.2
+291,Guwahati to Silchar,SEEMA TRAVELS,NON AC Seater / Sleeper 2+1,19:00,05:00,10h 00m,INR 650,46 Seats available,2.1
+292,Guwahati to Silchar,Arhans Tour And Travels,NON AC Seater / Sleeper 2+1,19:30,05:00,09h 30m,INR 650,48 Seats available,2.1
+293,Haflong to Nagaon (Assam),Assam State Transport Corporation (ASTC) - 154175,NON A/C Seater Push Back (2+1),07:00,12:30,05h 30m,INR 358,9 Seats available,4.4
+294,North Lakhimpur to Tezpur,Assam State Transport Corporation (ASTC) - 170878,Bharat Benz A/C Seater (2+2),07:00,10:35,03h 35m,INR 333,14 Seats available,4.3
+295,North Lakhimpur to Tezpur,Karisma (Aziba),NON A/C Seater (2+1),05:35,10:00,04h 25m,INR 400,15 Seats available,3.9
+296,North Lakhimpur to Tezpur,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),05:45,10:55,05h 10m,INR 500,35 Seats available,3.3
+297,North Lakhimpur to Tezpur,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),06:30,10:30,04h 00m,INR 450,30 Seats available,3.3
+298,North Lakhimpur to Tezpur,Chartered Bus - ASTC,A/C Seater Push Back (2+2),07:45,11:30,03h 45m,INR 541.16,13 Seats available,4.5
+299,North Lakhimpur to Tezpur,KRISHNA CHARAN TRAVELS,A/C Seater Push Back (2+2),12:00,16:30,04h 30m,INR 450,40 Seats available,3.8
+300,North Lakhimpur to Tezpur,Sparrow Travels (Under ASTC),Non AC Seater (2+2),12:30,18:45,06h 15m,INR 350,40 Seats available,3.0
+301,North Lakhimpur to Tezpur,Mahadev K.P.,Tata A/C Seater (2+2),05:00,10:15,05h 15m,INR 460,41 Seats available,2.0
+302,North Lakhimpur to Tezpur,Mahadev K.P.,Tata A/C Seater (2+2),05:20,10:30,05h 10m,INR 460,41 Seats available,2.0
+303,North Lakhimpur to Tezpur,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),07:15,11:30,04h 15m,INR 450,29 Seats available,2.9
+304,North Lakhimpur to Tezpur,BARBIE TRAVELS,A/C Seater Push Back (2+2),07:25,13:10,05h 45m,INR 400,33 Seats available,No rating
+305,North Lakhimpur to Tezpur,PANKAJ TRAVELS,A/C Seater (2+1),08:30,13:00,04h 30m,523,21 Seats available,No rating
+306,North Lakhimpur to Tezpur,Ruma Travels (Under ASTC),Non AC Seater (2+2),08:30,15:30,07h 00m,INR 350,41 Seats available,1.0
+307,North Lakhimpur to Tezpur,Debarath,A/C Seater Hi-Tech Push Back (2+2),10:00,15:45,05h 45m,INR 460,40 Seats available,1.7
+308,North Lakhimpur to Tezpur,B.M. Travels (Swastidut) - Under ASTC,Non AC Seater (2+2),10:30,16:20,05h 50m,INR 350,41 Seats available,2.4
+309,North Lakhimpur to Tezpur,Mayur Travels (Under ASTC),Non AC Seater (2+2),12:15,18:00,05h 45m,INR 350,43 Seats available,No rating
+310,North Lakhimpur to Tezpur,DESTINY TRAVELS,NON A/C Seater (2+1),19:55,23:45,27h 50m,409,34 Seats available,No rating
+311,Biswanath Charali to Guwahati,Assam State Transport Corporation (ASTC) - 174830,Bharat Benz A/C Seater (2+2),08:15,14:00,05h 45m,INR 412,9 Seats available,4.2
+312,Biswanath Charali to Guwahati,Assam State Transport Corporation (ASTC) - 170878,Bharat Benz A/C Seater (2+2),09:45,15:15,05h 30m,INR 412,15 Seats available,4.5
+313,Biswanath Charali to Guwahati,Pranjit Travels (Under ASTC),Bharat Benz A/C Seater (2+1),00:30,06:15,05h 45m,INR 610,8 Seats available,3.8
+314,Biswanath Charali to Guwahati,PARIJAT TRAVELS(UNDER ASTC),NON A/C Seater (2+1),00:30,06:30,06h 00m,INR 500,9 Seats available,3.8
+315,Biswanath Charali to Guwahati,Pranjit Travels (Under ASTC),A/C Seater / Sleeper (2+1),00:45,06:00,05h 15m,INR 550,9 Seats available,3.8
+316,Biswanath Charali to Guwahati,Kanchan Travels,AC Seater (2+2),04:15,08:45,04h 30m,422,22 Seats available,4.1
+317,Biswanath Charali to Guwahati,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),05:00,09:35,04h 35m,403,11 Seats available,4.2
+318,Biswanath Charali to Guwahati,Orient Transline,A/C Seater (2+1),05:20,10:25,05h 05m,INR 476.19,21 Seats available,3.6
+319,Biswanath Charali to Guwahati,Orient Transline,A/C Seater (2+1),06:10,10:55,04h 45m,INR 476.19,15 Seats available,4.4
+320,Biswanath Charali to Guwahati,Mahi Travels(Under ASTC),A/C Seater (2+2),06:30,11:30,05h 00m,454,21 Seats available,4.5
+321,Biswanath Charali to Guwahati,Mahalaxmi Travels,Tata A/C Seater (2+2),08:10,14:00,05h 50m,INR 410,30 Seats available,3.0
+322,Biswanath Charali to Guwahati,Karisma (Aziba),NON A/C Seater (2+1),08:45,14:10,05h 25m,INR 450,13 Seats available,3.4
+323,Biswanath Charali to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),09:00,15:00,06h 00m,INR 500,33 Seats available,3.9
+324,Biswanath Charali to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),09:45,15:45,06h 00m,INR 500,30 Seats available,3.7
+325,Biswanath Charali to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),10:45,16:45,06h 00m,INR 500,23 Seats available,3.5
+326,Biswanath Charali to Guwahati,Yatra Travels,NON A/C Seater (2+1),10:45,17:00,06h 15m,450,7 Seats available,4.5
+327,Biswanath Charali to Guwahati,Chartered Bus - ASTC,A/C Seater Push Back (2+2),11:00,16:15,05h 15m,INR 594.48,12 Seats available,4.6
+328,Biswanath Charali to Guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),21:30,03:45,06h 15m,INR 550,23 Seats available,3.8
+329,Biswanath Charali to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),23:15,05:30,06h 15m,INR 500,29 Seats available,3.8
+330,Biswanath Charali to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),23:45,05:30,05h 45m,INR 500,13 Seats available,3.8
+331,Biswanath Charali to Guwahati,MAA Anada (UNDER ASTC),AC Seater (2+2),04:00,08:30,04h 30m,INR 427,33 Seats available,2.8
+332,Biswanath Charali to Guwahati,BARBIE TRAVELS,A/C Seater Push Back (2+2),11:30,17:50,06h 20m,INR 450,32 Seats available,No rating
+333,Biswanath Charali to Guwahati,PANKAJ TRAVELS,A/C Seater (2+1),12:00,17:00,05h 00m,570,17 Seats available,No rating
+334,Biswanath Charali to Guwahati,DESTINY TRAVELS,NON A/C Seater (2+1),18:00,03:45,09h 45m,428,34 Seats available,No rating
+335,Biswanath Charali to Guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),20:00,03:30,07h 30m,INR 450,25 Seats available,2.1
+336,Biswanath Charali to Dibrugarh,Air Bus Travels,NON AC Seater / Sleeper 2+1,18:30,02:00,07h 30m,INR 500,45 Seats available,3.3
+337,Tinsukia to Jorhat,Assam State Transport Corporation (ASTC) - 139496,NON A/C Seater Push Back (2+1),08:25,13:30,05h 05m,INR 245,19 Seats available,3.4
+338,Tinsukia to Jorhat,Assam State Transport Corporation (ASTC) - 166134,Bharat Benz A/C Seater (2+2),09:00,15:30,06h 30m,INR 281,20 Seats available,3.7
+339,Tinsukia to Jorhat,Aroti Travels (Under ASTC),Non AC Seater (2+2),05:45,10:00,04h 15m,INR 350,21 Seats available,4.1
+340,Tinsukia to Jorhat,Aniruddha Travels,AC Seater (2+2),06:00,11:10,05h 10m,450,10 Seats available,3.6
+341,Tinsukia to Jorhat,Chartered Bus - ASTC,A/C Seater Push Back (2+2),06:45,11:00,04h 15m,INR 755.58,18 Seats available,4.4
+342,Tinsukia to Jorhat,MADHURIKA TRAVELS,A/C Seater (2+1),07:15,12:30,05h 15m,601,11 Seats available,4.8
+343,Tinsukia to Jorhat,NETWORK TRAVELS,Non A/C Seater / Sleeper (2+1),17:00,23:00,06h 00m,350,31 Seats available,4.2
+344,Tinsukia to Jorhat,Aniruddha Travels,AC Seater (2+2),18:30,23:25,04h 55m,INR 500,44 Seats available,3.7
+345,Tinsukia to Jorhat,NETWORK TRAVELS,NON A/C Seater Push Back (2+1),19:00,00:30,05h 30m,300,35 Seats available,4.5
+346,Tinsukia to Jorhat,Christina Travels,NON A/C Seater (2+2),07:00,11:15,04h 15m,650,32 Seats available,2.8
+347,Tinsukia to Jorhat,Maa Laxmi,NON A/C Seater Push Back (2+1),16:30,21:30,05h 00m,INR 400,36 Seats available,2.1
+348,Tinsukia to Jorhat,Purple Wings Coaches,A/C Seater / Sleeper (2+1),18:30,00:00,05h 30m,567,31 Seats available,2.7
+349,Moran to Tezpur,Assam State Transport Corporation (ASTC) - 163953,NON A/C Seater Push Back (2+1),09:30,16:00,06h 30m,INR 349,12 Seats available,3.7
+350,Moran to Tezpur,Aniruddha Travels,AC Seater (2+2),08:25,15:35,07h 10m,500,8 Seats available,4.3
+351,Moran to Tezpur,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),21:00,04:00,07h 00m,INR 550,47 Seats available,3.7
+352,Moran to Tezpur,Aniruddha Travels,AC Seater (2+2),21:00,04:10,07h 10m,INR 650,44 Seats available,3.8
+353,Moran to Tezpur,Maa Laxmi,NON A/C Seater Push Back (2+1),19:00,02:00,07h 00m,INR 500,25 Seats available,2.7
+354,Moran to Tezpur,MOON TRAVELS,AC Seater (2+2),10:30,17:00,06h 30m,523,32 Seats available,2.5
+355,Moran to Tezpur,Neha Travels,NON A/C Seater (2+2),18:00,03:15,09h 15m,INR 650,33 Seats available,2.4
+356,Dibrugarh to Biswanath Charali,Air Bus Travels,NON AC Seater / Sleeper 2+1,19:40,05:00,09h 20m,INR 500,30 Seats available,3.9
+357,Gohpur to Guwahati,Assam State Transport Corporation (ASTC) - 174830,Bharat Benz A/C Seater (2+2),07:00,14:00,07h 00m,INR 503,8 Seats available,3.9
+358,Gohpur to Guwahati,Assam State Transport Corporation (ASTC) - 170878,Bharat Benz A/C Seater (2+2),08:30,15:15,06h 45m,INR 503,12 Seats available,4.1
+359,Gohpur to Guwahati,Yatra Travels,NON A/C Seater (2+1),09:00,17:00,08h 00m,450,7 Seats available,4.4
+360,Gohpur to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),08:00,15:00,07h 00m,INR 570,33 Seats available,4.3
+361,Gohpur to Guwahati,KIRAN TRAVELS,A/C Seater (2+1),22:50,07:30,08h 40m,INR 600,13 Seats available,4.6
+362,Gohpur to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),08:25,15:45,07h 20m,INR 570,30 Seats available,4.5
+363,Gohpur to Guwahati,Chartered Bus - ASTC,A/C Seater Push Back (2+2),09:30,16:15,06h 45m,INR 647.8,12 Seats available,4.5
+364,Gohpur to Guwahati,Pranjit Travels (Under ASTC),A/C Seater / Sleeper (2+1),23:05,06:00,06h 55m,INR 620,33 Seats available,4.6
+365,Gohpur to Guwahati,Yatra Travels,NON AC Seater/ Sleeper (2+1),22:20,06:00,07h 40m,450,17 Seats available,4.4
+366,Gohpur to Guwahati,DESTINY TRAVELS,NON A/C Seater (2+1),21:40,03:45,06h 05m,475,34 Seats available,No rating
+367,Gohpur to Guwahati,BARBIE TRAVELS,A/C Seater Push Back (2+2),10:20,17:50,07h 30m,INR 500,32 Seats available,No rating
+368,Gohpur to Guwahati,PANKAJ TRAVELS,A/C Seater (2+1),10:40,17:00,06h 20m,570,19 Seats available,No rating
+369,Gohpur to Guwahati,Pranjit Travels (Under ASTC),Bharat Benz A/C Seater (2+1),22:45,06:15,07h 30m,INR 650,10 Seats available,3.9
+370,Gohpur to Guwahati,Deep Travels,NON AC Seater / Sleeper 2+1,22:20,05:00,06h 40m,INR 499,11 Seats available,4.0
+371,Gohpur to Guwahati,Yatra Travels,NON A/C Seater (2+1),22:35,06:15,07h 40m,450,9 Seats available,4.0
+372,Gohpur to Guwahati,PARIJAT TRAVELS(UNDER ASTC),NON A/C Seater (2+1),23:11,06:30,07h 19m,INR 500,22 Seats available,3.2
+373,Gohpur to Guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),20:15,03:45,07h 30m,INR 550,25 Seats available,3.7
+374,Gohpur to Guwahati,Drishti Travels,NON A/C Seater (2+1),21:00,05:30,08h 30m,432,32 Seats available,3.0
+375,Gohpur to Guwahati,MAHARATHI TRANSPORT,NON A/C Semi Sleeper (2+1),22:00,05:00,07h 00m,400,21 Seats available,4.6
+376,Gohpur to Guwahati,GURUNANAK TRAVELS,NON A/C Seater (2+1),21:00,05:00,08h 00m,INR 500,32 Seats available,3.1
+377,Gohpur to Guwahati,Drishti Travels,NON A/C Seater (2+1),21:00,05:30,08h 30m,432,32 Seats available,2.7
+378,Gohpur to Guwahati,Island Travels (Under ASTC),Non AC Seater (2+1),22:30,06:00,07h 30m,450,30 Seats available,2.5
+379,Gohpur to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),22:15,05:30,07h 15m,INR 570,25 Seats available,4.1
+380,Gohpur to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),09:20,16:45,07h 25m,INR 570,32 Seats available,4.1
+381,Gohpur to Guwahati,NORTH EAST TRAVELS(UNDER ASTC),NON A/C Seater (2+1),20:00,06:00,10h 00m,INR 500,26 Seats available,3.2
+382,Gohpur to Guwahati,Karisma (Aziba),NON A/C Seater (2+1),07:40,14:10,06h 30m,INR 480,13 Seats available,4.4
+383,Gohpur to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),21:45,05:30,07h 45m,INR 570,36 Seats available,4.1
+384,Gohpur to Guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),19:30,03:30,08h 00m,INR 530,31 Seats available,3.7
+385,Gohpur to Guwahati,Sylvan DEE Transport,Non AC Seater (2+1),20:45,05:00,08h 15m,INR 470,2 Seats available,3.3
+386,Tinsukia to Tezpur,Assam State Transport Corporation (ASTC) - 163953,NON A/C Seater Push Back (2+1),07:00,16:00,09h 00m,INR 466,12 Seats available,3.6
+387,Tinsukia to Tezpur,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),18:30,04:00,09h 30m,INR 550,27 Seats available,3.3
+388,Tinsukia to Tezpur,Puja Transport,NON AC Seater / Sleeper 2+1,18:30,05:00,10h 30m,INR 600,14 Seats available,3.6
+389,Tinsukia to Tezpur,Aniruddha Travels,AC Seater (2+2),06:00,15:35,09h 35m,500,8 Seats available,3.9
+390,Tinsukia to Tezpur,J.S. Travels,Non AC Seater (2+1),17:30,04:00,10h 30m,INR 550,32 Seats available,3.1
+391,Tinsukia to Tezpur,Puja Transport,Non AC Seater (2+2),17:30,04:00,10h 30m,INR 600,33 Seats available,3.1
+392,Tinsukia to Tezpur,Neha Travels,NON A/C Seater (2+2),15:00,03:15,12h 15m,INR 650,35 Seats available,1.9
+393,Tinsukia to Tezpur,Aniruddha Travels,AC Seater (2+2),18:30,04:10,09h 40m,INR 650,44 Seats available,3.6
+394,Tinsukia to Tezpur,Maa Laxmi,NON A/C Seater Push Back (2+1),16:30,02:00,09h 30m,INR 550,24 Seats available,2.7
+395,Tinsukia to Tezpur,MOON TRAVELS,AC Seater (2+2),07:45,17:00,09h 15m,618,32 Seats available,2.3
+396,Silchar to Guwahati,Deep Travels,Non AC Seater (2+1),19:00,06:30,11h 30m,INR 650,34 Seats available,2.9
+397,Silchar to Guwahati,Jagannath Travels and Tours Pvt. Ltd.,NON A/C Seater Push Back (2+1),18:30,05:05,10h 35m,INR 650,32 Seats available,2.6
+398,Silchar to Guwahati,JAYSIKA,NON A/C Seater (2+1),16:30,04:30,12h 00m,INR 650,29 Seats available,2.5
+399,Silchar to Guwahati,RAYAN TRAVELS,NON A/C Seater (2+1),18:30,06:00,11h 30m,INR 650,32 Seats available,2.9
+400,Silchar to Guwahati,NETWORK TRAVELS,NON A/C Seater Push Back (2+1),17:30,05:30,12h 00m,INR 550,31 Seats available,2.9
+401,Silchar to Guwahati,Capital Tours India Pvt. Ltd.,Non AC Seater (2+2),22:00,09:00,11h 00m,INR 650,39 Seats available,2.5
+402,Silchar to Guwahati,SEEMA TRAVELS,A/C Seater (2+2),17:30,05:00,11h 30m,INR 750,40 Seats available,2.7
+403,Bokakhat to Dibrugarh,Assam State Transport Corporation (ASTC) - 139495,NON A/C Seater Push Back (2+1),07:30,14:00,06h 30m,INR 273,11 Seats available,3.6
+404,Bokakhat to Dibrugarh,Purple Wings Coaches,A/C Seater / Sleeper (2+1),00:00,04:30,04h 30m,567,16 Seats available,3.4
+405,Bokakhat to Dibrugarh,Slumber 37,Bharat Benz A/C Sleeper (2+1),01:00,06:00,05h 00m,638,47 Seats available,4.1
+406,Bokakhat to Dibrugarh,Baikuntha Transport Service,Bharat Benz A/C Sleeper (2+1),02:00,07:15,05h 15m,494,19 Seats available,3.3
+407,Bokakhat to Dibrugarh,MOON TRAVELS,AC Seater (2+2),09:45,15:20,05h 35m,523,34 Seats available,3.1
+408,Bokakhat to Dibrugarh,Aniruddha Travels,AC Seater (2+2),10:15,16:15,06h 00m,450,24 Seats available,4.0
+409,Bokakhat to Dibrugarh,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,12:30,17:15,04h 45m,INR 755.58,13 Seats available,4.7
+410,Bokakhat to Dibrugarh,Bashudev Transline (Under ASTC),A/C Seater (2+1),12:35,18:00,05h 25m,INR 550,17 Seats available,4.9
+411,Bokakhat to Dibrugarh,Christina Travels,NON A/C Seater (2+2),11:00,16:30,05h 30m,650,41 Seats available,2.9
+412,Bokakhat to Dibrugarh,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),23:15,04:00,04h 45m,INR 550,20 Seats available,2.9
+413,Bokakhat to Dibrugarh,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),23:30,04:00,04h 30m,INR 500,44 Seats available,2.7
+414,North Lakhimpur to Moran,Assam State Transport Corporation (ASTC) - 173044,Non AC Seater (2+2),13:00,15:30,02h 30m,INR 170,21 Seats available,3.3
+415,Tezpur to North Lakhimpur,Assam State Transport Corporation (ASTC) - 173419,Bharat Benz A/C Seater (2+2),10:50,15:00,04h 10m,INR 334,26 Seats available,1.8
+416,Tezpur to North Lakhimpur,KRISHNA CHARAN TRAVELS,A/C Seater Push Back (2+2),05:30,11:00,05h 30m,INR 450,40 Seats available,3.8
+417,Tezpur to North Lakhimpur,Sparrow Travels (Under ASTC),Non AC Seater (2+2),06:30,12:00,05h 30m,INR 350,40 Seats available,3.4
+418,Tezpur to North Lakhimpur,Chartered Bus - ASTC,A/C Seater Push Back (2+2),11:00,15:00,04h 00m,INR 541.16,15 Seats available,4.5
+419,Tezpur to North Lakhimpur,KIRAN TRAVELS,A/C Seater (2+1),11:30,17:05,05h 35m,432,17 Seats available,3.3
+420,Tezpur to North Lakhimpur,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),13:10,18:30,05h 20m,INR 500,32 Seats available,4.0
+421,Tezpur to North Lakhimpur,Pranjit Travels (Under ASTC),A/C Seater (2+1),14:00,18:30,04h 30m,INR 600,36 Seats available,3.6
+422,Tezpur to North Lakhimpur,Mayur Travels (Under ASTC),Non AC Seater (2+2),05:45,11:30,05h 45m,INR 350,43 Seats available,No rating
+423,Tezpur to North Lakhimpur,Ruma Travels (Under ASTC),Non AC Seater (2+2),09:00,14:40,05h 40m,INR 350,41 Seats available,1.0
+424,Tezpur to North Lakhimpur,PANKAJ TRAVELS,AC Seater (2+2),10:00,15:35,05h 35m,380,25 Seats available,No rating
+425,Tezpur to North Lakhimpur,Karisma (Aziba),NON A/C Seater (2+1),10:40,15:00,04h 20m,INR 400,22 Seats available,No rating
+426,Tezpur to North Lakhimpur,Mahadev K.P.,Tata A/C Seater (2+2),11:00,18:15,07h 15m,INR 460,41 Seats available,2.0
+427,Tezpur to North Lakhimpur,Mahadev K.P.,Tata A/C Seater (2+2),11:30,18:30,07h 00m,INR 460,41 Seats available,2.0
+428,Tezpur to North Lakhimpur,DESTINY TRAVELS,NON A/C Seater (2+1),23:30,03:45,04h 15m,428,32 Seats available,No rating
+429,Tezpur to North Lakhimpur,NETWORK TRAVELS,Bharat Benz A/C Seater /Sleeper (2+1),22:00,04:30,06h 30m,INR 712.5,46 Seats available,3.7
+430,Tezpur to Tinsukia,Assam State Transport Corporation (ASTC) - 96880,A/C Seater (2+1),08:00,17:45,09h 45m,INR 540,9 Seats available,3.6
+431,Tezpur to Tinsukia,Aniruddha Travels,AC Seater (2+2),07:50,17:30,09h 40m,500,9 Seats available,3.2
+432,Tezpur to Tinsukia,Puja Transport,Non AC Seater (2+2),20:00,06:00,10h 00m,INR 550,25 Seats available,3.6
+433,Tezpur to Tinsukia,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),20:00,04:45,08h 45m,INR 550,15 Seats available,3.3
+434,Tezpur to Tinsukia,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),19:45,05:00,09h 15m,INR 500,43 Seats available,3.1
+435,Tezpur to Tinsukia,Puja Transport,NON AC Seater / Sleeper 2+1,20:00,05:30,09h 30m,INR 600,10 Seats available,2.4
+436,Tezpur to Tinsukia,J.S. Travels,Non AC Seater (2+1),21:00,06:30,09h 30m,INR 550,14 Seats available,2.0
+437,Tezpur to Tinsukia,Maa Laxmi,NON A/C Seater Push Back (2+1),23:00,08:00,09h 00m,INR 550,31 Seats available,2.4
+438,Tezpur to Tinsukia,Neha Travels,NON A/C Seater (2+2),22:40,08:00,09h 20m,INR 650,32 Seats available,1.4
+439,Tezpur to Tinsukia,Neha Travels,NON A/C Seater (2+2),22:40,05:30,06h 50m,INR 650,31 Seats available,1.1
+440,Tezpur to Tinsukia,MOON TRAVELS,AC Seater (2+2),07:15,16:50,09h 35m,618,15 Seats available,3.5
+441,Dibrugarh to Bihpuria,Assam State Transport Corporation (ASTC) - 147556,Bharat Benz A/C Seater (2+2),12:30,16:45,04h 15m,INR 292.6,35 Seats available,4.5
+442,Dibrugarh to Bokakhat,Assam State Transport Corporation (ASTC) - 139496,NON A/C Seater Push Back (2+1),09:30,16:30,07h 00m,INR 273,15 Seats available,3.5
+443,Dibrugarh to Bokakhat,Bashudev Transline (Under ASTC),A/C Seater (2+1),06:45,11:50,05h 05m,INR 550,15 Seats available,4.5
+444,Dibrugarh to Bokakhat,SHIVAM TRAVELS,Bharat Benz A/C Seater (2+1),07:30,12:30,05h 00m,555,20 Seats available,4.6
+445,Dibrugarh to Bokakhat,Aniruddha Travels,AC Seater (2+2),07:30,14:00,06h 30m,450,9 Seats available,3.6
+446,Dibrugarh to Bokakhat,Baikuntha Transport Service,Bharat Benz A/C Sleeper (2+1),19:30,01:00,05h 30m,540,50 Seats available,3.9
+447,Dibrugarh to Bokakhat,Purple Wings Coaches,A/C Seater / Sleeper (2+1),19:55,01:00,05h 05m,585,35 Seats available,3.4
+448,Dibrugarh to Bokakhat,Shree Ram Travels (Under ASTC),Bharat Benz A/C Seater (2+1),20:00,01:00,05h 00m,500,27 Seats available,4.8
+449,Dibrugarh to Bokakhat,Shree Ram Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:45,01:40,04h 55m,530,24 Seats available,4.8
+450,Dibrugarh to Bokakhat,Christina Travels,NON A/C Seater (2+2),08:20,12:15,03h 55m,650,32 Seats available,2.8
+451,Dibrugarh to Bokakhat,Maa Laxmi,NON A/C Seater Push Back (2+1),18:15,22:30,04h 15m,INR 500,34 Seats available,2.7

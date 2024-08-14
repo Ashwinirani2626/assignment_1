@@ -1,0 +1,371 @@
+,route-collected,name,type,departure_time,arrival_time,duration,price,seats_available,rating
+0,Patna (Bihar) to Bettiah,Bihar state road transport corporation (BSRTC) - 142944,Non AC Seater (2+2),06:00,11:00,05h 00m,INR 285,24 Seats available,3.8
+1,Patna (Bihar) to Bettiah,Bihar state road transport corporation (BSRTC) - 147264,AC Seater (2+2),06:30,12:35,06h 05m,INR 331,21 Seats available,3.2
+2,Patna (Bihar) to Bettiah,Bihar state road transport corporation (BSRTC) - 146158,Non AC Seater (2+2),09:00,15:00,06h 00m,INR 285,33 Seats available,2.8
+3,Patna (Bihar) to Bettiah,Om Sai Ram (C.T),A/C Seater / Sleeper (2+2),08:10,15:00,06h 50m,INR 499,46 Seats available,3.2
+4,Patna (Bihar) to Bettiah,Om Sai Ram (C.T),A/C Seater / Sleeper (2+2),08:20,16:00,07h 40m,INR 499,40 Seats available,3.2
+5,Patna (Bihar) to Bettiah,Om Sai Ram (C.T),NON A/C Seater (2+2),14:10,21:00,06h 50m,INR 500,28 Seats available,3.2
+6,Patna (Bihar) to Bettiah,Om Sai Ram (C.T),NON A/C Seater (2+2),14:50,21:50,07h 00m,INR 450,28 Seats available,3.2
+7,Patna (Bihar) to Bettiah,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),20:28,02:00,05h 32m,463,6 Seats available,3.2
+8,Patna (Bihar) to Bettiah,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:20,05:00,06h 40m,523,54 Seats available,3.7
+9,Patna (Bihar) to Bettiah,Saurabh Travels,A/C Seater Push Back (2+2),07:00,12:30,05h 30m,405,42 Seats available,No rating
+10,Patna (Bihar) to Bettiah,Saurabh Travels,A/C Seater Push Back (2+2),07:12,12:30,05h 18m,416,42 Seats available,No rating
+11,Patna (Bihar) to Bettiah,Saurabh Travels,A/C Seater Push Back (2+2),07:20,12:30,05h 10m,405,42 Seats available,No rating
+12,Patna (Bihar) to Bettiah,Saurabh Travels,A/C Seater Push Back (2+2),07:25,12:45,05h 20m,405,42 Seats available,No rating
+13,Patna (Bihar) to Bettiah,Saurabh Travels,A/C Seater Push Back (2+2),07:32,12:50,05h 18m,405,42 Seats available,No rating
+14,Patna (Bihar) to Bettiah,Saurabh Travels,A/C Seater Push Back (2+2),07:37,13:00,05h 23m,416,42 Seats available,No rating
+15,Patna (Bihar) to Bettiah,Saurabh Travels,A/C Seater Push Back (2+2),08:12,13:30,05h 18m,416,42 Seats available,No rating
+16,Patna (Bihar) to Bettiah,Saurabh Travels,A/C Seater Push Back (2+2),08:41,13:50,05h 09m,416,42 Seats available,No rating
+17,Patna (Bihar) to Bettiah,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),09:30,16:00,06h 30m,475,60 Seats available,2.2
+18,Patna (Bihar) to Bettiah,Vivek Travels,A/C Seater (2+2),13:25,20:25,07h 00m,INR 450,45 Seats available,No rating
+19,Patna (Bihar) to Bettiah,Vivek Travels,A/C Seater / Sleeper (2+2),13:30,20:30,07h 00m,INR 400,72 Seats available,No rating
+20,Patna (Bihar) to Bettiah,V.I.P Travels,A/C Seater / Sleeper (2+2),21:40,03:40,06h 00m,INR 445,53 Seats available,2.7
+21,Patna (Bihar) to Bettiah,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),22:40,04:00,05h 20m,416,28 Seats available,2.6
+22,Gopalganj (Bihar) to Delhi,ROYAL TRAVELS AND CARGO,A/C Seater / Sleeper (2+2),17:30,08:30,15h 00m,INR 1496,21 Seats available,2.3
+23,Gopalganj (Bihar) to Delhi,Travel Point World LLP,A/C Seater / Sleeper (2+2),20:20,10:50,14h 30m,1899,26 Seats available,1.9
+24,Gopalganj (Bihar) to Delhi,Singh Express Bus Service,A/C Seater / Sleeper (2+2),15:00,10:00,19h 00m,INR 1299,14 Seats available,1.0
+25,Gopalganj (Bihar) to Delhi,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),19:00,11:49,16h 49m,INR 1699,27 Seats available,1.6
+26,Gopalganj (Bihar) to Delhi,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+2),20:00,14:30,18h 30m,INR 1899,72 Seats available,1.2
+27,Gopalganj (Bihar) to Delhi,New Travel India,A/C Seater / Sleeper (2+1),17:30,09:00,15h 30m,INR 1999,16 Seats available,1.3
+28,Gopalganj (Bihar) to Delhi,New Travel India,A/C Seater / Sleeper (2+1),18:15,08:00,13h 45m,INR 1999,14 Seats available,1.3
+29,Gopalganj (Bihar) to Delhi,New Travel India,A/C Seater / Sleeper (2+1),18:15,08:10,13h 55m,INR 1999,30 Seats available,1.3
+30,Gopalganj (Bihar) to Delhi,New Travel India,A/C Seater / Sleeper (2+1),17:35,08:30,14h 55m,INR 1999,14 Seats available,1.3
+31,Gopalganj (Bihar) to Delhi,New Travel India,A/C Seater / Sleeper (2+1),17:40,08:30,14h 50m,INR 1999,14 Seats available,1.3
+32,Gopalganj (Bihar) to Delhi,New Travel India,A/C Seater / Sleeper (2+1),18:05,08:00,13h 55m,INR 1999,14 Seats available,1.3
+33,Gopalganj (Bihar) to Delhi,JSK Travels,A/C Seater/Sleeper (2+1),16:00,13:00,21h 00m,INR 4500,28 Seats available,No rating
+34,Patna (Bihar) to Motihari,Bihar state road transport corporation (BSRTC) - 142944,Non AC Seater (2+2),06:00,10:30,04h 30m,INR 230,22 Seats available,3.9
+35,Patna (Bihar) to Motihari,Bihar state road transport corporation (BSRTC) - 147264,AC Seater (2+2),06:30,10:30,04h 00m,INR 275,21 Seats available,3.5
+36,Patna (Bihar) to Motihari,Bihar state road transport corporation (BSRTC) - 146158,Non AC Seater (2+2),09:00,13:00,04h 00m,INR 230,33 Seats available,1.9
+37,Patna (Bihar) to Motihari,Bihar state road transport corporation (BSRTC) - 150571,Non AC Seater (2+2),21:20,01:00,03h 40m,INR 230,33 Seats available,3.6
+38,Patna (Bihar) to Motihari,V.I.P Travels,NON A/C Seater Push Back (2+2),07:30,12:30,05h 00m,INR 230,38 Seats available,2.7
+39,Patna (Bihar) to Motihari,Saurabh Travels,A/C Seater Push Back (2+2),10:30,14:00,03h 30m,324,42 Seats available,No rating
+40,Patna (Bihar) to Motihari,Siddhi Vinayak (BSRTC U/T),Non AC Seater (2+2),12:15,16:15,04h 00m,INR 220,35 Seats available,1.5
+41,Patna (Bihar) to Motihari,Ramna Travels,NON A/C Seater (2+2),12:45,16:00,03h 15m,INR 240,8 Seats available,No rating
+42,Patna (Bihar) to Motihari,Siddhi Vinayak (BSRTC U/T),Non AC Seater (2+2),15:30,19:30,04h 00m,INR 220,35 Seats available,1.5
+43,Patna (Bihar) to Motihari,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),09:30,14:00,04h 30m,428,60 Seats available,3.2
+44,Patna (Bihar) to Motihari,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:00,04:00,06h 00m,523,54 Seats available,4.5
+45,Patna (Bihar) to Motihari,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:20,03:15,04h 55m,523,54 Seats available,3.6
+46,Patna (Bihar) to Motihari,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),13:53,19:20,05h 27m,370,12 Seats available,1.9
+47,Patna (Bihar) to Motihari,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),20:28,23:30,03h 02m,463,6 Seats available,1.2
+48,Delhi to Motihari,Bihar state road transport corporation (BSRTC) - 152185,Volvo AC Seater 2+2,14:00,08:30,18h 30m,1283,22 Seats available,3.7
+49,Delhi to Motihari,Bihar state road transport corporation (BSRTC) - 117806,Volvo AC Seater 2+2,17:00,10:00,17h 00m,INR 1350,46 Seats available,3.7
+50,Delhi to Motihari,Rajdhani Express,A/C Seater / Sleeper (2+2),15:50,10:00,18h 10m,INR 1999,28 Seats available,1.1
+51,Delhi to Motihari,Travel Point World LLP,A/C Seater / Sleeper (2+2),14:30,07:00,16h 30m,1804,46 Seats available,1.5
+52,Delhi to Motihari,Travel Point World LLP,A/C Seater / Sleeper (2+2),16:00,08:01,16h 01m,1804,46 Seats available,1.4
+53,Delhi to Motihari,New India Bus Service,A/C Seater / Sleeper (2+2),14:00,09:00,19h 00m,INR 1699,28 Seats available,1.0
+54,Bettiah to Patna (Bihar),Bihar state road transport corporation (BSRTC) - 146214,AC Seater (2+2),09:20,16:00,06h 40m,INR 331,23 Seats available,3.3
+55,Bettiah to Patna (Bihar),Bihar state road transport corporation (BSRTC) - 146159,Non AC Seater (2+2),14:30,19:30,05h 00m,INR 285,35 Seats available,2.7
+56,Bettiah to Patna (Bihar),Bihar state road transport corporation (BSRTC) - 170674,Non AC Seater (2+2),20:30,02:00,05h 30m,INR 285,24 Seats available,2.3
+57,Bettiah to Patna (Bihar),Vivek Travels,A/C Seater (2+2),06:30,13:00,06h 30m,INR 400,45 Seats available,No rating
+58,Bettiah to Patna (Bihar),Vivek Travels,A/C Seater / Sleeper (2+2),06:45,13:46,07h 01m,INR 400,72 Seats available,No rating
+59,Bettiah to Patna (Bihar),Saurabh Travels,A/C Seater Push Back (2+2),09:13,16:00,06h 47m,416,42 Seats available,No rating
+60,Bettiah to Patna (Bihar),Jai Hanuman Travels,A/C Seater / Sleeper (2+2),09:55,16:50,06h 55m,475,54 Seats available,1.5
+61,Bettiah to Patna (Bihar),V.I.P Travels,A/C Seater / Sleeper (2+2),10:10,16:10,06h 00m,INR 445,60 Seats available,2.7
+62,Bettiah to Patna (Bihar),Vivek Travels,A/C Seater / Sleeper (2+1),13:15,20:30,07h 15m,INR 450,54 Seats available,No rating
+63,Bettiah to Patna (Bihar),Saurabh Travels,A/C Seater Push Back (2+2),15:00,08:45,17h 45m,416,42 Seats available,No rating
+64,Bettiah to Patna (Bihar),Saurabh Travels,A/C Seater Push Back (2+2),15:00,21:00,06h 00m,416,42 Seats available,No rating
+65,Bettiah to Patna (Bihar),Saurabh Travels,A/C Seater Push Back (2+2),15:15,21:20,06h 05m,416,42 Seats available,No rating
+66,Bettiah to Patna (Bihar),Saurabh Travels,A/C Seater Push Back (2+2),15:21,21:45,06h 24m,416,42 Seats available,No rating
+67,Bettiah to Patna (Bihar),Saurabh Travels,A/C Seater Push Back (2+2),15:30,22:15,06h 45m,416,42 Seats available,No rating
+68,Bettiah to Patna (Bihar),Saurabh Travels,A/C Seater Push Back (2+2),15:37,22:15,06h 38m,416,42 Seats available,No rating
+69,Bettiah to Patna (Bihar),Jai Hanuman Travels,A/C Seater / Sleeper (2+2),21:55,05:31,07h 36m,523,37 Seats available,2.3
+70,Bettiah to Patna (Bihar),Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),22:00,05:00,07h 00m,463,10 Seats available,2.2
+71,Motihari to Delhi,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),17:35,11:49,18h 14m,INR 1699,29 Seats available,1.7
+72,Motihari to Delhi,JSK Travels,A/C Seater/Sleeper (2+1),15:00,13:00,22h 00m,INR 4500,28 Seats available,No rating
+73,Patna (Bihar) to Balmiki Nagar (bihar),Bihar state road transport corporation (BSRTC) - 147264,AC Seater (2+2),06:30,15:30,09h 00m,INR 428,21 Seats available,3.9
+74,Patna (Bihar) to Balmiki Nagar (bihar),Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),20:28,06:00,09h 32m,463,6 Seats available,3.3
+75,Patna (Bihar) to Balmiki Nagar (bihar),Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),22:40,07:00,08h 20m,416,28 Seats available,3.0
+76,Balmiki Nagar (bihar) to Patna (Bihar),Bihar state road transport corporation (BSRTC) - 146214,AC Seater (2+2),06:00,16:00,10h 00m,INR 428,22 Seats available,3.7
+77,Balmiki Nagar (bihar) to Patna (Bihar),Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),18:30,05:00,10h 30m,463,10 Seats available,2.2
+78,Patna (Bihar) to Kathmandu,Bihar state road transport corporation (BSRTC) - 166033,A/C Seater Hi-Tech Push Back (2+2),13:30,06:15,16h 45m,INR 1015,36 Seats available,3.1
+79,Patna (Bihar) to Kathmandu,V.I.P Travels,A/C Seater Hi-Tech Push Back (2+2),13:15,05:30,16h 15m,1040,29 Seats available,2.7
+80,Patna (Bihar) to Katihar,Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,06:30,09h 05m,INR 468,34 Seats available,3.3
+81,Patna (Bihar) to Katihar,SOBHA TRAVELS (A.T),A/C Seater / Sleeper (2+1),20:40,05:00,08h 20m,540,26 Seats available,2.3
+82,Patna (Bihar) to Katihar,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:30,05:35,09h 05m,713,21 Seats available,1.8
+83,Patna (Bihar) to Purnea,Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,05:40,08h 15m,INR 468,34 Seats available,3.3
+84,Patna (Bihar) to Purnea,Aitiana Airwings,Benz A/C Sleeper (2+1),21:00,06:00,09h 00m,INR 650,20 Seats available,4.4
+85,Patna (Bihar) to Purnea,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:25,06:20,08h 55m,INR 500,33 Seats available,4.4
+86,Patna (Bihar) to Purnea,Divya Rath,A/C Sleeper (2+1),20:45,05:45,09h 00m,618,15 Seats available,4.1
+87,Patna (Bihar) to Purnea,AITIANA CRUISELINERS,A/C Seater / Sleeper (2+1),21:15,06:15,09h 00m,INR 500,9 Seats available,4.1
+88,Patna (Bihar) to Purnea,AITIANA CRUISELINERS,Bharat Benz A/C Seater /Sleeper (2+1),20:20,05:30,09h 10m,INR 500,19 Seats available,3.8
+89,Patna (Bihar) to Purnea,Sadhvi Rath,A/C Seater / Sleeper (2+1),20:20,06:20,10h 00m,495,48 Seats available,3.4
+90,Patna (Bihar) to Purnea,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),22:50,07:35,08h 45m,INR 500,18 Seats available,4.2
+91,Patna (Bihar) to Purnea,Hawa Hawai,A/C Seater / Sleeper (2+1),20:00,05:00,09h 00m,570,13 Seats available,4.0
+92,Patna (Bihar) to Purnea,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+1),20:25,05:15,08h 50m,INR 650,26 Seats available,3.6
+93,Patna (Bihar) to Purnea,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+2),20:30,05:20,08h 50m,INR 600,54 Seats available,2.5
+94,Patna (Bihar) to Purnea,Aarush Krrish,A/C Seater / Sleeper (2+1),21:00,06:00,09h 00m,540,46 Seats available,2.0
+95,Patna (Bihar) to Purnea,Raj Bus Services,Bharat Benz A/C Seater /Sleeper (2+1),18:25,03:35,09h 10m,450,13 Seats available,4.0
+96,Patna (Bihar) to Purnea,Raj Bus Services,A/C Seater / Sleeper (2+2),16:06,03:35,11h 29m,540,8 Seats available,4.0
+97,Patna (Bihar) to Purnea,Raj Bus Services,A/C Seater / Sleeper (2+1),16:55,03:05,10h 10m,463,17 Seats available,4.0
+98,Patna (Bihar) to Purnea,Raj Bus Services,Bharat Benz A/C Seater /Sleeper (2+1),20:35,05:35,09h 00m,450,14 Seats available,4.0
+99,Patna (Bihar) to Purnea,Shatabdi Travels,A/C Seater / Sleeper (2+1),22:00,07:00,09h 00m,INR 700,21 Seats available,4.0
+100,Patna (Bihar) to Purnea,MAA KAMAKHYA DREAMLINER,A/C Seater / Sleeper (2+1),20:40,05:00,08h 20m,495,30 Seats available,3.1
+101,Patna (Bihar) to Purnea,Meera Travels (Yvts),A/C Seater / Sleeper (2+1),20:30,05:30,09h 00m,540,37 Seats available,3.1
+102,Patna (Bihar) to Purnea,Maa Satyabhama Rath,A/C Seater / Sleeper (2+1),21:00,06:00,09h 00m,INR 600,26 Seats available,3.4
+103,Patna (Bihar) to Purnea,Shri Sai Krishna Luxury,A/C Seater / Sleeper (2+1),21:15,06:15,09h 00m,INR 600,44 Seats available,3.1
+104,Patna (Bihar) to Purnea,Shatabdi Travels,A/C Seater / Sleeper (2+1),20:20,05:20,09h 00m,INR 600,44 Seats available,2.5
+105,Patna (Bihar) to Purnea,Shivam Travels,NON A/C Seater / Sleeper (2+2),21:00,06:30,09h 30m,INR 450,40 Seats available,1.2
+106,Patna (Bihar) to Purnea,Sree Balaji Travels,A/C Seater / Sleeper (2+1),20:15,05:00,08h 45m,509,49 Seats available,2.7
+107,Patna (Bihar) to Purnea,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:30,05:45,09h 15m,475,24 Seats available,2.1
+108,Patna (Bihar) to Purnea,Jay Jagdambay Tour And Travels,A/C Seater / Sleeper (2+1),17:00,02:30,09h 30m,648,14 Seats available,1.9
+109,Patna (Bihar) to Hazaribagh,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),20:41,04:00,07h 19m,INR 396,16 Seats available,2.9
+110,Patna (Bihar) to Hazaribagh,Sri Sai ( Jharkhand Paryatak),A/C Seater / Sleeper (2+1),21:00,04:30,07h 30m,475,18 Seats available,4.3
+111,Patna (Bihar) to Hazaribagh,Bharat paryatan (patliputra services),A/C Semi Sleeper (2+2),21:00,02:18,05h 18m,INR 649,39 Seats available,4.0
+112,Patna (Bihar) to Hazaribagh,Rajshri Travels,Non A/C Seater / Sleeper (2+1),22:00,05:00,07h 00m,INR 429,33 Seats available,4.8
+113,Patna (Bihar) to Hazaribagh,Rajdhani bus service,Non A/C Seater / Sleeper (2+1),18:30,01:30,07h 00m,509,26 Seats available,3.5
+114,Patna (Bihar) to Hazaribagh,Rekha Luxury,A/C Seater / Sleeper (2+1),20:00,04:00,08h 00m,509,42 Seats available,3.5
+115,Patna (Bihar) to Hazaribagh,Arzoo Travels,A/C Seater / Sleeper (2+1),20:30,02:30,06h 00m,475,45 Seats available,3.7
+116,Patna (Bihar) to Hazaribagh,Sadhvi Rath,A/C Seater / Sleeper (2+1),20:40,02:40,06h 00m,540,48 Seats available,3.1
+117,Patna (Bihar) to Hazaribagh,Arzoo Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:45,03:30,06h 45m,494,42 Seats available,3.7
+118,Patna (Bihar) to Hazaribagh,Mahuli Travels,A/C Seater / Sleeper (2+1),21:15,04:00,06h 45m,495,41 Seats available,3.7
+119,Patna (Bihar) to Hazaribagh,MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),21:40,04:20,06h 40m,INR 600,48 Seats available,3.5
+120,Patna (Bihar) to Hazaribagh,Bhawani Travels,NON A/C Seater Push Back (2+2),13:25,21:15,07h 50m,INR 449,40 Seats available,No rating
+121,Patna (Bihar) to Hazaribagh,Maharani Transport,A/C Seater / Sleeper (2+2),16:15,02:00,09h 45m,555,6 Seats available,2.9
+122,Patna (Bihar) to Hazaribagh,Maharani Express,A/C Seater / Sleeper (2+2),18:00,01:45,07h 45m,585,14 Seats available,2.6
+123,Patna (Bihar) to Hazaribagh,Puja Rath,A/C Seater / Sleeper (2+1),21:00,03:30,06h 30m,555,45 Seats available,2.0
+124,Patna (Bihar) to Hazaribagh,KRISHNA RATH LUXURY,A/C Seater / Sleeper (2+1),21:00,03:00,06h 00m,INR 550,36 Seats available,1.3
+125,Patna (Bihar) to Hazaribagh,Sri Krishna Rath,A/C Seater / Sleeper (2+1),21:15,03:30,06h 15m,475,56 Seats available,1.7
+126,Patna (Bihar) to Hazaribagh,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:15,03:30,06h 15m,475,22 Seats available,1.7
+127,Patna (Bihar) to Hazaribagh,Chandralok Travels,A/C Seater / Sleeper (2+1),21:20,04:30,07h 10m,INR 600,47 Seats available,2.3
+128,Patna (Bihar) to Hazaribagh,Sri Krishna Rath,NON A/C Seater / Sleeper (2+2),22:35,06:00,07h 25m,INR 400,17 Seats available,1.7
+129,Patna (Bihar) to Hazaribagh,Divya Rath,A/C Sleeper (2+1),20:15,03:00,06h 45m,855,20 Seats available,4.1
+130,Patna (Bihar) to Hazaribagh,Arzoo Travels,A/C Sleeper (2+1),19:30,01:30,06h 00m,998,30 Seats available,3.7
+131,Patna (Bihar) to Hazaribagh,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),20:27,03:15,06h 48m,INR 800,39 Seats available,3.5
+132,Patna (Bihar) to Hazaribagh,Pappu Travels (yvts),A/C Seater/Sleeper (2+1),21:30,03:30,06h 00m,720,10 Seats available,3.0
+133,Patna (Bihar) to Hazaribagh,Tejas Maa Bhawani,A/C Sleeper (2+1),21:30,04:00,06h 30m,INR 800,2 Seats available,2.1
+134,Ranchi to Patna (Bihar),Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),20:55,05:30,08h 35m,INR 500,29 Seats available,3.4
+135,Ranchi to Patna (Bihar),Rekha Luxury,A/C Seater / Sleeper (2+1),20:30,06:00,09h 30m,509,9 Seats available,4.1
+136,Ranchi to Patna (Bihar),MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),21:00,06:35,09h 35m,INR 500,30 Seats available,3.8
+137,Ranchi to Patna (Bihar),VIJAY RATH,A/C Seater / Sleeper (2+1),22:00,06:10,08h 10m,648,27 Seats available,3.8
+138,Ranchi to Patna (Bihar),Divya Rath,A/C Sleeper (2+1),22:10,05:30,07h 20m,855,21 Seats available,3.6
+139,Ranchi to Patna (Bihar),Rajdhani bus service,A/C Sleeper (2+1),23:00,05:50,06h 50m,739,11 Seats available,3.9
+140,Ranchi to Patna (Bihar),Sadhvi Rath,A/C Seater / Sleeper (2+1),20:30,05:30,09h 00m,540,23 Seats available,2.6
+141,Ranchi to Patna (Bihar),Mahuli Travels,A/C Seater / Sleeper (2+1),21:15,06:15,09h 00m,495,41 Seats available,3.5
+142,Ranchi to Patna (Bihar),Chandralok Travels,A/C Seater / Sleeper (2+1),21:35,06:30,08h 55m,INR 499,48 Seats available,2.0
+143,Ranchi to Patna (Bihar),KRISHNA RATH LUXURY,A/C Seater / Sleeper (2+1),20:30,05:30,09h 00m,INR 550,41 Seats available,1.2
+144,Ranchi to Patna (Bihar),Rajdhani bus service,Non A/C Seater / Sleeper (2+1),21:40,05:00,07h 20m,555,23 Seats available,1.5
+145,Ranchi to Patna (Bihar),Sri Sai ( Jharkhand Paryatak),A/C Seater / Sleeper (2+1),21:15,06:00,08h 45m,475,9 Seats available,3.6
+146,Ranchi to Patna (Bihar),MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),22:20,06:40,08h 20m,INR 700,29 Seats available,4.6
+147,Ranchi to Patna (Bihar),Puja Rath,A/C Seater / Sleeper (2+1),20:30,05:30,09h 00m,555,20 Seats available,3.2
+148,Ranchi to Patna (Bihar),Arzoo Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:00,05:40,08h 40m,570,17 Seats available,2.8
+149,Ranchi to Patna (Bihar),Arzoo Travels,A/C Sleeper (2+1),21:30,06:00,08h 30m,950,26 Seats available,2.9
+150,Ranchi to Patna (Bihar),Maharani Express,A/C Seater / Sleeper (2+1),23:30,06:50,07h 20m,585,20 Seats available,2.8
+151,Ranchi to Patna (Bihar),JGD Travels Pvt Ltd.,Bharat Benz A/C Sleeper (2+1),20:35,04:00,07h 25m,950,25 Seats available,2.2
+152,Ranchi to Patna (Bihar),Pihu (yvts),A/C Seater / Sleeper (2+1),21:55,06:10,08h 15m,585,31 Seats available,2.4
+153,Ranchi to Patna (Bihar),Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),18:15,04:01,09h 46m,INR 800,10 Seats available,2.1
+154,Ranchi to Patna (Bihar),Arzoo Travels,A/C Seater / Sleeper (2+1),21:00,05:00,08h 00m,475,16 Seats available,1.4
+155,Ranchi to Patna (Bihar),Hawa Hawai,NON A/C Seater / Sleeper (2+2),06:00,16:30,10h 30m,570,85 Seats available,3.1
+156,Ranchi to Patna (Bihar),Maharani Transport,A/C Seater / Sleeper (2+2),21:30,07:00,09h 30m,648,6 Seats available,2.9
+157,Ranchi to Patna (Bihar),Pihu Enterprises Private Limited,A/C Seater / Sleeper (2+1),20:30,06:00,09h 30m,630,26 Seats available,2.8
+158,Ranchi to Patna (Bihar),Pihu Enterprises Private Limited,A/C Seater / Sleeper (2+1),22:10,08:10,10h 00m,675,6 Seats available,2.8
+159,Ranchi to Patna (Bihar),Pappu Travels (yvts),A/C Seater/Sleeper (2+1),16:45,02:40,09h 55m,720,8 Seats available,2.4
+160,Ranchi to Patna (Bihar),Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),19:15,04:30,09h 15m,925,4 Seats available,2.2
+161,Ranchi to Patna (Bihar),Tejas Maa Bhawani,A/C Sleeper (2+1),18:30,03:50,09h 20m,INR 700,8 Seats available,2.1
+162,Ranchi to Patna (Bihar),RAUSHAN TRAVELS AND HOSPITALITY,A/C Seater / Sleeper (2+2),19:30,04:00,08h 30m,INR 700,4 Seats available,1.7
+163,Ranchi to Patna (Bihar),Sri Krishna Rath,A/C Seater / Sleeper (2+2),22:30,06:30,08h 00m,570,13 Seats available,1.0
+164,Hazaribagh to Patna (Bihar),Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),23:15,05:30,06h 15m,INR 377,29 Seats available,3.6
+165,Hazaribagh to Patna (Bihar),Sri Sai ( Jharkhand Paryatak),A/C Seater / Sleeper (2+1),00:15,06:00,05h 45m,475,4 Seats available,3.8
+166,Hazaribagh to Patna (Bihar),MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),23:30,06:35,07h 05m,INR 500,32 Seats available,3.8
+167,Hazaribagh to Patna (Bihar),Arzoo Travels,A/C Seater / Sleeper (2+1),23:30,05:00,05h 30m,475,16 Seats available,3.7
+168,Hazaribagh to Patna (Bihar),Rekha Luxury,A/C Seater / Sleeper (2+1),23:35,06:00,06h 25m,509,9 Seats available,3.9
+169,Hazaribagh to Patna (Bihar),Rajdhani bus service,Non A/C Seater / Sleeper (2+1),23:45,05:00,05h 15m,509,23 Seats available,3.5
+170,Hazaribagh to Patna (Bihar),Rajdhani bus service,A/C Sleeper (2+1),23:59,05:50,05h 51m,648,27 Seats available,3.9
+171,Hazaribagh to Patna (Bihar),Maharani Express,A/C Seater / Sleeper (2+2),02:05,08:00,05h 55m,540,25 Seats available,2.6
+172,Hazaribagh to Patna (Bihar),Bhawani Travels,NON A/C Seater Push Back (2+2),06:00,13:00,07h 00m,INR 449,40 Seats available,No rating
+173,Hazaribagh to Patna (Bihar),Sadhvi Rath,A/C Seater / Sleeper (2+1),23:28,05:30,06h 02m,540,23 Seats available,1.0
+174,Hazaribagh to Patna (Bihar),Pihu Enterprises Private Limited,A/C Seater / Sleeper (2+1),23:35,06:00,06h 25m,630,29 Seats available,2.8
+175,Hazaribagh to Patna (Bihar),Mahuli Travels,A/C Seater / Sleeper (2+1),23:55,06:15,06h 20m,540,46 Seats available,2.2
+176,Hazaribagh to Patna (Bihar),MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),01:00,06:40,05h 40m,INR 900,33 Seats available,3.5
+177,Hazaribagh to Patna (Bihar),Pappu Travels (yvts),A/C Seater/Sleeper (2+1),20:00,02:40,06h 40m,720,8 Seats available,3.0
+178,Hazaribagh to Patna (Bihar),Arzoo Travels,A/C Sleeper (2+1),23:15,06:00,06h 45m,998,30 Seats available,3.7
+179,Hazaribagh to Patna (Bihar),Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),21:35,04:01,06h 26m,INR 800,10 Seats available,2.1
+180,Hazaribagh to Patna (Bihar),Tejas Maa Bhawani,A/C Sleeper (2+1),21:41,03:50,06h 09m,INR 700,8 Seats available,2.1
+181,Patna (Bihar) to Raxaul,Bihar state road transport corporation (BSRTC) - 150571,Non AC Seater (2+2),21:20,04:30,07h 10m,INR 293,33 Seats available,3.5
+182,Patna (Bihar) to Raxaul,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:00,05:00,07h 00m,523,49 Seats available,3.3
+183,Muzaffarpur (Bihar) to Kathmandu,Bihar state road transport corporation (BSRTC) - 166033,A/C Seater Hi-Tech Push Back (2+2),15:35,06:15,14h 40m,INR 855,36 Seats available,2.8
+184,Muzaffarpur (Bihar) to Kathmandu,V.I.P Travels,A/C Seater Hi-Tech Push Back (2+2),15:14,05:30,14h 16m,876,29 Seats available,2.7
+185,Patna (Bihar) to Ranchi,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),20:41,06:00,09h 19m,INR 525,16 Seats available,2.9
+186,Patna (Bihar) to Ranchi,Rekha Luxury,A/C Seater / Sleeper (2+1),20:00,06:00,10h 00m,509,28 Seats available,3.9
+187,Patna (Bihar) to Ranchi,Sri Sai ( Jharkhand Paryatak),A/C Seater / Sleeper (2+1),21:00,06:00,09h 00m,475,17 Seats available,3.7
+188,Patna (Bihar) to Ranchi,Sadhvi Rath,A/C Seater / Sleeper (2+1),20:40,05:40,09h 00m,540,42 Seats available,3.3
+189,Patna (Bihar) to Ranchi,Mahuli Travels,A/C Seater / Sleeper (2+1),21:15,06:00,08h 45m,495,40 Seats available,3.4
+190,Patna (Bihar) to Ranchi,Divya Rath,A/C Sleeper (2+1),20:15,04:30,08h 15m,855,14 Seats available,3.6
+191,Patna (Bihar) to Ranchi,VIJAY RATH,A/C Seater / Sleeper (2+1),19:16,04:45,09h 29m,665,24 Seats available,3.7
+192,Patna (Bihar) to Ranchi,Rajdhani bus service,A/C Sleeper (2+1),20:05,04:00,07h 55m,739,8 Seats available,3.6
+193,Patna (Bihar) to Ranchi,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),20:27,04:15,07h 48m,INR 800,21 Seats available,4.1
+194,Patna (Bihar) to Ranchi,Maharani Express,A/C Seater / Sleeper (2+2),18:00,03:45,09h 45m,585,10 Seats available,2.2
+195,Patna (Bihar) to Ranchi,Bharat paryatan (patliputra services),A/C Semi Sleeper (2+2),21:00,04:30,07h 30m,INR 649,41 Seats available,4.1
+196,Patna (Bihar) to Ranchi,Rajdhani bus service,Non A/C Seater / Sleeper (2+1),18:30,03:45,09h 15m,555,19 Seats available,3.5
+197,Patna (Bihar) to Ranchi,Chandralok Travels,A/C Seater / Sleeper (2+1),21:20,06:10,08h 50m,INR 600,46 Seats available,2.6
+198,Patna (Bihar) to Ranchi,Puja Rath,A/C Seater / Sleeper (2+1),21:00,05:40,08h 40m,555,45 Seats available,2.8
+199,Patna (Bihar) to Ranchi,Arzoo Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:45,05:30,08h 45m,494,42 Seats available,2.4
+200,Patna (Bihar) to Ranchi,Maa Bhawani Travels,A/C Seater / Sleeper (2+1),21:45,05:30,07h 45m,540,22 Seats available,2.6
+201,Patna (Bihar) to Ranchi,Pihu (yvts),A/C Seater / Sleeper (2+1),19:30,04:10,08h 40m,630,45 Seats available,3.0
+202,Patna (Bihar) to Ranchi,JGD Travels Pvt Ltd.,Bharat Benz A/C Sleeper (2+1),20:15,04:25,08h 10m,950,20 Seats available,2.4
+203,Patna (Bihar) to Ranchi,Arzoo Travels,A/C Seater / Sleeper (2+1),20:30,05:30,09h 00m,475,44 Seats available,1.9
+204,Patna (Bihar) to Ranchi,KRISHNA RATH LUXURY,A/C Seater / Sleeper (2+1),21:00,05:30,08h 30m,INR 550,36 Seats available,1.1
+205,Patna (Bihar) to Ranchi,Tejas Maa Bhawani,A/C Sleeper (2+1),21:30,06:00,08h 30m,INR 800,2 Seats available,1.9
+206,Patna (Bihar) to Ranchi,Sri Krishna Rath,NON A/C Seater / Sleeper (2+2),22:35,08:30,09h 55m,475,17 Seats available,1.0
+207,Patna (Bihar) to Ranchi,Arzoo Travels,A/C Sleeper (2+1),19:30,04:00,08h 30m,998,30 Seats available,1.6
+208,Patna (Bihar) to Ranchi,Yarana Travels,NON AC Seater / Sleeper 2+1,18:01,03:00,08h 59m,INR 550,9 Seats available,3.5
+209,Patna (Bihar) to Ranchi,MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),21:40,06:25,08h 45m,INR 600,45 Seats available,3.5
+210,Patna (Bihar) to Ranchi,Hawa Hawai,NON A/C Seater / Sleeper (2+2),07:30,18:00,10h 30m,570,85 Seats available,3.1
+211,Patna (Bihar) to Ranchi,Pappu Travels (yvts),A/C Seater/Sleeper (2+1),21:30,06:00,08h 30m,720,10 Seats available,3.0
+212,Patna (Bihar) to Ranchi,Maharani Transport,A/C Seater / Sleeper (2+2),16:15,04:00,11h 45m,601,6 Seats available,2.9
+213,Patna (Bihar) to Ranchi,Pihu Enterprises Private Limited,A/C Seater / Sleeper (2+1),19:30,05:30,10h 00m,630,42 Seats available,2.8
+214,Patna (Bihar) to Ranchi,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),21:30,06:00,08h 30m,694,40 Seats available,2.2
+215,Patna (Bihar) to Ranchi,RAUSHAN TRAVELS AND HOSPITALITY,A/C Seater / Sleeper (2+2),20:45,05:30,08h 45m,INR 700,2 Seats available,1.7
+216,Patna (Bihar) to Ranchi,Sri Krishna Rath,A/C Seater / Sleeper (2+1),21:15,04:30,07h 15m,475,20 Seats available,1.4
+217,Patna (Bihar) to Ranchi,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:15,04:30,07h 15m,475,24 Seats available,1.4
+218,Muzaffarpur (Bihar) to Ranchi,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),18:00,06:00,12h 00m,INR 605,16 Seats available,3.5
+219,Muzaffarpur (Bihar) to Ranchi,Pawapuri Motors,A/C Seater / Sleeper (2+1),17:30,05:45,12h 15m,INR 800,12 Seats available,2.7
+220,Muzaffarpur (Bihar) to Ranchi,JGD Travels Pvt Ltd.,Bharat Benz A/C Sleeper (2+1),18:10,04:25,10h 15m,950,20 Seats available,3.0
+221,Muzaffarpur (Bihar) to Ranchi,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),19:15,06:00,10h 45m,648,29 Seats available,2.6
+222,Muzaffarpur (Bihar) to Ranchi,Jai Mata Di Tour and Travels,AC Seater (2+2),17:45,04:45,11h 00m,694,7 Seats available,2.7
+223,Muzaffarpur (Bihar) to Ranchi,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),18:00,04:30,10h 30m,648,17 Seats available,2.3
+224,Muzaffarpur (Bihar) to Ranchi,Tejas Maa Bhawani,AC Sleeper (2+1),18:45,06:00,11h 15m,INR 900,5 Seats available,2.9
+225,Muzaffarpur (Bihar) to Ranchi,Tejas Maa Bhawani,A/C Sleeper (2+1),18:55,06:00,11h 05m,INR 800,2 Seats available,2.9
+226,Kathmandu to Patna (Bihar),Bihar state road transport corporation (BSRTC) - 165505,A/C Seater Hi-Tech Push Back (2+2),17:45,13:00,19h 15m,INR 1015,1 Seat available,3.7
+227,Kathmandu to Patna (Bihar),V.I.P Travels,A/C Seater Hi-Tech Push Back (2+2),18:30,12:30,18h 00m,1040,43 Seats available,2.7
+228,Ranchi to Muzaffarpur (Bihar),Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),20:55,07:30,10h 35m,INR 605,29 Seats available,2.9
+229,Ranchi to Muzaffarpur (Bihar),JGD Travels Pvt Ltd.,Bharat Benz A/C Sleeper (2+1),20:35,06:15,09h 40m,950,25 Seats available,3.7
+230,Ranchi to Muzaffarpur (Bihar),Pawapuri Motors,A/C Seater / Sleeper (2+1),18:25,07:00,12h 35m,INR 950,5 Seats available,3.4
+231,Ranchi to Muzaffarpur (Bihar),Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),19:15,06:30,11h 15m,648,4 Seats available,2.9
+232,Ranchi to Muzaffarpur (Bihar),Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),18:15,05:30,11h 15m,INR 800,10 Seats available,2.0
+233,Ranchi to Muzaffarpur (Bihar),Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),18:45,04:15,09h 30m,925,4 Seats available,1.1
+234,Ranchi to Muzaffarpur (Bihar),Tejas Maa Bhawani,A/C Sleeper (2+1),18:30,05:15,10h 45m,INR 800,8 Seats available,2.4
+235,Ranchi to Muzaffarpur (Bihar),Pawapuri Motors,A/C Seater / Sleeper (2+1),17:00,05:45,12h 45m,INR 900,9 Seats available,2.2
+236,Ranchi to Muzaffarpur (Bihar),Jai Mata Di Tour and Travels,AC Seater (2+2),20:00,05:00,09h 00m,1018,4 Seats available,2.0
+237,Ranchi to Muzaffarpur (Bihar),Sri Krishna Rath,A/C Seater / Sleeper (2+2),22:30,08:30,10h 00m,903,13 Seats available,1.2
+238,Motihari to Lucknow,MISHRA BANDHU BUS SERVICE,A/C Seater / Sleeper (2+1),16:55,04:14,11h 19m,INR 1399,5 Seats available,3.2
+239,Motihari to Lucknow,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),17:35,03:00,09h 25m,INR 1699,30 Seats available,1.7
+240,Motihari to Lucknow,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),15:00,01:00,10h 00m,INR 1799,44 Seats available,1.2
+241,Lucknow to Motihari,Bihar state road transport corporation (BSRTC) - 117804,Volvo A/C Sleeper (2+1),02:20,09:30,07h 10m,INR 1050,1 Seat available,3.5
+242,Lucknow to Motihari,Bihar state road transport corporation (BSRTC) - 152185,Volvo AC Seater 2+2,23:00,08:30,09h 30m,760,22 Seats available,3.5
+243,Lucknow to Motihari,MISHRA BANDHU BUS SERVICE,A/C Seater / Sleeper (2+1),21:30,07:30,10h 00m,INR 1299,25 Seats available,2.7
+244,Lucknow to Motihari,Panwar Travels,A/C Sleeper (2+1),01:20,17:30,16h 10m,INR 1800,1 Seat available,4.3
+245,Lucknow to Motihari,Panwar Travels,A/C Seater / Sleeper (2+1),21:30,07:20,09h 50m,INR 2800,29 Seats available,4.3
+246,Lucknow to Motihari,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),23:30,09:00,09h 30m,INR 1799,45 Seats available,1.2
+247,Motihari to Kathmandu,Bihar state road transport corporation (BSRTC) - 166033,A/C Seater Hi-Tech Push Back (2+2),17:10,06:15,13h 05m,INR 685,36 Seats available,3.0
+248,Motihari to Kathmandu,V.I.P Travels,A/C Seater Hi-Tech Push Back (2+2),16:15,05:30,13h 15m,700,29 Seats available,3.3
+249,Agra to Motihari,Panwar Travels,A/C Sleeper (2+1),21:45,17:30,19h 45m,INR 2500,27 Seats available,2.8
+250,Agra to Motihari,Shree Balajee Travels And Cargo,NON A/C Seater/ Sleeper (2+1),21:30,15:30,0-6h 00m,INR 1500,29 Seats available,1.2
+251,Agra to Motihari,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),18:00,09:00,15h 00m,INR 1799,46 Seats available,1.2
+252,Patna (Bihar) to Janakpur (Nepal),Bihar state road transport corporation (BSRTC) - 171326,Non AC Seater (2+2),21:55,06:30,08h 35m,INR 275,33 Seats available,3.0
+253,Patna (Bihar) to Janakpur (Nepal),V.I.P Travels,A/C Seater Hi-Tech Push Back (2+2),21:30,07:00,09h 30m,INR 375,33 Seats available,2.7
+254,Muzaffarpur (Bihar) to Hazaribagh,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),18:00,04:00,10h 00m,INR 484,18 Seats available,4.0
+255,Muzaffarpur (Bihar) to Hazaribagh,Pawapuri Motors,A/C Seater / Sleeper (2+1),17:30,03:00,09h 30m,INR 750,14 Seats available,2.3
+256,Muzaffarpur (Bihar) to Hazaribagh,Tejas Maa Bhawani,AC Sleeper (2+1),18:45,03:25,08h 40m,INR 900,6 Seats available,2.1
+257,Muzaffarpur (Bihar) to Hazaribagh,Tejas Maa Bhawani,A/C Sleeper (2+1),18:55,04:00,09h 05m,INR 800,2 Seats available,2.1
+258,Purnea to Patna (Bihar),Bihar state road transport corporation (BSRTC) - 156563,AC Seater (2+2),19:00,04:00,09h 00m,INR 468,30 Seats available,4.5
+259,Purnea to Patna (Bihar),AITIANA CRUISELINERS,A/C Seater / Sleeper (2+1),21:00,06:00,09h 00m,INR 600,2 Seats available,4.0
+260,Purnea to Patna (Bihar),Aitiana Airwings,Benz A/C Sleeper (2+1),21:00,05:00,08h 00m,INR 650,6 Seats available,3.9
+261,Purnea to Patna (Bihar),Divya Rath,A/C Sleeper (2+1),20:30,05:30,09h 00m,618,6 Seats available,4.2
+262,Purnea to Patna (Bihar),AITIANA CRUISELINERS,Bharat Benz A/C Seater /Sleeper (2+1),20:15,05:15,09h 00m,INR 500,13 Seats available,3.9
+263,Purnea to Patna (Bihar),Raj Bus Services,A/C Seater / Sleeper (2+1),13:35,20:35,07h 00m,463,12 Seats available,2.9
+264,Purnea to Patna (Bihar),Sadhvi Rath,A/C Seater / Sleeper (2+1),19:36,05:36,10h 00m,468,10 Seats available,3.4
+265,Purnea to Patna (Bihar),Aarush Krrish,A/C Seater / Sleeper (2+1),21:00,05:30,08h 30m,540,40 Seats available,2.1
+266,Purnea to Patna (Bihar),Shatabdi Travels,A/C Seater / Sleeper (2+1),20:15,05:15,09h 00m,INR 700,48 Seats available,2.0
+267,Purnea to Patna (Bihar),Maa Satyabhama Rath,A/C Seater / Sleeper (2+1),21:00,06:00,09h 00m,INR 600,22 Seats available,3.6
+268,Purnea to Patna (Bihar),Shatabdi Travels,A/C Seater / Sleeper (2+1),19:30,04:30,09h 00m,INR 600,27 Seats available,3.7
+269,Purnea to Patna (Bihar),Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+2),21:00,05:20,08h 20m,INR 599,15 Seats available,3.2
+270,Purnea to Patna (Bihar),Aitiana Travels,NON A/C Seater / Sleeper (2+2),20:00,06:00,10h 00m,INR 300,12 Seats available,3.2
+271,Purnea to Patna (Bihar),Raj Bus Services,A/C Seater / Sleeper (2+2),22:45,07:45,09h 00m,463,8 Seats available,2.9
+272,Purnea to Patna (Bihar),Hawa Hawai,A/C Seater / Sleeper (2+1),20:30,05:30,09h 00m,570,6 Seats available,3.7
+273,Purnea to Patna (Bihar),Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:00,04:15,07h 15m,INR 449,20 Seats available,2.0
+274,Purnea to Patna (Bihar),Vivek Travels (yvts),A/C Seater/Sleeper (2+1),22:00,05:20,07h 20m,630,16 Seats available,2.8
+275,Purnea to Patna (Bihar),Meera Travels (Yvts),A/C Seater / Sleeper (2+1),20:15,06:15,10h 00m,540,4 Seats available,1.8
+276,Purnea to Patna (Bihar),Shivam Travels,NON A/C Seater / Sleeper (2+2),20:30,05:00,08h 30m,INR 450,43 Seats available,1.2
+277,Purnea to Patna (Bihar),Shree Sai Krishna Luxury,A/C Seater / Sleeper (2+1),20:00,05:00,09h 00m,INR 600,15 Seats available,3.2
+278,Purnea to Patna (Bihar),Sree Balaji Travels,A/C Seater / Sleeper (2+1),19:30,04:30,09h 00m,509,49 Seats available,2.7
+279,Purnea to Patna (Bihar),Sameer Travels (GT),A/C Seater / Sleeper (2+2),23:40,06:30,06h 50m,INR 550,26 Seats available,2.6
+280,Purnea to Patna (Bihar),Jay Jagdambay Tour And Travels,A/C Seater / Sleeper (2+1),23:20,07:00,07h 40m,648,4 Seats available,1.9
+281,Patna (Bihar) to Araria (Bihar),Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,04:35,07h 10m,INR 468,34 Seats available,2.0
+282,Patna (Bihar) to Araria (Bihar),MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:25,05:30,08h 05m,INR 500,33 Seats available,4.5
+283,Patna (Bihar) to Araria (Bihar),Divya Rath,A/C Sleeper (2+1),20:45,04:45,08h 00m,618,24 Seats available,4.4
+284,Patna (Bihar) to Araria (Bihar),AITIANA CRUISELINERS,A/C Seater / Sleeper (2+1),21:15,05:30,08h 15m,INR 500,9 Seats available,4.1
+285,Patna (Bihar) to Araria (Bihar),Sadhvi Rath,A/C Seater / Sleeper (2+1),20:20,05:10,08h 50m,495,48 Seats available,3.5
+286,Patna (Bihar) to Araria (Bihar),AITIANA CRUISELINERS,Bharat Benz A/C Seater /Sleeper (2+1),20:20,04:30,08h 10m,INR 500,19 Seats available,3.4
+287,Patna (Bihar) to Araria (Bihar),Hawa Hawai,A/C Seater / Sleeper (2+1),20:00,04:00,08h 00m,523,13 Seats available,3.7
+288,Patna (Bihar) to Araria (Bihar),Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+2),20:30,04:55,08h 25m,INR 600,54 Seats available,3.2
+289,Patna (Bihar) to Araria (Bihar),Maa Satyabhama Rath,A/C Seater / Sleeper (2+1),21:00,05:30,08h 30m,INR 600,32 Seats available,3.2
+290,Patna (Bihar) to Araria (Bihar),Shatabdi Travels,A/C Seater / Sleeper (2+1),22:00,06:00,08h 00m,INR 700,21 Seats available,3.6
+291,Patna (Bihar) to Araria (Bihar),Shri Sai Krishna Luxury,A/C Seater / Sleeper (2+1),21:15,05:45,08h 30m,INR 600,51 Seats available,3.2
+292,Patna (Bihar) to Araria (Bihar),Shatabdi Travels,A/C Seater / Sleeper (2+1),20:20,04:20,08h 00m,INR 600,44 Seats available,2.5
+293,Patna (Bihar) to Araria (Bihar),MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),22:50,06:26,07h 36m,INR 500,20 Seats available,3.3
+294,Patna (Bihar) to Araria (Bihar),Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:30,05:20,08h 50m,475,22 Seats available,2.0
+295,Darbhanga to Patna (Bihar),Bihar state road transport corporation (BSRTC) - 150470,AC Seater (2+2),07:00,11:00,04h 00m,INR 248,43 Seats available,1.9
+296,Darbhanga to Patna (Bihar),Bihar state road transport corporation (BSRTC) - 150466,Non AC Seater (2+3),07:20,11:20,04h 00m,INR 193,53 Seats available,2.0
+297,Darbhanga to Patna (Bihar),Bihar state road transport corporation (BSRTC) - 150464,Non AC Seater (2+2),17:40,21:40,04h 00m,INR 213,41 Seats available,2.0
+298,Darbhanga to Patna (Bihar),Sri Krishna Tours and Travels,A/C Seater Push Back (2+2),04:55,09:20,04h 25m,INR 330,14 Seats available,3.1
+299,Darbhanga to Patna (Bihar),Sri Krishna Tours and Travels,A/C Seater Push Back (2+2),16:30,20:00,03h 30m,INR 330,14 Seats available,3.1
+300,Darbhanga to Patna (Bihar),Sadhvi Rath,A/C Seater / Sleeper (2+1),00:36,05:36,05h 00m,468,35 Seats available,2.3
+301,Darbhanga to Patna (Bihar),Sri Krishna Rath,A/C Seater / Sleeper (2+2),03:45,06:15,02h 30m,INR 449,16 Seats available,2.3
+302,Darbhanga to Patna (Bihar),V.I.P Travels,Tata A/C Seater (2+2),04:45,08:30,03h 45m,INR 250,38 Seats available,1.9
+303,Darbhanga to Patna (Bihar),V.I.P Travels,Tata A/C Seater (2+2),05:20,09:30,04h 10m,INR 250,38 Seats available,1.9
+304,Darbhanga to Patna (Bihar),V.I.P Travels,NON A/C Seater Push Back (2+2),05:30,09:30,04h 00m,INR 220,38 Seats available,1.9
+305,Darbhanga to Patna (Bihar),Shiv Ganga Travels,NON A/C Seater Push Back (2+2),06:08,10:00,03h 52m,INR 300,24 Seats available,2.1
+306,Darbhanga to Patna (Bihar),Shiv Ganga Travels,AC Seater (2+2),07:46,11:30,03h 44m,INR 330,24 Seats available,2.1
+307,Darbhanga to Patna (Bihar),Shiv Ganga Travels,AC Seater (2+2),10:46,14:30,03h 44m,INR 330,45 Seats available,2.1
+308,Darbhanga to Patna (Bihar),Shiv Ganga Travels,A/C Seater (2+2),11:13,15:00,03h 47m,INR 330,28 Seats available,2.1
+309,Darbhanga to Patna (Bihar),Sri Krishna Tours and Travels,A/C Seater Push Back (2+2),12:20,16:00,03h 40m,INR 350,16 Seats available,2.7
+310,Darbhanga to Patna (Bihar),Sri Krishna Tours and Travels,A/C Seater Push Back (2+2),13:30,17:15,03h 45m,INR 330,2 Seats available,2.8
+311,Darbhanga to Patna (Bihar),Shiv Ganga Travels,A/C Seater (2+2),14:06,17:40,03h 34m,INR 330,28 Seats available,2.1
+312,Darbhanga to Patna (Bihar),Sri Krishna Tours and Travels,A/C Seater Push Back (2+2),17:00,20:55,03h 55m,INR 330,8 Seats available,2.9
+313,Darbhanga to Patna (Bihar),Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+1),01:00,06:00,05h 00m,INR 650,13 Seats available,2.9
+314,Darbhanga to Patna (Bihar),Aarush Krrish,A/C Seater / Sleeper (2+1),01:00,05:30,04h 30m,540,48 Seats available,1.9
+315,Darbhanga to Patna (Bihar),Rukmanti (AT),A/C Seater / Sleeper (2+1),23:59,05:00,05h 01m,522,18 Seats available,1.6
+316,Patna (Bihar) to Saharsa,Bihar state road transport corporation (BSRTC) - 152896,Non AC Seater (2+2),21:59,06:00,08h 01m,INR 400,8 Seats available,2.4
+317,Patna (Bihar) to Saharsa,Rukmanti (AT),A/C Seater / Sleeper (2+1),20:00,05:00,09h 00m,523,38 Seats available,2.1
+318,Patna (Bihar) to Saharsa,Tiwari Motors,A/C Seater / Sleeper (2+1),20:00,05:05,09h 05m,INR 449,28 Seats available,2.5
+319,Patna (Bihar) to Saharsa,Raj Rath,A/C Seater / Sleeper (2+2),21:00,06:00,09h 00m,INR 425,24 Seats available,2.4
+320,Patna (Bihar) to Saharsa,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:30,04:00,07h 30m,665,22 Seats available,1.7
+321,Motihari to Agra,Panwar Travels,A/C Sleeper (2+1),15:40,06:15,14h 35m,INR 2500,36 Seats available,2.8
+322,Motihari to Agra,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),17:35,07:30,13h 55m,INR 1699,30 Seats available,1.7
+323,Motihari to Agra,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),15:00,06:43,15h 43m,INR 1799,47 Seats available,1.2
+324,Motihari to Agra,Travel Point World LLP,A/C Seater / Sleeper (2+2),18:20,06:50,12h 30m,1899,38 Seats available,1.5
+325,Hajipur (Bihar) to Kathmandu,Bihar state road transport corporation (BSRTC) - 166033,A/C Seater Hi-Tech Push Back (2+2),14:30,06:15,15h 45m,INR 1015,38 Seats available,2.2
+326,Kathmandu to Motihari,Bihar state road transport corporation (BSRTC) - 165505,A/C Seater Hi-Tech Push Back (2+2),17:45,08:00,14h 15m,INR 685,4 Seats available,3.7
+327,Kathmandu to Motihari,V.I.P Travels,A/C Seater Hi-Tech Push Back (2+2),18:30,07:30,13h 00m,700,43 Seats available,2.7
+328,Patna (Bihar) to Forbesganj,Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,04:00,06h 35m,INR 450,34 Seats available,3.4
+329,Patna (Bihar) to Forbesganj,Divya Rath,A/C Sleeper (2+1),20:45,03:45,07h 00m,618,28 Seats available,5.0
+330,Patna (Bihar) to Forbesganj,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:25,04:25,07h 00m,INR 500,35 Seats available,4.4
+331,Patna (Bihar) to Forbesganj,Raj Bus Services,Bharat Benz A/C Seater /Sleeper (2+1),20:35,04:05,07h 30m,463,15 Seats available,3.4
+332,Patna (Bihar) to Forbesganj,Raj Bus Services,A/C Seater / Sleeper (2+1),16:55,02:05,09h 10m,463,24 Seats available,3.4
+333,Patna (Bihar) to Forbesganj,Raj Bus Services,Bharat Benz A/C Seater /Sleeper (2+1),18:25,02:15,07h 50m,463,15 Seats available,3.4
+334,Patna (Bihar) to Forbesganj,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+2),20:30,04:10,07h 40m,INR 600,54 Seats available,3.2
+335,Patna (Bihar) to Forbesganj,Sadhvi Rath,A/C Seater / Sleeper (2+1),20:20,03:05,06h 45m,495,48 Seats available,3.1
+336,Patna (Bihar) to Forbesganj,Shri Sai Krishna Luxury,A/C Seater / Sleeper (2+1),21:15,04:45,07h 30m,INR 600,48 Seats available,4.0
+337,Patna (Bihar) to Forbesganj,Shatabdi Travels,A/C Seater / Sleeper (2+1),20:20,04:05,07h 45m,INR 600,44 Seats available,3.6
+338,Patna (Bihar) to Forbesganj,Maa Satyabhama Rath,A/C Seater / Sleeper (2+1),21:00,04:45,07h 45m,INR 600,34 Seats available,2.9
+339,Patna (Bihar) to Forbesganj,Meera Travels (Yvts),A/C Seater / Sleeper (2+1),20:30,05:15,08h 45m,540,50 Seats available,1.8
+340,Patna (Bihar) to Forbesganj,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),22:50,05:25,06h 35m,INR 500,31 Seats available,4.3
+341,Patna (Bihar) to Forbesganj,Aarush Krrish,A/C Seater / Sleeper (2+1),21:00,04:00,07h 00m,540,46 Seats available,1.9
+342,Patna (Bihar) to Forbesganj,Shatabdi Travels,A/C Seater / Sleeper (2+1),22:00,05:45,07h 45m,INR 700,28 Seats available,3.3
+343,Patna (Bihar) to Forbesganj,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:30,04:00,07h 30m,475,24 Seats available,1.7
+344,Ranchi to Hajipur (Bihar),Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),20:55,06:30,09h 35m,INR 541,29 Seats available,3.2
+345,Ranchi to Hajipur (Bihar),JGD Travels Pvt Ltd.,Bharat Benz A/C Sleeper (2+1),20:35,05:00,08h 25m,950,25 Seats available,3.5
+346,Ranchi to Hajipur (Bihar),Pappu Travels (yvts),A/C Seater/Sleeper (2+1),16:45,03:30,10h 45m,720,8 Seats available,3.0
+347,Ranchi to Hajipur (Bihar),Pawapuri Motors,A/C Seater / Sleeper (2+1),18:25,05:30,11h 05m,INR 900,4 Seats available,2.3
+348,Ranchi to Hajipur (Bihar),Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),18:45,03:15,08h 30m,925,4 Seats available,2.2
+349,Ranchi to Hajipur (Bihar),Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),18:30,04:00,09h 30m,925,4 Seats available,2.2
+350,Ranchi to Hajipur (Bihar),Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),19:15,05:00,09h 45m,925,4 Seats available,2.2
+351,Ranchi to Hajipur (Bihar),Jai Mata Di Tour and Travels,AC Seater (2+2),20:00,04:00,08h 00m,1018,4 Seats available,2.2
+352,Ranchi to Hajipur (Bihar),Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),18:15,03:55,09h 40m,INR 800,10 Seats available,2.1
+353,Ranchi to Hajipur (Bihar),Tejas Maa Bhawani,A/C Sleeper (2+1),18:30,05:00,10h 30m,INR 700,8 Seats available,2.1
+354,Ranchi to Hajipur (Bihar),RAUSHAN TRAVELS AND HOSPITALITY,A/C Seater / Sleeper (2+2),19:30,04:30,09h 00m,INR 700,4 Seats available,1.7
+355,Ranchi to Hajipur (Bihar),Sri Krishna Rath,A/C Seater / Sleeper (2+2),22:30,07:30,09h 00m,1235,20 Seats available,1.7
+356,Lucknow to Gopalganj (Bihar),Bihar state road transport corporation (BSRTC) - 152185,Volvo AC Seater 2+2,23:00,07:00,08h 00m,665,22 Seats available,2.4
+357,Lucknow to Gopalganj (Bihar),MISHRA BANDHU BUS SERVICE,A/C Seater / Sleeper (2+1),21:30,05:00,07h 30m,INR 1299,25 Seats available,3.9
+358,Lucknow to Gopalganj (Bihar),Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),21:00,03:45,06h 45m,INR 1499,1 Seat available,4.4
+359,Lucknow to Gopalganj (Bihar),Panwar Travels,A/C Sleeper (2+1),01:20,13:00,11h 40m,1665,1 Seat available,2.8
+360,Lucknow to Gopalganj (Bihar),Gorakhdham Express Bus Service,A/C Seater / Sleeper (2+2),23:55,07:30,07h 35m,INR 1195,40 Seats available,1.6
+361,Lucknow to Gopalganj (Bihar),Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),21:15,04:00,06h 45m,INR 1699,12 Seats available,4.4
+362,Lucknow to Gopalganj (Bihar),Panwar Travels,A/C Seater / Sleeper (2+1),21:30,04:05,06h 35m,INR 2800,29 Seats available,2.8
+363,Lucknow to Gopalganj (Bihar),Maan Travels,NON AC Seater / Sleeper 2+1,23:55,10:30,10h 35m,INR 1050,41 Seats available,1.6
+364,Lucknow to Gopalganj (Bihar),Panwar tour and Travels,A/C Seater / Sleeper (2+1),04:45,12:30,07h 45m,INR 1800,3 Seats available,1.5
+365,Lucknow to Gopalganj (Bihar),Panwar tour and Travels,A/C Seater / Sleeper (2+1),03:30,11:05,07h 35m,INR 3636,2 Seats available,1.5
+366,Lucknow to Gopalganj (Bihar),Maa Laxmi Bihar Express,Non A/C Seater / Sleeper (2+1),22:30,08:00,09h 30m,INR 1000,33 Seats available,1.3
+367,Lucknow to Gopalganj (Bihar),Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),23:30,07:30,08h 00m,INR 1799,45 Seats available,1.2
+368,Lucknow to Gopalganj (Bihar),Panwar tour and Travels,A/C Seater (2+2),02:45,10:00,07h 15m,2572,49 Seats available,1.5
+369,Lucknow to Gopalganj (Bihar),Kusum Travels and Logistics,NON A/C Sleeper (2+1),02:30,13:30,11h 00m,INR 2200,36 Seats available,1.1

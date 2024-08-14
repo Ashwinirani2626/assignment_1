@@ -1,0 +1,818 @@
+,route-collected,name,type,departure_time,arrival_time,duration,price,seats_available,rating
+0,Delhi to Shimla,HRTC - 93,Himsuta AC Seater Volvo/Scania 2+2,19:35,04:45,09h 10m,INR 892,3 Seats available,3.5
+1,Delhi to Shimla,HRTC - 301,Ordinary 3+2 Non AC Seater,19:43,05:30,09h 47m,INR 507,27 Seats available,4.1
+2,Delhi to Shimla,HRTC - 556,Ordinary 3+2 Non AC Seater,20:10,05:45,09h 35m,INR 507,22 Seats available,4.5
+3,Delhi to Shimla,HRTC - 8,Himsuta AC Seater Volvo/Scania 2+2,21:02,06:30,09h 28m,INR 892,21 Seats available,4.2
+4,Delhi to Shimla,HRTC - 570,Ordinary 3+2 Non AC Seater,21:25,06:45,09h 20m,INR 507,35 Seats available,3.6
+5,Delhi to Shimla,HRTC - 20,Himsuta AC Seater Volvo/Scania 2+2,21:36,05:30,07h 54m,INR 867,24 Seats available,3.8
+6,Delhi to Shimla,HRTC - 518,Ordinary 3+2 Non AC Seater,21:58,07:15,09h 17m,INR 507,25 Seats available,3.3
+7,Delhi to Shimla,HRTC - 9,Himsuta AC Seater Volvo/Scania 2+2,22:00,07:30,09h 30m,INR 892,14 Seats available,4.6
+8,Delhi to Shimla,HRTC - 579,Ordinary 3+2 Non AC Seater,22:30,08:15,09h 45m,INR 507,27 Seats available,4.1
+9,Delhi to Shimla,HRTC - 36,Himsuta AC Seater Volvo/Scania 2+2,22:30,06:30,08h 00m,INR 867,18 Seats available,4.1
+10,Delhi to Shimla,HRTC - 22,Himsuta AC Seater Volvo/Scania 2+2,23:00,07:50,08h 50m,INR 892,13 Seats available,4.5
+11,Delhi to Shimla,HRTC - 564,Ordinary 3+2 Non AC Seater,23:40,09:30,09h 50m,INR 507,36 Seats available,4.6
+12,Delhi to Shimla,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),22:30,08:00,09h 30m,495,14 Seats available,4.7
+13,Delhi to Shimla,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,08:00,08h 30m,474,29 Seats available,4.4
+14,Delhi to Shimla,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),23:25,07:45,08h 20m,523,20 Seats available,4.4
+15,Delhi to Shimla,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),22:05,07:25,09h 20m,513,17 Seats available,4.4
+16,Delhi to Shimla,Laxmi holidays,Bharat Benz A/C Semi Sleeper (2+2),22:50,07:40,08h 50m,523,30 Seats available,4.0
+17,Delhi to Shimla,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:50,07:40,09h 50m,495,10 Seats available,4.1
+18,Delhi to Shimla,City Land Travels,Volvo A/C Semi Sleeper (2+2),23:00,07:00,08h 00m,522,16 Seats available,3.1
+19,Delhi to Shimla,RAO TRAVELS INDIA PVT LTD.,AC Seater (2+2),21:30,07:30,10h 00m,INR 1500,30 Seats available,2.0
+20,Delhi to Shimla,FlixBus,A/C Seater (2+2),23:55,08:35,08h 40m,INR 638,18 Seats available,2.9
+21,Delhi to Shimla,Heera Himachal Holidays,Volvo A/C Semi Sleeper (2+2),21:30,06:30,09h 00m,INR 988,22 Seats available,1.7
+22,Shimla to Delhi,HRTC - 188,Ordinary 3+2 Non AC Seater,19:25,04:57,09h 32m,INR 507,27 Seats available,4.2
+23,Shimla to Delhi,HRTC - 74,Himsuta AC Seater Volvo/Scania 2+2,20:00,05:00,09h 00m,INR 892,15 Seats available,4.5
+24,Shimla to Delhi,HRTC - 3,Himsuta AC Seater Volvo/Scania 2+2,21:00,06:00,09h 00m,INR 892,16 Seats available,4.6
+25,Shimla to Delhi,HRTC - 108,A/C Executive (2+3),21:20,06:52,09h 32m,INR 612,44 Seats available,3.3
+26,Shimla to Delhi,HRTC - 19,Himsuta AC Seater Volvo/Scania 2+2,21:30,06:00,08h 30m,INR 892,15 Seats available,4.0
+27,Shimla to Delhi,HRTC - 1712,Ordinary 3+2 Non AC Seater,21:30,05:45,08h 15m,INR 505,27 Seats available,4.2
+28,Shimla to Delhi,HRTC - 130,Ordinary 3+2 Non AC Seater,21:45,06:15,08h 30m,INR 507,29 Seats available,4.5
+29,Shimla to Delhi,HRTC - 179,Ordinary 3+2 Non AC Seater,22:00,06:30,08h 30m,INR 507,27 Seats available,3.4
+30,Shimla to Delhi,HRTC - 136,Ordinary 3+2 Non AC Seater,22:30,06:30,08h 00m,INR 507,26 Seats available,2.3
+31,Shimla to Delhi,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),21:30,05:30,08h 00m,450,16 Seats available,4.7
+32,Shimla to Delhi,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,04:30,08h 00m,474,32 Seats available,4.4
+33,Shimla to Delhi,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),20:30,04:35,08h 05m,458,27 Seats available,4.4
+34,Shimla to Delhi,Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),21:00,05:40,08h 40m,495,37 Seats available,4.3
+35,Shimla to Delhi,Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),22:00,05:30,07h 30m,540,38 Seats available,4.2
+36,Shimla to Delhi,FlixBus,A/C Seater (2+2),20:00,05:00,09h 00m,INR 678,27 Seats available,4.5
+37,Shimla to Delhi,RAO TRAVELS INDIA PVT LTD.,AC Seater (2+2),21:00,06:00,09h 00m,INR 1666,40 Seats available,4.1
+38,Shimla to Delhi,Yolo Bus,Volvo A/C Semi Sleeper (2+2),22:00,05:42,07h 42m,INR 1914,49 Seats available,2.0
+39,Manali to Chandigarh,HRTC - 759,Himsuta AC Seater Volvo/Scania 2+2,20:00,04:10,08h 10m,INR 938,34 Seats available,3.9
+40,Manali to Chandigarh,HRTC - 803,Ordinary 3+2 Non AC Seater,20:30,06:00,09h 30m,INR 549,37 Seats available,3.0
+41,Manali to Chandigarh,HRTC - 732,Himsuta AC Seater Volvo/Scania 2+2,21:00,04:20,07h 20m,INR 920,34 Seats available,3.1
+42,Manali to Chandigarh,HRTC - 701,Ordinary 3+2 Non AC Seater,21:30,05:30,08h 00m,INR 560,15 Seats available,3.9
+43,Manali to Chandigarh,HRTC - 713,Himsuta AC Seater Volvo/Scania 2+2,22:00,06:00,08h 00m,INR 920,29 Seats available,3.4
+44,Manali to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:00,03:30,05h 30m,807,3 Seats available,4.5
+45,Manali to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:30,03:15,05h 45m,664,7 Seats available,4.3
+46,Manali to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:00,02:30,06h 30m,721,7 Seats available,4.6
+47,Manali to Chandigarh,Yolo Bus,Volvo 9600 A/C Semi Sleeper (2+2),21:10,02:55,05h 45m,INR 720,2 Seats available,4.3
+48,Manali to Chandigarh,Zingbus Plus,Scania A/C Semi Sleeper (2+2),19:30,01:45,06h 15m,590,23 Seats available,4.5
+49,Manali to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),19:05,01:55,06h 50m,620,17 Seats available,3.8
+50,Manali to Chandigarh,IntrCity SmartBus,Volvo A/C Semi Sleeper (2+2),19:30,02:05,06h 35m,INR 1078,5 Seats available,5.0
+51,Manali to Chandigarh,Abtc Tour and Travels,Bharat Benz A/C Semi Sleeper (2+2),21:00,05:00,08h 00m,527,21 Seats available,2.4
+52,Manali to Chandigarh,Malana Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:00,03:00,07h 00m,854,16 Seats available,4.4
+53,Manali to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),20:30,02:40,06h 10m,603,15 Seats available,4.3
+54,Manali to Chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),20:30,02:50,06h 20m,1395,41 Seats available,3.8
+55,Manali to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),18:40,01:40,07h 00m,590,17 Seats available,4.1
+56,Manali to Chandigarh,City Land Travels,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,03:00,06h 00m,720,1 Seat available,3.9
+57,Manali to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),21:00,03:55,06h 55m,648,8 Seats available,4.1
+58,Manali to Chandigarh,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),18:25,00:30,06h 05m,584,34 Seats available,3.0
+59,Manali to Chandigarh,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),18:25,02:10,07h 45m,674,26 Seats available,3.0
+60,Manali to Chandigarh,Himgiri Adventure Tour,Bharat Benz A/C Semi Sleeper (2+2),20:00,03:30,07h 30m,494,25 Seats available,2.5
+61,Manali to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),18:15,00:05,05h 50m,624,6 Seats available,4.3
+62,Manali to Chandigarh,City Land Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:05,04:30,06h 25m,673,23 Seats available,1.2
+63,Manali to Chandigarh,G.T.SHolidays,Bharat Benz A/C Semi Sleeper (2+2),18:30,02:00,07h 30m,899,31 Seats available,2.3
+64,Manali to Chandigarh,Holiday Appeal Private Limited,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,05:00,08h 00m,INR 799,49 Seats available,4.1
+65,Manali to Chandigarh,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),19:00,00:50,05h 50m,INR 1649,41 Seats available,4.0
+66,Manali to Chandigarh,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),18:30,02:45,08h 15m,INR 1649,41 Seats available,4.0
+67,Manali to Chandigarh,Reo India Travels,Volvo A/C Semi Sleeper (2+2),18:55,01:29,06h 34m,567,19 Seats available,3.9
+68,Manali to Chandigarh,Reo India Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:25,02:45,07h 20m,567,23 Seats available,3.9
+69,Manali to Chandigarh,Reo India Travels,Volvo A/C Semi Sleeper (2+2),19:35,02:20,06h 45m,567,17 Seats available,3.9
+70,Manali to Chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),18:15,00:30,06h 15m,495,13 Seats available,3.8
+71,Manali to Chandigarh,FlixBus,A/C Seater (2+2),18:30,01:40,07h 10m,INR 238,22 Seats available,3.6
+72,Manali to Chandigarh,FlixBus,A/C Seater (2+2),20:30,03:30,07h 00m,INR 260,25 Seats available,3.6
+73,Manali to Chandigarh,Metahills holidays,Scania A/C Semi Sleeper (2+2),19:30,03:00,07h 30m,900,45 Seats available,3.5
+74,Manali to Chandigarh,Metahills holidays,Scania A/C Semi Sleeper (2+2),21:00,04:30,07h 30m,990,44 Seats available,3.5
+75,Manali to Chandigarh,Everest Holidays,Volvo A/C Semi Sleeper (2+2),21:25,04:00,06h 35m,1063,21 Seats available,3.5
+76,Manali to Chandigarh,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:30,23:55,05h 25m,674,26 Seats available,3.5
+77,Manali to Chandigarh,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:30,23:55,05h 25m,674,26 Seats available,3.5
+78,Manali to Chandigarh,Travel Zap India Pvt LTD.,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),19:00,01:15,06h 15m,INR 1099,44 Seats available,3.4
+79,Manali to Chandigarh,Zakir Flights,Volvo A/C Semi Sleeper (2+2),18:30,00:55,06h 25m,584,41 Seats available,2.9
+80,Manali to Chandigarh,ROYAL SAFARI INDIA TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),19:30,02:45,07h 15m,1349,17 Seats available,2.4
+81,Manali to Chandigarh,Snow Line Holidays Manali,A/C Seater (2+2),19:45,04:45,09h 00m,INR 3000,45 Seats available,No rating
+82,Chandigarh to Manali,HRTC - 58,Himsuta AC Seater Volvo/Scania 2+2,20:40,05:00,08h 20m,INR 945,32 Seats available,4.4
+83,Chandigarh to Manali,HRTC - 1522,Himsuta AC Seater Volvo/Scania 2+2,22:00,06:30,08h 30m,INR 920,26 Seats available,4.8
+84,Chandigarh to Manali,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:50,05:30,06h 40m,474,10 Seats available,4.7
+85,Chandigarh to Manali,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),23:15,05:25,06h 10m,468,10 Seats available,4.7
+86,Chandigarh to Manali,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:30,06:00,06h 30m,474,14 Seats available,4.6
+87,Chandigarh to Manali,AdGLOBAL HOLIDAYS ADVENTURE TOURS,A/C Semi Sleeper (2+2),22:25,07:00,08h 35m,463,16 Seats available,3.5
+88,Chandigarh to Manali,Malana Travels,Volvo A/C Semi Sleeper (2+2),23:58,05:30,05h 32m,570,16 Seats available,4.4
+89,Chandigarh to Manali,Reo India Travels,Volvo A/C Semi Sleeper (2+2),23:59,07:25,07h 26m,499,6 Seats available,3.7
+90,Chandigarh to Manali,Abtc Tour and Travels,Bharat Benz A/C Semi Sleeper (2+2),01:00,07:00,06h 00m,599,21 Seats available,3.4
+91,Chandigarh to Manali,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),23:45,05:30,05h 45m,696,31 Seats available,2.3
+92,Chandigarh to Manali,GLOBAL HOLIDAYS ADVENTURE TOURS,A/C Semi Sleeper (2+2),22:35,07:10,08h 35m,509,27 Seats available,3.0
+93,Chandigarh to Manali,Metahills holidays,Scania A/C Semi Sleeper (2+2),23:51,08:30,08h 39m,1350,37 Seats available,3.5
+94,Chandigarh to Manali,Abtc Tour and Travels,Bharat Benz A/C Semi Sleeper (2+2),23:55,07:00,07h 05m,599,21 Seats available,3.2
+95,Chandigarh to Manali,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),23:45,08:25,08h 40m,584,13 Seats available,3.0
+96,Chandigarh to Manali,TANISHQ HOLIDAYS TOUR,Volvo A/C Semi Sleeper (2+2),23:30,07:30,08h 00m,499,28 Seats available,3.4
+97,Chandigarh to Manali,Himgiri Adventure Tour,Bharat Benz A/C Semi Sleeper (2+2),22:00,07:15,09h 15m,494,21 Seats available,1.9
+98,Chandigarh to Manali,Everest Holidays,Volvo A/C Semi Sleeper (2+2),23:55,07:00,07h 05m,594,21 Seats available,1.9
+99,Chandigarh to Manali,Travel Zap India Pvt LTD.,Volvo Multi-Axle A/C (2+2),23:24,06:30,07h 06m,INR 599,40 Seats available,2.5
+100,Chandigarh to Manali,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),23:40,07:00,07h 20m,INR 1649,41 Seats available,4.0
+101,Chandigarh to Manali,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),23:00,05:40,06h 40m,720,41 Seats available,3.8
+102,Chandigarh to Manali,HIMALAYAN HOLIDAYS,Volvo A/C Semi Sleeper (2+2 ),23:59,07:00,07h 01m,INR 849,27 Seats available,3.5
+103,Chandigarh to Manali,HIMALAYAN HOLIDAYS,Volvo A/C Semi Sleeper (2+2 ),23:50,06:45,06h 55m,INR 849,27 Seats available,3.5
+104,Chandigarh to Manali,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),23:45,08:00,08h 15m,615,29 Seats available,3.5
+105,Chandigarh to Manali,Yatrabybus.com,Bharat Benz A/C Semi Sleeper (2+2),22:20,05:00,06h 40m,INR 2199,49 Seats available,2.5
+106,Chandigarh to Manali,ABHI TRAVELS,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:58,06:30,06h 32m,522,26 Seats available,2.4
+107,Chandigarh to Manali,Snow Line Holidays Manali,A/C Seater (2+2),22:35,07:10,08h 35m,INR 3000,45 Seats available,No rating
+108,Chandigarh to Manali,Snow Line Holidays Manali,A/C Seater (2+2),20:00,08:00,12h 00m,INR 3000,45 Seats available,No rating
+109,Delhi to Manali,HRTC - 545,Ordinary 3+2 Non AC Seater,19:32,09:30,13h 58m,INR 809,37 Seats available,3.8
+110,Delhi to Manali,HRTC - 21,Himsuta AC Seater Volvo/Scania 2+2,20:00,09:00,13h 00m,INR 1428,25 Seats available,4.5
+111,Delhi to Manali,HRTC - 567,Himsuta AC Seater Volvo/Scania 2+2,21:03,10:00,12h 57m,INR 1428,23 Seats available,4.4
+112,Delhi to Manali,HRTC - 574,Ordinary 3+2 Non AC Seater,21:14,08:30,11h 16m,INR 809,36 Seats available,4.0
+113,Delhi to Manali,HRTC - 214002,Himsuta AC Seater Volvo/Scania 2+2,21:27,09:30,12h 03m,INR 1428,31 Seats available,3.8
+114,Delhi to Manali,HRTC - 600,Himsuta AC Seater Volvo/Scania 2+2,21:50,10:50,13h 00m,INR 1446,22 Seats available,3.7
+115,Delhi to Manali,HRTC - 583,Ordinary 3+2 Non AC Seater,22:02,11:00,12h 58m,INR 820,36 Seats available,3.1
+116,Delhi to Manali,Malana Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:30,07:30,10h 00m,674,17 Seats available,4.7
+117,Delhi to Manali,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),22:45,11:10,12h 25m,540,24 Seats available,4.7
+118,Delhi to Manali,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:00,11:00,12h 00m,664,12 Seats available,4.7
+119,Delhi to Manali,AdR S YADAV SMART BUS PRIVATE LIMITED,Volvo 9600 A/C Semi Sleeper (2+2),19:15,08:30,13h 15m,INR 499,4 Seats available,4.5
+120,Delhi to Manali,IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),18:35,07:05,12h 30m,INR 500,16 Seats available,4.7
+121,Delhi to Manali,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:00,08:00,12h 00m,601,14 Seats available,4.6
+122,Delhi to Manali,Yolo Bus,Volvo 9600 A/C Semi Sleeper (2+2),23:16,11:08,11h 52m,INR 500,26 Seats available,4.6
+123,Delhi to Manali,AdMalana Travels,Volvo A/C Semi Sleeper (2+2),18:30,05:30,11h 00m,570,16 Seats available,4.6
+124,Delhi to Manali,Zingbus Plus,Scania A/C Semi Sleeper (2+2),20:00,07:45,11h 45m,567,12 Seats available,4.6
+125,Delhi to Manali,IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),19:00,08:05,13h 05m,INR 550,21 Seats available,4.6
+126,Delhi to Manali,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:00,07:50,10h 50m,540,22 Seats available,4.6
+127,Delhi to Manali,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),23:15,11:15,12h 00m,540,30 Seats available,4.4
+128,Delhi to Manali,Yolo Bus,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,09:42,10h 42m,INR 600,36 Seats available,4.3
+129,Delhi to Manali,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:00,09:00,12h 00m,712,15 Seats available,4.4
+130,Delhi to Manali,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),22:40,10:40,12h 00m,569,15 Seats available,4.4
+131,Delhi to Manali,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),18:35,06:00,11h 25m,554,14 Seats available,4.4
+132,Delhi to Manali,City Land Travels,Scania Multi-Axle AC Semi Sleeper (2+2),23:35,13:20,13h 45m,495,37 Seats available,4.0
+133,Delhi to Manali,Metahills holidays,Scania A/C Semi Sleeper (2+2),19:30,08:30,13h 00m,1350,37 Seats available,4.1
+134,Delhi to Manali,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:45,05:30,10h 45m,696,31 Seats available,4.1
+135,Delhi to Manali,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),18:35,07:00,12h 25m,INR 1649,41 Seats available,4.3
+136,Delhi to Manali,Leo Travel heights,Volvo A/C Semi Sleeper (2+2),18:55,08:40,13h 45m,INR 699,31 Seats available,4.3
+137,Delhi to Manali,HIMALAYAN HOLIDAYS,Volvo A/C Semi Sleeper (2+2 ),19:40,06:45,11h 05m,INR 849,27 Seats available,4.1
+138,Delhi to Manali,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:00,07:00,12h 00m,554,10 Seats available,4.7
+139,Delhi to Manali,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),21:30,09:00,11h 30m,510,6 Seats available,4.6
+140,Delhi to Manali,IntrCity SmartBus,Volvo A/C Semi Sleeper (2+2),19:35,09:05,13h 30m,INR 550,4 Seats available,4.6
+141,Delhi to Manali,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),21:45,09:25,11h 40m,510,10 Seats available,4.6
+142,Delhi to Manali,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),20:30,07:30,11h 00m,487,10 Seats available,4.5
+143,Delhi to Manali,Reo India Travels,Volvo A/C Semi Sleeper (2+2),19:05,07:25,12h 20m,499,6 Seats available,4.2
+144,Delhi to Manali,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:30,07:15,11h 45m,563,5 Seats available,4.0
+145,Delhi to Manali,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),19:00,07:00,12h 00m,INR 1649,8 Seats available,4.3
+146,Delhi to Manali,SHRI BALAJII TRAVELS,Volvo A/C Semi Sleeper (2+2),19:30,09:00,13h 30m,INR 1499,4 Seats available,No rating
+147,Delhi to Manali,G.T.SHolidays,Bharat Benz A/C Semi Sleeper (2+2),20:00,07:30,11h 30m,INR 649,29 Seats available,3.3
+148,Delhi to Manali,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),18:45,08:25,13h 40m,584,13 Seats available,3.5
+149,Delhi to Manali,Metahills holidays,Scania A/C Semi Sleeper (2+2),21:00,10:00,13h 00m,1440,49 Seats available,3.9
+150,Delhi to Manali,City Land Travels,Volvo A/C Semi Sleeper (2+2),22:10,12:05,13h 55m,522,31 Seats available,3.8
+151,Delhi to Manali,Travel hub,Volvo A/C Semi Sleeper (2+2),18:40,07:15,12h 35m,INR 599,32 Seats available,3.1
+152,Delhi to Manali,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),21:30,08:30,11h 00m,473,23 Seats available,3.1
+153,Delhi to Manali,Travel Zap India Pvt LTD.,Volvo Multi-Axle A/C (2+2),19:50,06:30,10h 40m,INR 599,40 Seats available,3.8
+154,Delhi to Manali,Northern Travels,Volvo A/C Semi Sleeper (2+2),20:00,08:45,12h 45m,INR 600,19 Seats available,3.5
+155,Delhi to Manali,City Land Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),23:00,11:20,12h 20m,495,41 Seats available,3.9
+156,Delhi to Manali,HIMALAYAN HOLIDAYS,Volvo A/C Semi Sleeper (2+2 ),20:00,07:00,11h 00m,INR 849,27 Seats available,3.9
+157,Delhi to Manali,Shree Balaji Travels,Volvo A/C Semi Sleeper (2+2),18:50,06:50,12h 00m,INR 1699,32 Seats available,3.3
+158,Delhi to Manali,ABHI TRAVELS,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),18:30,06:30,12h 00m,522,26 Seats available,3.7
+159,Delhi to Manali,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),21:00,08:15,11h 15m,810,35 Seats available,3.7
+160,Delhi to Manali,Holiday Appeal Private Limited,Scania Multi-Axle AC Semi Sleeper (2+2),22:00,09:00,11h 00m,INR 699,29 Seats available,3.2
+161,Delhi to Manali,Shree Balaji Travels,Volvo A/C Semi Sleeper (2+2),20:00,09:30,13h 30m,INR 1699,20 Seats available,3.4
+162,Delhi to Manali,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),22:00,09:30,11h 30m,810,35 Seats available,3.8
+163,Delhi to Manali,Suswagtam Tours,Volvo A/C Semi Sleeper (2+2),19:30,08:30,13h 00m,1304,41 Seats available,3.3
+164,Delhi to Manali,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),19:00,06:50,11h 50m,606,29 Seats available,3.9
+165,Delhi to Manali,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:45,08:00,13h 15m,615,29 Seats available,3.9
+166,Delhi to Manali,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),21:00,09:00,12h 00m,606,35 Seats available,3.9
+167,Delhi to Manali,FlixBus,A/C Seater (2+2),21:30,10:10,12h 40m,INR 700,14 Seats available,3.6
+168,Delhi to Manali,FlixBus,A/C Seater (2+2),18:30,06:55,12h 25m,INR 532,18 Seats available,3.6
+169,Delhi to Manali,G.T.SHolidays,Bharat Benz A/C Semi Sleeper (2+2),20:30,08:30,12h 00m,INR 799,30 Seats available,3.2
+170,Delhi to Manali,PAL Travel Lines,Scania A/C Semi Sleeper (2+2),20:05,09:45,13h 40m,494,27 Seats available,3.2
+171,Delhi to Manali,Deltin Travels,Volvo 9600 A/C Semi Sleeper (2+2),21:50,09:20,11h 30m,INR 500,2 Seats available,3.7
+172,Delhi to Manali,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:15,06:55,11h 40m,563,5 Seats available,3.6
+173,Delhi to Manali,City Land Travels,Volvo A/C Semi Sleeper (2+2),18:40,08:15,13h 35m,540,9 Seats available,3.6
+174,Delhi to Manali,Reo India Travels,Volvo A/C Semi Sleeper (2+2),18:50,08:00,13h 10m,520,5 Seats available,3.6
+175,Delhi to Manali,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:45,07:25,11h 40m,629,9 Seats available,3.5
+176,Delhi to Manali,SIDDHI VINAYAK TRAVELS,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:25,09:00,13h 35m,INR 450,34 Seats available,2.5
+177,Delhi to Manali,Cab India Travels,Volvo A/C Semi Sleeper (2+2),19:20,08:30,13h 10m,600,11 Seats available,2.8
+178,Delhi to Manali,Travel hub,Volvo A/C Semi Sleeper (2+2),20:45,12:30,15h 45m,782,21 Seats available,2.7
+179,Delhi to Manali,Kedara Bus,Volvo A/C Semi Sleeper (2+2),22:15,11:15,13h 00m,739,41 Seats available,1.9
+180,Delhi to Manali,RAO TRAVELS INDIA PVT LTD.,Mercedes Benz A/C (2+2),19:00,07:00,12h 00m,INR 1599,53 Seats available,1.1
+181,Delhi to Manali,TANISHQ HOLIDAYS TOUR,Volvo Multi-Axle A/C Semi Sleeper (2+2),21:00,10:00,13h 00m,1619,49 Seats available,2.8
+182,Delhi to Manali,TANISHQ HOLIDAYS TOUR,Volvo A/C Semi Sleeper (2+2),19:30,07:30,12h 00m,499,28 Seats available,2.8
+183,Delhi to Manali,Royal Travels Hills,Volvo A/C Semi Sleeper (2+2),19:30,07:30,12h 00m,INR 1199,31 Seats available,2.6
+184,Delhi to Manali,SIDDHI VINAYAK TRAVELS,Volvo A/C Semi Sleeper (2+2),20:55,10:30,13h 35m,INR 500,22 Seats available,2.5
+185,Delhi to Manali,Yatrabybus.com,Bharat Benz A/C Semi Sleeper (2+2),19:00,05:00,10h 00m,INR 2199,49 Seats available,2.5
+186,Delhi to Manali,Heera Himachal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),18:30,07:30,13h 00m,INR 899,32 Seats available,1.7
+187,Delhi to Manali,Aarohi Travels,VE A/C Seater (2+2),21:00,10:00,13h 00m,INR 1599,49 Seats available,No rating
+188,Hamirpur (Himachal Pradesh) to Chandigarh,HRTC - 99,Himsuta AC Seater Volvo/Scania 2+2,21:00,02:00,05h 00m,INR 615,17 Seats available,3.9
+189,Hamirpur (Himachal Pradesh) to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:20,01:15,04h 55m,523,16 Seats available,3.8
+190,Hamirpur (Himachal Pradesh) to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:40,02:05,04h 25m,719,13 Seats available,4.7
+191,Delhi to Hamirpur (Himachal Pradesh),Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:20,05:55,08h 35m,720,7 Seats available,4.7
+192,Delhi to Hamirpur (Himachal Pradesh),Laxmi holidays,Volvo A/C Semi Sleeper (2+2),21:00,06:10,09h 10m,759,18 Seats available,4.5
+193,Delhi to Chandigarh,HRTC - 541,Ordinary 3+2 Non AC Seater,19:14,00:30,05h 16m,INR 285,37 Seats available,3.9
+194,Delhi to Chandigarh,HRTC - 549,A/C Executive (2+3),19:25,00:30,05h 05m,INR 260,37 Seats available,3.9
+195,Delhi to Chandigarh,HRTC - 548,Ordinary 3+2 Non AC Seater,19:31,00:40,05h 09m,INR 280,28 Seats available,3.9
+196,Delhi to Chandigarh,HRTC - 545,Ordinary 3+2 Non AC Seater,19:32,00:20,04h 48m,INR 270,37 Seats available,3.9
+197,Delhi to Chandigarh,HRTC - 301,Ordinary 3+2 Non AC Seater,19:43,00:20,04h 37m,INR 280,27 Seats available,3.9
+198,Delhi to Chandigarh,HRTC - 553,Ordinary 3+2 Non AC Seater,19:50,01:10,05h 20m,INR 285,21 Seats available,3.9
+199,Delhi to Chandigarh,HRTC - 556,Ordinary 3+2 Non AC Seater,20:10,01:30,05h 20m,INR 285,23 Seats available,3.9
+200,Delhi to Chandigarh,HRTC - 84,Himsuta AC Seater Volvo/Scania 2+2,20:15,01:20,05h 05m,INR 523,35 Seats available,3.9
+201,Delhi to Chandigarh,HRTC - 557,Ordinary 3+2 Non AC Seater,20:15,01:30,05h 15m,INR 285,29 Seats available,3.9
+202,Delhi to Chandigarh,HRTC - 547,A/C Executive (2+3),20:16,01:25,05h 09m,INR 385,42 Seats available,3.9
+203,Delhi to Chandigarh,HRTC - 98,Himsuta AC Seater Volvo/Scania 2+2,20:42,02:20,05h 38m,INR 523,21 Seats available,3.9
+204,Delhi to Chandigarh,HRTC - 563,Ordinary 3+2 Non AC Seater,20:50,02:15,05h 25m,INR 280,37 Seats available,3.9
+205,Delhi to Chandigarh,HRTC - 567,Himsuta AC Seater Volvo/Scania 2+2,21:03,02:30,05h 27m,INR 513,27 Seats available,3.9
+206,Delhi to Chandigarh,HRTC - 565,Ordinary 3+2 Non AC Seater,21:05,01:50,04h 45m,INR 280,28 Seats available,3.9
+207,Delhi to Chandigarh,HRTC - 574,Ordinary 3+2 Non AC Seater,21:14,01:50,04h 36m,INR 270,34 Seats available,3.9
+208,Delhi to Chandigarh,HRTC - 569,Himmani Deluxe 2+2 Non AC Seater,21:22,02:40,05h 18m,INR 305,27 Seats available,3.9
+209,Delhi to Chandigarh,HRTC - 570,Ordinary 3+2 Non AC Seater,21:25,02:50,05h 25m,INR 280,37 Seats available,3.9
+210,Delhi to Chandigarh,HRTC - 214002,Himsuta AC Seater Volvo/Scania 2+2,21:27,02:10,04h 43m,INR 513,34 Seats available,3.9
+211,Delhi to Chandigarh,HRTC - 568,Ordinary 3+2 Non AC Seater,21:30,04:05,06h 35m,INR 285,39 Seats available,3.9
+212,Delhi to Chandigarh,HRTC - 577,A/C Executive (2+3),21:40,02:40,05h 00m,INR 280,43 Seats available,3.9
+213,Delhi to Chandigarh,HRTC - 600,Himsuta AC Seater Volvo/Scania 2+2,21:50,04:00,06h 10m,INR 513,34 Seats available,3.9
+214,Delhi to Chandigarh,HRTC - 518,Ordinary 3+2 Non AC Seater,21:58,02:50,04h 52m,INR 285,24 Seats available,3.9
+215,Delhi to Chandigarh,HRTC - 575,A/C Executive (2+3),21:59,03:05,05h 06m,INR 375,41 Seats available,3.9
+216,Delhi to Chandigarh,HRTC - 527,Ordinary 3+2 Non AC Seater,22:05,03:00,04h 55m,INR 281,37 Seats available,3.9
+217,Delhi to Chandigarh,HRTC - 578,Ordinary 3+2 Non AC Seater,22:10,03:40,05h 30m,INR 280,36 Seats available,2.5
+218,Delhi to Chandigarh,HRTC - 579,Ordinary 3+2 Non AC Seater,22:30,03:00,04h 30m,INR 280,27 Seats available,3.9
+219,Delhi to Chandigarh,HRTC - 22,Himsuta AC Seater Volvo/Scania 2+2,23:00,04:30,05h 30m,INR 523,25 Seats available,3.9
+220,Delhi to Chandigarh,HRTC - 582,Ordinary 3+2 Non AC Seater,23:05,04:40,05h 35m,INR 285,36 Seats available,4.8
+221,Delhi to Chandigarh,HRTC - 576,Himsuta AC Seater Volvo/Scania 2+2,23:20,04:30,05h 10m,INR 528,19 Seats available,4.3
+222,Delhi to Chandigarh,HRTC - 564,Ordinary 3+2 Non AC Seater,23:40,05:40,06h 00m,INR 280,37 Seats available,3.9
+223,Delhi to Chandigarh,HRTC - 60,Himsuta AC Seater Volvo/Scania 2+2,23:40,04:40,05h 00m,INR 523,34 Seats available,4.7
+224,Delhi to Chandigarh,Lavish Travels,A/C Seater / Sleeper (2+2),18:15,01:00,06h 45m,467,30 Seats available,3.4
+225,Delhi to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),18:20,23:15,04h 55m,260,11 Seats available,4.8
+226,Delhi to Chandigarh,Malana Travels,Bharat Benz A/C Semi Sleeper (2+2),18:30,23:30,05h 00m,570,11 Seats available,4.8
+227,Delhi to Chandigarh,AdCity Land Travels,Volvo A/C Semi Sleeper (2+2),22:40,03:00,04h 20m,522,31 Seats available,3.6
+228,Delhi to Chandigarh,Ram Dalal Holidays,A/C Seater/Sleeper (2+1),18:30,00:05,05h 35m,495,9 Seats available,5.0
+229,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,23:50,05h 20m,555,11 Seats available,4.4
+230,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),18:35,23:30,04h 55m,462,27 Seats available,4.8
+231,Delhi to Chandigarh,AdCity Land Travels,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,04:15,04h 20m,495,37 Seats available,3.9
+232,Delhi to Chandigarh,IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),18:35,01:10,06h 35m,INR 500,14 Seats available,4.6
+233,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),18:40,00:00,05h 20m,540,14 Seats available,3.6
+234,Delhi to Chandigarh,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:45,23:45,05h 00m,615,29 Seats available,3.5
+235,Delhi to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,23:55,04h 55m,463,14 Seats available,4.7
+236,Delhi to Chandigarh,Malana Travels,Volvo A/C Semi Sleeper (2+2),19:00,23:59,04h 59m,570,19 Seats available,4.4
+237,Delhi to Chandigarh,FlixBus,A/C Seater (2+2),19:00,01:45,06h 45m,INR 294,20 Seats available,3.6
+238,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:00,00:15,05h 15m,462,11 Seats available,4.7
+239,Delhi to Chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:00,00:15,05h 15m,563,7 Seats available,3.8
+240,Delhi to Chandigarh,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),19:00,00:45,05h 45m,606,29 Seats available,3.5
+241,Delhi to Chandigarh,Holiday Appeal Private Limited,Volvo A/C Semi Sleeper (2+2),19:00,23:45,04h 45m,INR 600,24 Seats available,4.1
+242,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:00,23:55,04h 55m,462,13 Seats available,4.6
+243,Delhi to Chandigarh,Ashok Bus Service,VE A/C Seater / Sleeper (2+1),19:00,01:25,06h 25m,415,36 Seats available,3.6
+244,Delhi to Chandigarh,Yolo Bus,A/C Seater/Sleeper (2+1),19:15,00:03,04h 48m,INR 400,30 Seats available,4.3
+245,Delhi to Chandigarh,R S YADAV SMART BUS PRIVATE LIMITED,Volvo 9600 A/C Semi Sleeper (2+2),19:15,00:54,05h 39m,INR 499,30 Seats available,4.6
+246,Delhi to Chandigarh,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),19:15,23:45,04h 30m,584,13 Seats available,3.0
+247,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),19:30,00:40,05h 10m,481,13 Seats available,4.7
+248,Delhi to Chandigarh,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:30,01:05,05h 35m,494,20 Seats available,4.4
+249,Delhi to Chandigarh,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,23:55,04h 25m,494,26 Seats available,3.3
+250,Delhi to Chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:30,00:45,05h 15m,629,9 Seats available,3.8
+251,Delhi to Chandigarh,Reo India Travels,Volvo A/C Semi Sleeper (2+2),19:35,23:59,04h 24m,499,8 Seats available,3.9
+252,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),19:55,00:40,04h 45m,INR 600,11 Seats available,4.1
+253,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:00,01:30,05h 30m,518,17 Seats available,4.8
+254,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:00,01:10,05h 10m,462,33 Seats available,3.9
+255,Delhi to Chandigarh,Northern Travels,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),20:00,01:20,05h 20m,INR 600,15 Seats available,3.1
+256,Delhi to Chandigarh,Raghukul Holidays,Volvo A/C Semi Sleeper (2+2),20:00,01:00,05h 00m,539,32 Seats available,3.7
+257,Delhi to Chandigarh,Holiday Appeal Private Limited,Volvo A/C Semi Sleeper (2+2),20:00,00:45,04h 45m,INR 600,33 Seats available,4.1
+258,Delhi to Chandigarh,Gola Bus Service,VE A/C Seater / Sleeper (2+1),20:00,02:05,06h 05m,INR 399,44 Seats available,4.4
+259,Delhi to Chandigarh,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,01:00,05h 00m,462,22 Seats available,4.6
+260,Delhi to Chandigarh,Ashok Bus Service,A/C Seater / Sleeper (2+2),20:00,02:15,06h 15m,600,39 Seats available,3.6
+261,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:00,01:40,05h 40m,601,14 Seats available,4.0
+262,Delhi to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),20:05,01:05,05h 00m,360,19 Seats available,4.8
+263,Delhi to Chandigarh,Bharmani Travels,Volvo A/C Semi Sleeper (2+2),20:15,01:10,04h 55m,620,24 Seats available,3.8
+264,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),20:30,01:30,05h 00m,495,1 Seat available,3.5
+265,Delhi to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),20:30,01:10,04h 40m,612,14 Seats available,5.0
+266,Delhi to Chandigarh,Zingbus Plus,Scania A/C Semi Sleeper (2+2),20:30,01:30,05h 00m,470,20 Seats available,4.6
+267,Delhi to Chandigarh,Triptara tour & Travel,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,01:40,05h 10m,INR 500,32 Seats available,5.0
+268,Delhi to Chandigarh,PAL Travel Lines,Bharat Benz A/C Semi Sleeper (2+2),20:30,01:29,04h 59m,494,27 Seats available,3.0
+269,Delhi to Chandigarh,IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),20:30,01:45,05h 15m,INR 499,22 Seats available,4.9
+270,Delhi to Chandigarh,PAL Travel Lines,Scania A/C Semi Sleeper (2+2),20:35,01:05,04h 30m,494,27 Seats available,3.0
+271,Delhi to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),20:55,01:30,04h 35m,540,13 Seats available,4.8
+272,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:00,02:30,05h 30m,617,15 Seats available,3.0
+273,Delhi to Chandigarh,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:00,01:45,04h 45m,567,16 Seats available,5.0
+274,Delhi to Chandigarh,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:25,02:35,05h 10m,486,27 Seats available,4.0
+275,Delhi to Chandigarh,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),21:30,02:15,04h 45m,473,23 Seats available,3.0
+276,Delhi to Chandigarh,FlixBus,A/C Seater (2+2),21:30,03:45,06h 15m,INR 411,15 Seats available,3.6
+277,Delhi to Chandigarh,Ashok Bus Service,A/C Seater / Sleeper (2+2),21:45,03:30,05h 45m,600,39 Seats available,3.6
+278,Delhi to Chandigarh,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),21:45,02:30,04h 45m,585,18 Seats available,4.9
+279,Delhi to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:50,04:55,07h 05m,495,10 Seats available,4.8
+280,Delhi to Chandigarh,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:50,03:35,05h 45m,INR 610,3 Seats available,4.5
+281,Delhi to Chandigarh,Deltin Travels,Volvo 9600 A/C Semi Sleeper (2+2),21:50,03:09,05h 19m,INR 500,2 Seats available,4.1
+282,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:50,03:00,05h 10m,542,31 Seats available,4.7
+283,Delhi to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:50,04:45,06h 55m,495,10 Seats available,4.4
+284,Delhi to Chandigarh,IntrCity SmartBus,Volvo A/C Semi Sleeper (2+2),21:55,03:10,05h 15m,INR 499,6 Seats available,4.4
+285,Delhi to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),21:55,03:00,05h 05m,540,6 Seats available,4.8
+286,Delhi to Chandigarh,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),21:55,04:25,06h 30m,557,7 Seats available,4.3
+287,Delhi to Chandigarh,NueGo,Electric A/C Seater (2+2),22:00,03:15,05h 15m,356,23 Seats available,4.2
+288,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,03:15,05h 15m,INR 350,27 Seats available,4.3
+289,Delhi to Chandigarh,Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,02:45,04h 40m,520,37 Seats available,4.9
+290,Delhi to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),22:10,03:20,05h 10m,540,10 Seats available,4.2
+291,Delhi to Chandigarh,Apex Bus Travels,A/C Seater / Sleeper (2+2),22:30,03:00,04h 30m,549,32 Seats available,3.4
+292,Delhi to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),22:40,03:50,05h 10m,474,15 Seats available,4.9
+293,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Semi Sleeper (2+2),22:50,04:00,05h 10m,523,30 Seats available,4.7
+294,Delhi to Chandigarh,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:50,04:05,05h 15m,599,28 Seats available,3.8
+295,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Semi Sleeper (2+2),22:50,20:20,21h 30m,523,30 Seats available,4.6
+296,Delhi to Chandigarh,Zingbus Plus,Scania A/C Semi Sleeper (2+2),22:50,03:35,04h 45m,375,24 Seats available,4.7
+297,Delhi to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),22:55,04:15,05h 20m,513,21 Seats available,4.7
+298,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:00,04:20,05h 20m,569,12 Seats available,4.6
+299,Delhi to Chandigarh,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),23:00,03:50,04h 50m,495,14 Seats available,5.0
+300,Delhi to Chandigarh,NueGo,Electric A/C Seater (2+2),23:00,04:35,05h 35m,356,33 Seats available,3.7
+301,Delhi to Chandigarh,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),23:00,04:45,05h 45m,495,25 Seats available,4.5
+302,Delhi to Chandigarh,Laxmi holidays,VE A/C Sleeper (2+1),23:00,04:15,05h 15m,570,17 Seats available,4.6
+303,Delhi to Chandigarh,Yolo Bus,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,03:24,04h 24m,INR 600,36 Seats available,4.6
+304,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:00,03:50,04h 50m,380,38 Seats available,4.0
+305,Delhi to Chandigarh,City Land Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),23:00,04:40,05h 40m,495,41 Seats available,3.6
+306,Delhi to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),23:10,04:40,05h 30m,540,29 Seats available,5.0
+307,Delhi to Chandigarh,NueGo,Electric A/C Seater (2+2),23:15,05:05,0-19h 0-10m,404,3 Seats available,4.7
+308,Delhi to Chandigarh,Yolo Bus,Volvo 9600 A/C Semi Sleeper (2+2),23:16,04:27,05h 11m,INR 500,26 Seats available,4.9
+309,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),23:25,04:15,04h 50m,523,20 Seats available,4.4
+310,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),23:25,04:40,05h 15m,523,20 Seats available,5.0
+311,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,04:20,04h 50m,570,14 Seats available,4.4
+312,Delhi to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,04:30,05h 00m,INR 399,28 Seats available,4.7
+313,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),23:30,03:45,04h 15m,522,16 Seats available,3.9
+314,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),23:30,04:00,04h 30m,522,16 Seats available,4.4
+315,Delhi to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,04:35,05h 05m,474,27 Seats available,5.0
+316,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,04:40,05h 00m,523,23 Seats available,4.4
+317,Delhi to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),23:40,05:05,05h 25m,540,33 Seats available,4.6
+318,Delhi to Chandigarh,FlixBus,A/C Seater (2+2),23:55,04:55,05h 00m,INR 268,18 Seats available,3.6
+319,Delhi to Chandigarh,NueGo,Electric A/C Seater (2+2),23:55,05:10,05h 15m,356,15 Seats available,4.1
+320,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),18:15,23:50,05h 35m,585,31 Seats available,1.9
+321,Delhi to Chandigarh,FlixBus,A/C Seater (2+2),18:30,00:30,06h 00m,INR 375,18 Seats available,2.7
+322,Delhi to Chandigarh,NueGo,Electric A/C Seater (2+2),18:40,23:35,04h 55m,404,18 Seats available,2.5
+323,Delhi to Chandigarh,Travel hub,Volvo A/C Semi Sleeper (2+2),18:45,01:50,07h 05m,INR 599,32 Seats available,2.6
+324,Delhi to Chandigarh,Cab India Travels,Volvo A/C Semi Sleeper (2+2),19:20,01:00,05h 40m,600,25 Seats available,2.8
+325,Delhi to Chandigarh,TANISHQ HOLIDAYS TOUR,Volvo A/C Semi Sleeper (2+2),19:30,23:30,04h 00m,499,28 Seats available,2.8
+326,Delhi to Chandigarh,ABHI TRAVELS,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),19:30,01:00,05h 30m,522,26 Seats available,2.4
+327,Delhi to Chandigarh,SIDDHI VINAYAK TRAVELS,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:30,01:15,05h 45m,INR 450,34 Seats available,2.8
+328,Delhi to Chandigarh,Deepak Raj Tour and Travels,VE A/C Seater / Sleeper (2+1),20:00,00:50,04h 50m,INR 549,23 Seats available,1.6
+329,Delhi to Chandigarh,Big Bus,A/C Seater / Sleeper (2+2),20:30,01:20,04h 50m,INR 595,39 Seats available,2.6
+330,Delhi to Chandigarh,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),20:30,02:30,06h 00m,539,36 Seats available,No rating
+331,Delhi to Chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),20:30,01:15,04h 45m,INR 600,19 Seats available,2.6
+332,Delhi to Chandigarh,SHAH HOLIDAY TRAVEL,Bharat Benz A/C Seater / Sleeper (2+2),21:00,03:00,06h 00m,INR 599,35 Seats available,2.8
+333,Delhi to Chandigarh,SIDDHI VINAYAK TRAVELS,Volvo A/C Semi Sleeper (2+2),21:00,02:45,05h 45m,INR 500,25 Seats available,2.8
+334,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:00,02:30,05h 30m,542,29 Seats available,1.8
+335,Delhi to Chandigarh,RK Holiday,A/C Seater / Sleeper (2+2),22:10,03:10,05h 00m,404,28 Seats available,2.9
+336,Delhi to Chandigarh,Big Bus,A/C Seater / Sleeper (2+2),22:30,02:50,04h 20m,INR 597,40 Seats available,2.6
+337,Delhi to Chandigarh,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),22:30,04:30,06h 00m,539,38 Seats available,No rating
+338,Delhi to Chandigarh,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),18:10,23:29,05h 19m,INR 699,24 Seats available,3.4
+339,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),18:25,23:30,05h 05m,693,3 Seats available,3.8
+340,Delhi to Chandigarh,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:45,23:45,05h 00m,696,31 Seats available,3.5
+341,Delhi to Chandigarh,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),19:00,23:40,04h 40m,INR 1649,41 Seats available,4.0
+342,Delhi to Chandigarh,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),19:00,00:20,05h 20m,INR 899,4 Seats available,4.1
+343,Delhi to Chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:15,00:30,05h 15m,675,9 Seats available,3.8
+344,Delhi to Chandigarh,IntrCity SmartBus,AC Sleeper (2+1),19:25,01:40,06h 15m,INR 719,36 Seats available,4.3
+345,Delhi to Chandigarh,IntrCity SmartBus,AC Sleeper (2+1),19:30,01:45,06h 15m,INR 759,22 Seats available,4.3
+346,Delhi to Chandigarh,SHRI BALAJII TRAVELS,Volvo A/C Semi Sleeper (2+2),19:30,01:15,05h 45m,INR 1499,4 Seats available,No rating
+347,Delhi to Chandigarh,Metahills holidays,Scania A/C Semi Sleeper (2+2),19:30,23:51,04h 21m,1350,37 Seats available,3.5
+348,Delhi to Chandigarh,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),19:30,00:50,05h 20m,INR 1649,8 Seats available,4.0
+349,Delhi to Chandigarh,Kedara Bus,A/C Seater / Sleeper (2+1),19:35,01:30,05h 55m,740,26 Seats available,4.1
+350,Delhi to Chandigarh,HIMALAYAN HOLIDAYS,Volvo A/C Semi Sleeper (2+2 ),19:40,23:50,04h 10m,INR 849,31 Seats available,3.5
+351,Delhi to Chandigarh,HIMALAYAN HOLIDAYS,Volvo A/C Semi Sleeper (2+2 ),20:00,23:59,03h 59m,INR 849,27 Seats available,3.5
+352,Delhi to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),20:00,01:00,05h 00m,INR 630,13 Seats available,3.8
+353,Delhi to Chandigarh,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:00,02:25,06h 25m,INR 665,9 Seats available,4.3
+354,Delhi to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),20:00,01:05,05h 05m,630,5 Seats available,4.8
+355,Delhi to Chandigarh,Shiv Mohan Travels,AC Sleeper (2+1),20:10,02:30,06h 20m,INR 650,30 Seats available,4.3
+356,Delhi to Chandigarh,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),20:15,01:45,05h 30m,630,14 Seats available,4.7
+357,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:30,01:30,05h 00m,665,4 Seats available,4.9
+358,Delhi to Chandigarh,Apex Bus Travels,A/C Seater / Sleeper (2+2),20:30,01:00,04h 30m,699,32 Seats available,3.4
+359,Delhi to Chandigarh,Metahills holidays,Scania A/C Semi Sleeper (2+2),21:00,01:21,04h 21m,1440,49 Seats available,3.5
+360,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),21:00,02:00,05h 00m,759,18 Seats available,4.3
+361,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:00,01:55,04h 55m,665,14 Seats available,4.9
+362,Delhi to Chandigarh,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),21:00,02:45,05h 45m,INR 1899,54 Seats available,4.1
+363,Delhi to Chandigarh,Awadh Travels,A/C Sleeper (2+2),21:10,02:30,05h 20m,764,44 Seats available,4.0
+364,Delhi to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),21:15,01:20,04h 05m,INR 630,9 Seats available,4.4
+365,Delhi to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:20,02:00,04h 40m,720,7 Seats available,4.5
+366,Delhi to Chandigarh,Malana Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:30,02:30,05h 00m,674,25 Seats available,4.4
+367,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,02:30,05h 00m,950,15 Seats available,4.9
+368,Delhi to Chandigarh,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),21:45,03:30,05h 45m,INR 799,14 Seats available,4.1
+369,Delhi to Chandigarh,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:45,02:15,04h 30m,720,13 Seats available,4.9
+370,Delhi to Chandigarh,Holiday Appeal Private Limited,Scania Multi-Axle AC Semi Sleeper (2+2),22:00,02:30,04h 30m,INR 699,29 Seats available,4.1
+371,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:00,03:10,05h 10m,712,23 Seats available,4.8
+372,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:00,02:50,04h 50m,664,18 Seats available,4.8
+373,Delhi to Chandigarh,Kedara Bus,Volvo A/C Semi Sleeper (2+2),22:15,03:45,05h 30m,739,41 Seats available,4.1
+374,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:30,03:45,05h 15m,760,16 Seats available,4.6
+375,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),22:30,04:00,05h 30m,1033,30 Seats available,3.6
+376,Delhi to Chandigarh,Travel Point,A/C Seater / Sleeper (2+2),22:30,04:15,05h 45m,880,50 Seats available,3.5
+377,Delhi to Chandigarh,Heera Himachal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),18:30,01:00,06h 30m,INR 899,32 Seats available,1.7
+378,Delhi to Chandigarh,Yatrabybus.com,Bharat Benz A/C Semi Sleeper (2+2),19:00,22:20,03h 20m,INR 2199,49 Seats available,2.5
+379,Delhi to Chandigarh,Shree Balaji Travels,Volvo A/C Semi Sleeper (2+2),19:20,00:20,05h 00m,INR 1699,32 Seats available,2.9
+380,Delhi to Chandigarh,Asian's Shina Tour & Travels (Swoyambhu Manjushree Yatayat P. LTD),A/C Semi Sleeper (2+2),19:30,00:26,04h 56m,INR 999,1 Seat available,2.5
+381,Delhi to Chandigarh,TANISHQ HOLIDAYS TOUR,Volvo A/C Semi Sleeper (2+2),19:30,23:30,04h 00m,799,30 Seats available,2.8
+382,Delhi to Chandigarh,G.T.SHolidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,00:30,05h 00m,INR 649,29 Seats available,2.3
+383,Delhi to Chandigarh,G.T.SHolidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,01:30,06h 00m,INR 799,41 Seats available,2.3
+384,Delhi to Chandigarh,Shree Balaji Travels,Volvo A/C Semi Sleeper (2+2),20:30,01:10,04h 40m,INR 1699,20 Seats available,2.9
+385,Delhi to Chandigarh,G.T.SHolidays,Bharat Benz A/C Semi Sleeper (2+2),20:30,01:30,05h 00m,INR 799,30 Seats available,2.3
+386,Delhi to Chandigarh,Aarohi Travels,VE A/C Seater (2+2),21:00,03:10,06h 10m,INR 1599,49 Seats available,No rating
+387,Delhi to Chandigarh,Travel hub,Volvo A/C Semi Sleeper (2+2),21:30,04:05,06h 35m,782,21 Seats available,2.6
+388,Delhi to Chandigarh,Red Apple Bus Service,A/C Seater / Sleeper (2+2),22:00,03:30,05h 30m,INR 899,24 Seats available,1.5
+389,Delhi to Chandigarh,Shub Yatra Holidays,A/C Sleeper (2+2),22:45,03:30,04h 45m,INR 749,31 Seats available,2.3
+390,Delhi to Chandigarh,Ashok Bus Service,A/C Seater / Sleeper (2+2),23:55,05:35,05h 40m,INR 699,39 Seats available,1.6
+391,Manali to Delhi,HRTC - 759,Himsuta AC Seater Volvo/Scania 2+2,20:00,09:00,13h 00m,INR 1446,34 Seats available,2.9
+392,Manali to Delhi,HRTC - 701,Ordinary 3+2 Non AC Seater,21:30,10:30,13h 00m,INR 820,37 Seats available,3.6
+393,Manali to Delhi,Malana Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:00,06:00,10h 00m,854,16 Seats available,4.5
+394,Manali to Delhi,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),20:30,07:40,11h 10m,603,15 Seats available,4.4
+395,Manali to Delhi,Zingbus Plus,Scania A/C Semi Sleeper (2+2),19:30,06:15,10h 45m,640,23 Seats available,4.5
+396,Manali to Delhi,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),19:05,06:10,11h 05m,640,17 Seats available,4.1
+397,Manali to Delhi,Reo India Travels,Volvo A/C Semi Sleeper (2+2),18:55,05:50,10h 55m,567,19 Seats available,4.0
+398,Manali to Delhi,Holiday Appeal Private Limited,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,09:00,12h 00m,INR 799,49 Seats available,4.8
+399,Manali to Delhi,Reo India Travels,Volvo A/C Semi Sleeper (2+2),19:35,07:35,12h 00m,567,19 Seats available,4.6
+400,Manali to Delhi,FlixBus,A/C Seater (2+2),20:30,07:55,11h 25m,INR 791,24 Seats available,4.5
+401,Manali to Delhi,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:30,05:45,11h 15m,674,26 Seats available,4.2
+402,Manali to Delhi,FlixBus,A/C Seater (2+2),18:30,06:00,11h 30m,INR 744,21 Seats available,4.5
+403,Manali to Delhi,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:00,07:00,11h 00m,721,7 Seats available,4.5
+404,Manali to Delhi,IntrCity SmartBus,Volvo A/C Semi Sleeper (2+2),19:30,07:00,11h 30m,INR 954,5 Seats available,4.6
+405,Manali to Delhi,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:00,07:45,09h 45m,902,3 Seats available,4.4
+406,Manali to Delhi,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:30,07:30,10h 00m,759,5 Seats available,4.4
+407,Manali to Delhi,Yolo Bus,Volvo 9600 A/C Semi Sleeper (2+2),21:10,06:29,09h 19m,INR 810,2 Seats available,4.3
+408,Manali to Delhi,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),18:40,06:30,11h 50m,728,8 Seats available,4.2
+409,Manali to Delhi,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),21:00,08:50,11h 50m,648,6 Seats available,4.5
+410,Manali to Delhi,Malana Travels,Volvo A/C Semi Sleeper (2+2),18:30,05:30,11h 00m,665,8 Seats available,4.5
+411,Manali to Delhi,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),18:25,04:55,10h 30m,584,25 Seats available,3.0
+412,Manali to Delhi,Reo India Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:25,06:20,10h 55m,567,21 Seats available,3.9
+413,Manali to Delhi,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),20:30,07:45,11h 15m,1395,41 Seats available,3.9
+414,Manali to Delhi,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),19:00,06:30,11h 30m,INR 1649,41 Seats available,3.8
+415,Manali to Delhi,City Land Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:05,08:45,10h 40m,673,19 Seats available,3.6
+416,Manali to Delhi,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),18:30,07:00,12h 30m,INR 1649,41 Seats available,3.8
+417,Manali to Delhi,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:30,05:45,11h 15m,674,26 Seats available,3.2
+418,Manali to Delhi,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),18:25,05:25,11h 00m,674,26 Seats available,2.8
+419,Manali to Delhi,G.T.SHolidays,Bharat Benz A/C Semi Sleeper (2+2),18:30,06:00,11h 30m,899,31 Seats available,1.3
+420,Manali to Delhi,Zakir Flights,Volvo A/C Semi Sleeper (2+2),18:30,06:00,11h 30m,584,31 Seats available,2.8
+421,Manali to Delhi,Travel Zap India Pvt LTD.,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),19:00,05:50,10h 50m,INR 1099,44 Seats available,2.9
+422,Manali to Delhi,Metahills holidays,Scania A/C Semi Sleeper (2+2),21:00,09:01,12h 01m,990,5 Seats available,1.8
+423,Hamirpur (Himachal Pradesh) to Delhi,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:40,06:00,08h 20m,719,13 Seats available,4.7
+424,Hamirpur (Himachal Pradesh) to Delhi,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:20,05:30,09h 10m,523,15 Seats available,4.5
+425,Shimla to Manali,HRTC - 291,Himmani Deluxe 2+2 Non AC Seater,20:20,05:00,08h 40m,INR 641,26 Seats available,3.5
+426,Shimla to Manali,HRTC - 154,Himsuta AC Seater Volvo/Scania 2+2,21:00,06:10,09h 10m,INR 963,21 Seats available,4.4
+427,Shimla to Manali,HRTC - 293,Ordinary 3+2 Non AC Seater,21:40,06:00,08h 20m,INR 583,39 Seats available,2.6
+428,Delhi to Dharamshala (Himachal Pradesh),HRTC - 550,Ordinary 3+2 Non AC Seater,19:40,08:00,12h 20m,INR 714,37 Seats available,3.9
+429,Delhi to Dharamshala (Himachal Pradesh),HRTC - 550,Ordinary 3+2 Non AC Seater,19:40,07:45,12h 05m,INR 692,37 Seats available,2.6
+430,Delhi to Dharamshala (Himachal Pradesh),HRTC - 14,Himsuta AC Seater Volvo/Scania 2+2,20:10,07:45,11h 35m,INR 1295,29 Seats available,3.5
+431,Delhi to Dharamshala (Himachal Pradesh),HRTC - 14,Himsuta AC Seater Volvo/Scania 2+2,20:10,07:30,11h 20m,INR 1259,29 Seats available,4.3
+432,Delhi to Dharamshala (Himachal Pradesh),HRTC - 26,Himsuta AC Seater Volvo/Scania 2+2,20:50,08:40,11h 50m,INR 1310,28 Seats available,2.7
+433,Delhi to Dharamshala (Himachal Pradesh),HRTC - 26,Himsuta AC Seater Volvo/Scania 2+2,20:50,08:10,11h 20m,INR 1274,26 Seats available,4.1
+434,Delhi to Dharamshala (Himachal Pradesh),HRTC - 569,Himmani Deluxe 2+2 Non AC Seater,21:22,09:20,11h 58m,INR 779,27 Seats available,3.2
+435,Delhi to Dharamshala (Himachal Pradesh),HRTC - 569,Himmani Deluxe 2+2 Non AC Seater,21:22,09:06,11h 44m,INR 755,23 Seats available,4.6
+436,Delhi to Dharamshala (Himachal Pradesh),HRTC - 577,A/C Executive (2+3),21:40,09:10,11h 30m,INR 680,43 Seats available,3.4
+437,Delhi to Dharamshala (Himachal Pradesh),HRTC - 582,Ordinary 3+2 Non AC Seater,23:05,11:45,12h 40m,INR 680,36 Seats available,2.4
+438,Delhi to Dharamshala (Himachal Pradesh),Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:50,08:10,11h 20m,720,13 Seats available,4.8
+439,Delhi to Dharamshala (Himachal Pradesh),Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:30,06:40,11h 10m,494,20 Seats available,4.8
+440,Delhi to Dharamshala (Himachal Pradesh),Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:30,07:30,11h 00m,567,12 Seats available,4.8
+441,Delhi to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:00,09:00,11h 00m,664,18 Seats available,4.7
+442,Delhi to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,06:55,10h 55m,554,19 Seats available,4.7
+443,Delhi to Dharamshala (Himachal Pradesh),Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),21:15,08:30,11h 15m,585,14 Seats available,4.7
+444,Delhi to Dharamshala (Himachal Pradesh),Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:30,07:45,11h 15m,567,12 Seats available,4.7
+445,Delhi to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:00,08:55,10h 55m,664,18 Seats available,4.7
+446,Delhi to Dharamshala (Himachal Pradesh),Zingbus Plus,Volvo A/C Semi Sleeper (2+2),20:05,06:00,09h 55m,540,20 Seats available,4.6
+447,Delhi to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,06:53,10h 53m,554,19 Seats available,4.7
+448,Delhi to Dharamshala (Himachal Pradesh),Zingbus Plus,Volvo A/C Semi Sleeper (2+2),20:05,06:05,10h 00m,540,19 Seats available,4.6
+449,Delhi to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:00,07:15,10h 15m,665,14 Seats available,4.7
+450,Delhi to Dharamshala (Himachal Pradesh),Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,08:20,10h 15m,520,37 Seats available,4.6
+451,Delhi to Dharamshala (Himachal Pradesh),Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),21:15,08:45,11h 30m,585,14 Seats available,4.6
+452,Delhi to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:00,08:00,11h 00m,665,14 Seats available,4.5
+453,Delhi to Dharamshala (Himachal Pradesh),Triptara tour & Travel,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,07:20,10h 50m,INR 500,30 Seats available,4.5
+454,Delhi to Dharamshala (Himachal Pradesh),Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,08:25,10h 20m,506,37 Seats available,4.2
+455,Delhi to Dharamshala (Himachal Pradesh),FlixBus,A/C Seater (2+2),19:00,07:15,12h 15m,INR 657,18 Seats available,4.5
+456,Delhi to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:00,06:00,11h 00m,554,10 Seats available,4.7
+457,Delhi to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:00,05:59,10h 59m,554,10 Seats available,4.6
+458,Delhi to Dharamshala (Himachal Pradesh),New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),20:20,07:45,11h 25m,INR 630,9 Seats available,4.1
+459,Delhi to Dharamshala (Himachal Pradesh),New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),20:20,07:49,11h 29m,INR 630,9 Seats available,4.3
+460,Delhi to Dharamshala (Himachal Pradesh),A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,07:15,11h 45m,494,21 Seats available,3.1
+461,Delhi to Dharamshala (Himachal Pradesh),Triptara tour & Travel,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,07:30,11h 00m,INR 500,30 Seats available,3.4
+462,Delhi to Dharamshala (Himachal Pradesh),A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,06:40,11h 10m,494,21 Seats available,3.0
+463,Delhi to Dharamshala (Himachal Pradesh),Raghukul Holidays,Volvo A/C Semi Sleeper (2+2),20:00,07:30,11h 30m,539,32 Seats available,3.8
+464,Delhi to Dharamshala (Himachal Pradesh),Asian's Shina Tour & Travels (Swoyambhu Manjushree Yatayat P. LTD),A/C Semi Sleeper (2+2),19:00,06:30,11h 30m,INR 999,1 Seat available,3.3
+465,Delhi to Dharamshala (Himachal Pradesh),Asian's Shina Tour & Travels (Swoyambhu Manjushree Yatayat P. LTD),A/C Semi Sleeper (2+2),19:00,07:15,12h 15m,INR 1199,1 Seat available,2.5
+466,Shimla to Chandigarh,HRTC - 188,Ordinary 3+2 Non AC Seater,19:25,22:26,03h 01m,INR 237,26 Seats available,3.9
+467,Shimla to Chandigarh,HRTC - 153,Himsuta AC Seater Volvo/Scania 2+2,19:30,23:30,04h 00m,INR 384,34 Seats available,4.9
+468,Shimla to Chandigarh,HRTC - 74,Himsuta AC Seater Volvo/Scania 2+2,20:00,23:00,03h 00m,INR 384,34 Seats available,2.8
+469,Shimla to Chandigarh,HRTC - 1711,Ordinary 3+2 Non AC Seater,20:00,23:00,03h 00m,INR 238,34 Seats available,3.9
+470,Shimla to Chandigarh,HRTC - 139,Ordinary 3+2 Non AC Seater,20:05,00:15,04h 10m,INR 237,37 Seats available,3.9
+471,Shimla to Chandigarh,HRTC - 230,A/C Executive (2+3),20:20,01:00,04h 40m,INR 236,44 Seats available,3.9
+472,Shimla to Chandigarh,HRTC - 229,Ordinary 3+2 Non AC Seater,20:40,23:30,02h 50m,INR 242,37 Seats available,3.9
+473,Shimla to Chandigarh,HRTC - 3,Himsuta AC Seater Volvo/Scania 2+2,21:00,00:40,03h 40m,INR 384,34 Seats available,4.9
+474,Shimla to Chandigarh,HRTC - 108,A/C Executive (2+3),21:20,00:21,03h 01m,INR 252,44 Seats available,3.2
+475,Shimla to Chandigarh,HRTC - 19,Himsuta AC Seater Volvo/Scania 2+2,21:30,01:15,03h 45m,INR 384,32 Seats available,3.9
+476,Shimla to Chandigarh,HRTC - 1712,Ordinary 3+2 Non AC Seater,21:30,23:34,02h 04m,INR 238,24 Seats available,3.9
+477,Shimla to Chandigarh,HRTC - 130,Ordinary 3+2 Non AC Seater,21:45,01:30,03h 45m,INR 237,37 Seats available,3.9
+478,Shimla to Chandigarh,HRTC - 179,Ordinary 3+2 Non AC Seater,22:00,01:45,03h 45m,INR 242,27 Seats available,3.9
+479,Shimla to Chandigarh,HRTC - 35,Himsuta AC Seater Volvo/Scania 2+2,22:00,01:10,03h 10m,INR 384,12 Seats available,3.9
+480,Shimla to Chandigarh,HRTC - 92,Himsuta AC Seater Volvo/Scania 2+2,22:30,01:30,03h 00m,INR 384,34 Seats available,3.9
+481,Shimla to Chandigarh,HRTC - 136,Ordinary 3+2 Non AC Seater,22:30,02:10,03h 40m,INR 242,27 Seats available,3.9
+482,Shimla to Chandigarh,HRTC - 1710,Ordinary 3+2 Non AC Seater,22:40,02:20,03h 40m,INR 237,37 Seats available,3.9
+483,Shimla to Chandigarh,Chandigarh Transport Undertaking (CTU) - 165748,HVAC Seater (2+3),22:45,03:20,04h 35m,INR 307.62,47 Seats available,3.7
+484,Shimla to Chandigarh,FlixBus,A/C Seater (2+2),20:00,00:30,04h 30m,INR 181,29 Seats available,3.6
+485,Shimla to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),20:30,23:45,03h 15m,INR 267,30 Seats available,4.7
+486,Shimla to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,23:35,03h 05m,INR 399,32 Seats available,4.7
+487,Shimla to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,23:00,02h 30m,INR 399,32 Seats available,4.8
+488,Shimla to Chandigarh,Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),21:00,00:45,03h 45m,495,41 Seats available,4.5
+489,Shimla to Chandigarh,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),21:30,00:55,03h 25m,450,16 Seats available,4.7
+490,Shimla to Chandigarh,Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),22:00,01:00,03h 00m,540,42 Seats available,4.8
+491,Shimla to Chandigarh,Yolo Bus,Volvo A/C Semi Sleeper (2+2),22:00,00:42,02h 42m,INR 1914,49 Seats available,3.9
+492,Chandigarh to Dharamshala (Himachal Pradesh),HRTC - 91,Himsuta AC Seater Volvo/Scania 2+2,22:10,04:40,06h 30m,INR 724,28 Seats available,3.1
+493,Chandigarh to Dharamshala (Himachal Pradesh),Laxmi holidays,VE A/C Semi Sleeper (2+2),23:50,05:30,05h 40m,759,26 Seats available,4.0
+494,Chandigarh to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:55,06:00,06h 05m,569,14 Seats available,4.6
+495,Chandigarh to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:55,05:59,06h 04m,569,14 Seats available,4.6
+496,Chandigarh to Dharamshala (Himachal Pradesh),A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),23:59,07:15,07h 16m,494,22 Seats available,4.0
+497,Chandigarh to Dharamshala (Himachal Pradesh),A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),23:59,06:40,06h 41m,494,26 Seats available,2.4
+498,Delhi to Baddi (Himachal Pradesh),TANISHQ HOLIDAYS TOUR,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:00,01:30,06h 30m,1619,49 Seats available,2.8
+499,Delhi to Baddi (Himachal Pradesh),TANISHQ HOLIDAYS TOUR,Volvo Multi-Axle A/C Semi Sleeper (2+2),21:00,03:30,06h 30m,1619,49 Seats available,2.8
+500,Dharamshala (Himachal Pradesh) to Chandigarh,HRTC - 905,Ordinary 3+2 Non AC Seater,19:35,02:30,06h 55m,INR 449,37 Seats available,3.9
+501,Dharamshala (Himachal Pradesh) to Chandigarh,HRTC - 43,Himsuta AC Seater Volvo/Scania 2+2,19:35,01:15,05h 40m,INR 751,34 Seats available,3.7
+502,Dharamshala (Himachal Pradesh) to Chandigarh,HRTC - 927,Ordinary 3+2 Non AC Seater,20:00,04:15,08h 15m,INR 451,37 Seats available,3.9
+503,Dharamshala (Himachal Pradesh) to Chandigarh,HRTC - 13,Himsuta AC Seater Volvo/Scania 2+2,20:05,02:15,06h 10m,INR 751,23 Seats available,4.8
+504,Dharamshala (Himachal Pradesh) to Chandigarh,HRTC - 905,Ordinary 3+2 Non AC Seater,20:15,02:30,06h 15m,INR 427,37 Seats available,3.9
+505,Dharamshala (Himachal Pradesh) to Chandigarh,HRTC - 927,Ordinary 3+2 Non AC Seater,21:00,04:15,07h 15m,INR 429,20 Seats available,2.9
+506,Dharamshala (Himachal Pradesh) to Chandigarh,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),18:45,01:00,06h 15m,630,5 Seats available,4.7
+507,Dharamshala (Himachal Pradesh) to Chandigarh,Laxmi holidays,VE A/C Semi Sleeper (2+2),19:00,23:55,04h 55m,463,23 Seats available,4.2
+508,Dharamshala (Himachal Pradesh) to Chandigarh,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:00,01:00,06h 00m,630,5 Seats available,4.9
+509,Dharamshala (Himachal Pradesh) to Chandigarh,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:30,01:30,06h 00m,558,7 Seats available,5.0
+510,Dharamshala (Himachal Pradesh) to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),19:30,00:45,05h 15m,549,14 Seats available,4.6
+511,Dharamshala (Himachal Pradesh) to Chandigarh,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,23:59,04h 29m,674,23 Seats available,3.3
+512,Dharamshala (Himachal Pradesh) to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:30,01:15,05h 45m,INR 550,19 Seats available,4.0
+513,Dharamshala (Himachal Pradesh) to Chandigarh,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:30,01:30,06h 00m,558,7 Seats available,4.8
+514,Dharamshala (Himachal Pradesh) to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:35,01:15,05h 40m,INR 550,19 Seats available,4.8
+515,Dharamshala (Himachal Pradesh) to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),19:35,00:45,05h 10m,524,15 Seats available,4.6
+516,Dharamshala (Himachal Pradesh) to Chandigarh,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:55,02:00,06h 05m,647,7 Seats available,4.5
+517,Dharamshala (Himachal Pradesh) to Chandigarh,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,02:00,06h 00m,647,7 Seats available,5.0
+518,Dharamshala (Himachal Pradesh) to Chandigarh,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:30,01:55,05h 25m,729,30 Seats available,4.6
+519,Dharamshala (Himachal Pradesh) to Chandigarh,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:38,01:55,05h 17m,729,30 Seats available,5.0
+520,Dharamshala (Himachal Pradesh) to Chandigarh,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),21:00,02:45,05h 45m,630,4 Seats available,4.9
+521,Dharamshala (Himachal Pradesh) to Chandigarh,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),21:15,02:45,05h 30m,630,4 Seats available,4.8
+522,Dharamshala (Himachal Pradesh) to Chandigarh,Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),21:30,02:45,05h 15m,629,38 Seats available,4.9
+523,Dharamshala (Himachal Pradesh) to Chandigarh,Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),21:35,02:45,05h 10m,502,12 Seats available,4.5
+524,Dharamshala (Himachal Pradesh) to Chandigarh,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),19:00,23:59,04h 59m,674,23 Seats available,1.8
+525,Chamba (Himachal Pradesh) to Chandigarh,HRTC - 1028,A/C Executive (2+3),20:15,07:15,11h 00m,INR 638,24 Seats available,3.6
+526,Delhi to Dalhousie,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:25,08:05,11h 40m,1461,9 Seats available,4.3
+527,Delhi to Dalhousie,Travel Point,A/C Seater / Sleeper (2+2),21:00,09:51,12h 51m,1202,49 Seats available,2.6
+528,Delhi to Chamba (Himachal Pradesh),HRTC - 84,Himsuta AC Seater Volvo/Scania 2+2,20:15,11:30,15h 15m,INR 1589,15 Seats available,4.0
+529,Delhi to Chamba (Himachal Pradesh),HRTC - 578,Ordinary 3+2 Non AC Seater,22:10,18:35,20h 25m,INR 862,31 Seats available,1.9
+530,Dalhousie to Delhi,HRTC - 100,Himsuta AC Seater Volvo/Scania 2+2,19:50,09:00,13h 10m,INR 1437,10 Seats available,3.9
+531,Solan to Delhi,HRTC - 104,A/C Executive (2+3),19:31,04:30,08h 59m,INR 509,44 Seats available,3.0
+532,Solan to Delhi,HRTC - 188,Ordinary 3+2 Non AC Seater,20:36,04:57,08h 21m,INR 404,27 Seats available,3.9
+533,Solan to Delhi,HRTC - 74,Himsuta AC Seater Volvo/Scania 2+2,21:10,05:00,07h 50m,INR 721,3 Seats available,4.4
+534,Solan to Delhi,HRTC - 3,Himsuta AC Seater Volvo/Scania 2+2,22:30,06:00,07h 30m,INR 721,11 Seats available,4.5
+535,Solan to Delhi,HRTC - 108,A/C Executive (2+3),22:31,06:52,08h 21m,INR 509,44 Seats available,3.4
+536,Solan to Delhi,HRTC - 130,Ordinary 3+2 Non AC Seater,22:45,06:15,07h 30m,INR 404,26 Seats available,2.2
+537,Solan to Delhi,HRTC - 19,Himsuta AC Seater Volvo/Scania 2+2,23:00,06:00,07h 00m,INR 721,9 Seats available,2.5
+538,Solan to Delhi,HRTC - 92,Himsuta AC Seater Volvo/Scania 2+2,23:50,07:00,07h 10m,INR 721,29 Seats available,3.9
+539,Solan to Delhi,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),21:30,04:30,07h 00m,474,29 Seats available,4.6
+540,Solan to Delhi,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),23:00,05:30,06h 30m,450,16 Seats available,4.6
+541,Solan to Delhi,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),21:50,04:35,06h 45m,458,27 Seats available,4.3
+542,Solan to Delhi,Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),22:40,05:40,07h 00m,495,39 Seats available,4.5
+543,Solan to Delhi,Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),23:15,05:30,06h 15m,540,35 Seats available,4.7
+544,Solan to Delhi,FlixBus,A/C Seater (2+2),21:25,05:00,07h 35m,INR 470,27 Seats available,3.6
+545,Solan to Delhi,RAO TRAVELS INDIA PVT LTD.,AC Seater (2+2),23:00,06:00,07h 00m,INR 1666,40 Seats available,2.3
+546,Delhi to Palampur,HRTC - 547,A/C Executive (2+3),20:16,06:40,10h 24m,INR 846,37 Seats available,2.7
+547,Delhi to Palampur,HRTC - 558,Ordinary 3+2 Non AC Seater,20:20,08:00,11h 40m,INR 715,25 Seats available,3.8
+548,Delhi to Palampur,HRTC - 599,Himsuta AC Seater Volvo/Scania 2+2,20:29,08:00,11h 31m,INR 1299,20 Seats available,4.2
+549,Delhi to Palampur,HRTC - 565,Ordinary 3+2 Non AC Seater,21:05,08:00,10h 55m,INR 716,28 Seats available,3.6
+550,Delhi to Palampur,HRTC - 82,Himsuta AC Seater Volvo/Scania 2+2,21:55,09:30,11h 35m,INR 1332,13 Seats available,4.4
+551,Delhi to Palampur,HRTC - 575,A/C Executive (2+3),21:59,10:35,12h 36m,INR 745,27 Seats available,2.9
+552,Delhi to Palampur,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),19:45,07:45,12h 00m,630,14 Seats available,4.7
+553,Delhi to Palampur,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:00,07:00,11h 00m,648,13 Seats available,4.4
+554,Delhi to Palampur,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),21:00,08:15,11h 15m,759,18 Seats available,4.2
+555,Delhi to Palampur,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),20:00,07:15,11h 15m,630,5 Seats available,4.6
+556,Delhi to Palampur,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,06:00,11h 00m,647,9 Seats available,4.5
+557,Delhi to Palampur,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:20,08:00,10h 40m,738,5 Seats available,4.5
+558,Delhi to Palampur,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:30,07:15,11h 45m,INR 630,6 Seats available,4.5
+559,Delhi to Palampur,Bharmani Travels,Volvo A/C Semi Sleeper (2+2),21:15,07:00,09h 45m,620,24 Seats available,3.7
+560,Delhi to Palampur,City Land Travels,Volvo A/C Semi Sleeper (2+2),19:55,06:00,10h 05m,540,10 Seats available,3.7
+561,Delhi to Palampur,Northern Travels,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),19:30,07:30,12h 00m,INR 600,10 Seats available,3.5
+562,Dharamshala (Himachal Pradesh) to Delhi,HRTC - 905,Ordinary 3+2 Non AC Seater,19:35,07:45,12h 10m,INR 714,37 Seats available,3.4
+563,Dharamshala (Himachal Pradesh) to Delhi,HRTC - 905,Ordinary 3+2 Non AC Seater,20:15,07:45,11h 30m,INR 692,37 Seats available,2.7
+564,Dharamshala (Himachal Pradesh) to Delhi,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:38,06:30,09h 52m,765,30 Seats available,4.8
+565,Dharamshala (Himachal Pradesh) to Delhi,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:00,05:30,10h 30m,630,5 Seats available,4.8
+566,Dharamshala (Himachal Pradesh) to Delhi,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:30,05:45,10h 15m,540,7 Seats available,4.7
+567,Dharamshala (Himachal Pradesh) to Delhi,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),19:35,05:05,09h 30m,502,8 Seats available,4.7
+568,Dharamshala (Himachal Pradesh) to Delhi,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),21:15,07:30,10h 15m,630,4 Seats available,4.7
+569,Dharamshala (Himachal Pradesh) to Delhi,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,06:20,10h 20m,739,5 Seats available,4.6
+570,Dharamshala (Himachal Pradesh) to Delhi,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:30,06:30,10h 00m,765,30 Seats available,4.7
+571,Dharamshala (Himachal Pradesh) to Delhi,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:30,05:45,10h 15m,540,7 Seats available,4.6
+572,Dharamshala (Himachal Pradesh) to Delhi,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:55,06:20,10h 25m,739,5 Seats available,4.7
+573,Dharamshala (Himachal Pradesh) to Delhi,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),21:00,07:30,10h 30m,630,4 Seats available,4.7
+574,Dharamshala (Himachal Pradesh) to Delhi,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),19:30,05:05,09h 35m,546,8 Seats available,4.6
+575,Dharamshala (Himachal Pradesh) to Delhi,Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),21:35,06:55,09h 20m,568,11 Seats available,4.7
+576,Dharamshala (Himachal Pradesh) to Delhi,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),18:45,05:30,10h 45m,630,5 Seats available,4.5
+577,Dharamshala (Himachal Pradesh) to Delhi,Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),21:30,06:55,09h 25m,523,11 Seats available,4.7
+578,Dharamshala (Himachal Pradesh) to Delhi,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:30,06:20,10h 50m,INR 550,18 Seats available,4.2
+579,Dharamshala (Himachal Pradesh) to Delhi,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:35,06:20,10h 45m,INR 550,18 Seats available,3.9
+580,Dharamshala (Himachal Pradesh) to Delhi,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,06:15,10h 45m,674,23 Seats available,3.4
+581,Dharamshala (Himachal Pradesh) to Delhi,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),19:00,06:15,11h 15m,674,23 Seats available,3.0
+582,Delhi to Solan,HRTC - 93,Himsuta AC Seater Volvo/Scania 2+2,19:35,03:45,08h 10m,INR 721,33 Seats available,4.6
+583,Delhi to Solan,HRTC - 301,Ordinary 3+2 Non AC Seater,19:43,03:00,07h 17m,INR 404,27 Seats available,4.3
+584,Delhi to Solan,HRTC - 556,Ordinary 3+2 Non AC Seater,20:10,03:30,07h 20m,INR 404,27 Seats available,4.3
+585,Delhi to Solan,HRTC - 8,Himsuta AC Seater Volvo/Scania 2+2,21:02,04:40,07h 38m,INR 721,34 Seats available,4.8
+586,Delhi to Solan,HRTC - 570,Ordinary 3+2 Non AC Seater,21:25,05:25,08h 00m,INR 404,37 Seats available,4.3
+587,Delhi to Solan,HRTC - 20,Himsuta AC Seater Volvo/Scania 2+2,21:36,04:10,06h 34m,INR 696,34 Seats available,3.8
+588,Delhi to Solan,HRTC - 518,Ordinary 3+2 Non AC Seater,21:58,05:00,07h 02m,INR 404,27 Seats available,3.7
+589,Delhi to Solan,HRTC - 9,Himsuta AC Seater Volvo/Scania 2+2,22:00,06:00,08h 00m,INR 721,31 Seats available,4.1
+590,Delhi to Solan,HRTC - 36,Himsuta AC Seater Volvo/Scania 2+2,22:30,05:10,06h 40m,INR 696,19 Seats available,4.8
+591,Delhi to Solan,HRTC - 22,Himsuta AC Seater Volvo/Scania 2+2,23:00,06:50,07h 50m,INR 721,14 Seats available,3.8
+592,Delhi to Solan,HRTC - 564,Ordinary 3+2 Non AC Seater,23:40,08:40,09h 00m,INR 404,36 Seats available,4.3
+593,Delhi to Solan,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),23:25,06:40,07h 15m,523,19 Seats available,4.6
+594,Delhi to Solan,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,06:30,07h 00m,474,30 Seats available,4.6
+595,Delhi to Solan,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),23:00,06:45,07h 45m,495,14 Seats available,4.7
+596,Delhi to Solan,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),22:55,06:10,07h 15m,550,23 Seats available,4.6
+597,Delhi to Solan,City Land Travels,Volvo A/C Semi Sleeper (2+2),23:30,05:40,06h 10m,522,26 Seats available,3.1
+598,Delhi to Solan,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:50,06:30,08h 40m,495,9 Seats available,4.5
+599,Delhi to Solan,Laxmi holidays,Bharat Benz A/C Semi Sleeper (2+2),22:50,06:00,07h 10m,523,30 Seats available,3.9
+600,Delhi to Solan,FlixBus,A/C Seater (2+2),23:55,07:05,07h 10m,INR 565,18 Seats available,3.6
+601,Manali to Shimla,HRTC - 2100718,Ordinary 3+2 Non AC Seater,20:30,04:30,08h 00m,INR 583,32 Seats available,3.6
+602,Manali to Shimla,HRTC - 155,Himsuta AC Seater Volvo/Scania 2+2,21:00,06:10,09h 10m,INR 963,19 Seats available,3.5
+603,Manali to Shimla,HRTC - 718,Ordinary 3+2 Non AC Seater,21:30,04:30,07h 00m,INR 583,29 Seats available,2.9
+604,Palampur to Delhi,HRTC - 1152,Ordinary 3+2 Non AC Seater,20:00,08:10,12h 10m,INR 722,27 Seats available,4.7
+605,Palampur to Delhi,HRTC - 1103,A/C Executive (2+3),20:40,07:30,10h 50m,INR 836,29 Seats available,3.5
+606,Palampur to Delhi,HRTC - 1116,A/C Executive (2+3),21:35,09:00,11h 25m,INR 865,13 Seats available,3.0
+607,Palampur to Delhi,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),19:05,06:00,10h 55m,630,8 Seats available,4.7
+608,Palampur to Delhi,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),18:50,05:30,10h 40m,675,16 Seats available,4.6
+609,Palampur to Delhi,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:35,06:15,10h 40m,INR 600,11 Seats available,4.5
+610,Palampur to Delhi,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:50,07:30,10h 40m,665,10 Seats available,4.4
+611,Palampur to Delhi,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),19:20,06:00,10h 40m,509,17 Seats available,4.3
+612,Palampur to Delhi,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),19:30,06:00,10h 30m,720,13 Seats available,4.2
+613,Palampur to Delhi,Bharmani Travels,Volvo A/C Semi Sleeper (2+2),21:10,06:30,09h 20m,698,18 Seats available,4.2
+614,Palampur to Delhi,City Land Travels,Volvo A/C Semi Sleeper (2+2),19:30,06:00,10h 30m,540,17 Seats available,3.5
+615,Palampur to Delhi,Northern Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),18:45,05:15,10h 30m,INR 529,13 Seats available,3.5
+616,Chandigarh to Kullu,HRTC - 58,Himsuta AC Seater Volvo/Scania 2+2,19:30,04:00,08h 30m,INR 830,29 Seats available,3.9
+617,Chandigarh to Kullu,HRTC - 1286,Ordinary 3+2 Non AC Seater,21:05,05:00,07h 55m,INR 486,37 Seats available,3.9
+618,Chandigarh to Kullu,HRTC - 1522,Himsuta AC Seater Volvo/Scania 2+2,22:00,05:00,07h 00m,INR 775,35 Seats available,3.3
+619,Chandigarh to Kullu,HRTC - 521,Ordinary 3+2 Non AC Seater,22:20,06:00,07h 40m,INR 477,37 Seats available,3.9
+620,Chandigarh to Kullu,HRTC - 1231,Ordinary 3+2 Non AC Seater,22:40,04:22,05h 42m,INR 476,37 Seats available,3.9
+621,Chandigarh to Kullu,GLOBAL HOLIDAYS ADVENTURE TOURS,A/C Semi Sleeper (2+2),22:25,06:00,07h 35m,463,16 Seats available,3.5
+622,Chandigarh to Kullu,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:50,04:15,05h 25m,474,14 Seats available,4.7
+623,Chandigarh to Kullu,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),23:00,05:00,06h 00m,720,41 Seats available,3.8
+624,Chandigarh to Kullu,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),23:15,04:25,05h 10m,468,15 Seats available,4.8
+625,Chandigarh to Kullu,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:30,05:15,05h 45m,474,23 Seats available,4.5
+626,Chandigarh to Kullu,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),23:45,07:00,07h 15m,615,29 Seats available,3.5
+627,Chandigarh to Kullu,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),23:45,05:15,05h 30m,696,31 Seats available,3.5
+628,Chandigarh to Kullu,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),23:45,08:15,08h 30m,584,13 Seats available,3.0
+629,Chandigarh to Kullu,HIMALAYAN HOLIDAYS,Volvo A/C Semi Sleeper (2+2 ),23:50,05:50,06h 00m,INR 849,31 Seats available,3.5
+630,Chandigarh to Kullu,Metahills holidays,Scania A/C Semi Sleeper (2+2),23:51,08:20,08h 29m,1350,31 Seats available,3.5
+631,Chandigarh to Kullu,Abtc Tour and Travels,Bharat Benz A/C Semi Sleeper (2+2),23:55,06:10,06h 15m,599,21 Seats available,3.2
+632,Chandigarh to Kullu,Everest Holidays,Volvo A/C Semi Sleeper (2+2),23:55,06:15,06h 20m,594,21 Seats available,3.5
+633,Chandigarh to Kullu,Malana Travels,Volvo A/C Semi Sleeper (2+2),23:58,05:00,05h 02m,570,19 Seats available,3.9
+634,Chandigarh to Kullu,Reo India Travels,Volvo A/C Semi Sleeper (2+2),23:59,06:30,06h 31m,499,6 Seats available,4.5
+635,Chandigarh to Kullu,HIMALAYAN HOLIDAYS,Volvo A/C Semi Sleeper (2+2 ),23:59,06:00,06h 01m,INR 849,27 Seats available,3.5
+636,Chandigarh to Kullu,Abtc Tour and Travels,Bharat Benz A/C Semi Sleeper (2+2),01:00,06:10,05h 10m,599,21 Seats available,3.2
+637,Chandigarh to Kullu,Himgiri Adventure Tour,Bharat Benz A/C Semi Sleeper (2+2),22:00,06:45,08h 45m,494,21 Seats available,2.2
+638,Chandigarh to Kullu,TANISHQ HOLIDAYS TOUR,Volvo A/C Semi Sleeper (2+2),23:30,06:30,07h 00m,499,28 Seats available,2.8
+639,Chandigarh to Kullu,ABHI TRAVELS,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:58,05:30,05h 32m,522,26 Seats available,2.4
+640,Chandigarh to Kullu,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),23:40,06:50,07h 10m,INR 1649,41 Seats available,4.0
+641,Chandigarh to Kullu,Yatrabybus.com,Bharat Benz A/C Semi Sleeper (2+2),22:20,04:35,06h 15m,INR 2199,49 Seats available,2.5
+642,Kangra to Chandigarh,HRTC - 925,A/C Executive (2+3),19:55,02:00,06h 05m,INR 415,44 Seats available,3.9
+643,Kangra to Chandigarh,HRTC - 1855,Himsuta AC Seater Volvo/Scania 2+2,20:00,02:30,06h 30m,INR 650,34 Seats available,3.9
+644,Kangra to Chandigarh,HRTC - 43,Himsuta AC Seater Volvo/Scania 2+2,20:15,01:15,05h 00m,INR 688,34 Seats available,3.9
+645,Kangra to Chandigarh,HRTC - 13,Himsuta AC Seater Volvo/Scania 2+2,20:40,02:15,05h 35m,INR 683,29 Seats available,3.9
+646,Kangra to Chandigarh,HRTC - 905,Ordinary 3+2 Non AC Seater,21:00,02:30,05h 30m,INR 385,37 Seats available,3.9
+647,Kangra to Chandigarh,HRTC - 1152,Ordinary 3+2 Non AC Seater,21:30,03:00,05h 30m,INR 365,37 Seats available,3.9
+648,Kangra to Chandigarh,HRTC - 1103,A/C Executive (2+3),21:55,03:00,05h 05m,INR 400,26 Seats available,3.9
+649,Kangra to Chandigarh,HRTC - 927,Ordinary 3+2 Non AC Seater,22:05,04:15,06h 10m,INR 367,37 Seats available,4.0
+650,Kangra to Chandigarh,HRTC - 1116,A/C Executive (2+3),22:35,04:05,05h 30m,INR 425,25 Seats available,3.9
+651,Kangra to Chandigarh,FlixBus,A/C Seater (2+2),18:40,00:55,06h 15m,INR 312,19 Seats available,4.8
+652,Kangra to Chandigarh,Laxmi holidays,VE A/C Semi Sleeper (2+2),19:35,23:55,04h 20m,463,25 Seats available,4.5
+653,Kangra to Chandigarh,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:45,01:00,05h 15m,630,5 Seats available,4.9
+654,Kangra to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),20:10,00:45,04h 35m,624,29 Seats available,4.9
+655,Kangra to Chandigarh,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),20:10,23:59,03h 49m,674,23 Seats available,3.3
+656,Kangra to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),20:10,01:15,05h 05m,INR 550,19 Seats available,4.4
+657,Kangra to Chandigarh,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:20,01:30,05h 10m,540,7 Seats available,5.0
+658,Kangra to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),20:30,01:10,04h 40m,675,16 Seats available,4.5
+659,Kangra to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,01:50,05h 20m,509,20 Seats available,4.8
+660,Kangra to Chandigarh,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),20:30,01:45,05h 15m,630,8 Seats available,4.7
+661,Kangra to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),20:40,01:30,04h 50m,540,17 Seats available,4.8
+662,Kangra to Chandigarh,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:45,02:00,05h 15m,664,7 Seats available,3.5
+663,Kangra to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),20:45,01:30,04h 45m,INR 600,11 Seats available,4.4
+664,Kangra to Chandigarh,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:10,01:55,04h 45m,765,30 Seats available,4.5
+665,Kangra to Chandigarh,Bharmani Travels,Volvo A/C Semi Sleeper (2+2),22:00,02:30,04h 30m,698,18 Seats available,3.8
+666,Kangra to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),22:00,03:20,05h 20m,665,13 Seats available,4.5
+667,Kangra to Chandigarh,Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,02:45,04h 40m,624,38 Seats available,4.9
+668,Kangra to Chandigarh,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),22:15,02:45,04h 30m,630,4 Seats available,4.7
+669,Kangra to Chandigarh,Northern Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),19:45,01:00,05h 15m,INR 529,13 Seats available,2.6
+670,Kullu to Chandigarh,HRTC - 712,Ordinary 3+2 Non AC Seater,20:00,05:05,09h 05m,INR 476,36 Seats available,3.9
+671,Kullu to Chandigarh,HRTC - 214001,Himsuta AC Seater Volvo/Scania 2+2,20:10,02:20,06h 10m,INR 775,28 Seats available,3.9
+672,Kullu to Chandigarh,HRTC - 759,Himsuta AC Seater Volvo/Scania 2+2,21:30,04:10,06h 40m,INR 793,34 Seats available,3.9
+673,Kullu to Chandigarh,HRTC - 803,Ordinary 3+2 Non AC Seater,22:00,06:00,08h 00m,INR 462,35 Seats available,3.9
+674,Kullu to Chandigarh,HRTC - 732,Himsuta AC Seater Volvo/Scania 2+2,22:20,04:20,06h 00m,INR 775,27 Seats available,4.8
+675,Kullu to Chandigarh,HRTC - 701,Ordinary 3+2 Non AC Seater,22:45,05:30,06h 45m,INR 473,15 Seats available,4.2
+676,Kullu to Chandigarh,HRTC - 713,Himsuta AC Seater Volvo/Scania 2+2,23:10,06:00,06h 50m,INR 775,29 Seats available,5.0
+677,Kullu to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),18:40,00:40,06h 00m,540,29 Seats available,3.5
+678,Kullu to Chandigarh,HIMALAYAN HOLIDAYS,Volvo A/C Semi Sleeper (2+2 ),18:45,02:00,07h 15m,INR 949,45 Seats available,3.5
+679,Kullu to Chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),18:45,00:30,05h 45m,495,13 Seats available,3.8
+680,Kullu to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),18:45,00:30,05h 45m,462,14 Seats available,5.0
+681,Kullu to Chandigarh,HIMALAYAN HOLIDAYS,Volvo A/C Semi Sleeper (2+2 ),18:50,02:15,07h 25m,INR 949,33 Seats available,3.5
+682,Kullu to Chandigarh,Deltin Travels,Volvo 9600 A/C Semi Sleeper (2+2),18:50,00:59,06h 09m,INR 700,15 Seats available,3.2
+683,Kullu to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),19:05,00:05,05h 00m,550,31 Seats available,4.3
+684,Kullu to Chandigarh,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),19:10,02:10,07h 00m,674,26 Seats available,3.0
+685,Kullu to Chandigarh,IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),19:10,01:10,06h 00m,INR 707,39 Seats available,4.3
+686,Kullu to Chandigarh,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),19:20,23:55,04h 35m,674,26 Seats available,3.5
+687,Kullu to Chandigarh,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),19:20,23:55,04h 35m,674,26 Seats available,3.5
+688,Kullu to Chandigarh,FlixBus,A/C Seater (2+2),19:30,01:40,06h 10m,INR 149,22 Seats available,3.6
+689,Kullu to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),19:45,01:40,05h 55m,552,33 Seats available,4.4
+690,Kullu to Chandigarh,Reo India Travels,Volvo A/C Semi Sleeper (2+2),19:50,01:29,05h 39m,567,19 Seats available,3.9
+691,Kullu to Chandigarh,Travel Zap India Pvt LTD.,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),19:57,01:15,05h 18m,INR 1099,44 Seats available,3.4
+692,Kullu to Chandigarh,Metahills holidays,Scania A/C Semi Sleeper (2+2),20:00,03:00,07h 00m,900,41 Seats available,3.5
+693,Kullu to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),20:05,01:55,05h 50m,495,32 Seats available,4.5
+694,Kullu to Chandigarh,Reo India Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),20:20,02:45,06h 25m,567,30 Seats available,3.9
+695,Kullu to Chandigarh,Reo India Travels,Volvo A/C Semi Sleeper (2+2),20:20,02:20,06h 00m,567,17 Seats available,3.9
+696,Kullu to Chandigarh,Zingbus Plus,Scania A/C Semi Sleeper (2+2),20:25,01:45,05h 20m,495,29 Seats available,4.3
+697,Kullu to Chandigarh,IntrCity SmartBus,Volvo A/C Semi Sleeper (2+2),20:25,02:05,05h 40m,INR 1078,5 Seats available,4.3
+698,Kullu to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:45,02:30,05h 45m,740,7 Seats available,3.0
+699,Kullu to Chandigarh,Malana Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:50,03:00,06h 10m,854,28 Seats available,4.4
+700,Kullu to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),21:20,02:40,05h 20m,540,33 Seats available,4.3
+701,Kullu to Chandigarh,FlixBus,A/C Seater (2+2),21:30,03:30,06h 00m,INR 175,25 Seats available,3.6
+702,Kullu to Chandigarh,Metahills holidays,Scania A/C Semi Sleeper (2+2),21:30,04:30,07h 00m,990,49 Seats available,3.5
+703,Kullu to Chandigarh,Holiday Appeal Private Limited,Scania Multi-Axle AC Semi Sleeper (2+2),21:40,05:00,07h 20m,INR 799,49 Seats available,4.1
+704,Kullu to Chandigarh,City Land Travels,Scania Multi-Axle AC Semi Sleeper (2+2),21:40,03:00,05h 20m,720,1 Seat available,4.2
+705,Kullu to Chandigarh,Yolo Bus,Volvo 9600 A/C Semi Sleeper (2+2),21:46,02:55,05h 09m,INR 720,2 Seats available,4.5
+706,Kullu to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),22:00,03:55,05h 55m,540,31 Seats available,4.3
+707,Kullu to Chandigarh,Everest Holidays,Volvo A/C Semi Sleeper (2+2),22:10,04:00,05h 50m,1063,21 Seats available,3.5
+708,Kullu to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:15,03:15,05h 00m,664,19 Seats available,4.5
+709,Kullu to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:45,03:30,04h 45m,664,12 Seats available,4.4
+710,Kullu to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),22:45,03:50,05h 05m,586,28 Seats available,4.5
+711,Kullu to Chandigarh,City Land Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:50,04:30,05h 40m,673,19 Seats available,3.6
+712,Kullu to Chandigarh,Himgiri Adventure Tour,Bharat Benz A/C Semi Sleeper (2+2),19:00,02:30,07h 30m,719,29 Seats available,2.2
+713,Kullu to Chandigarh,TANISHQ HOLIDAYS TOUR,Volvo A/C Semi Sleeper (2+2),19:00,02:00,07h 00m,499,5 Seats available,2.8
+714,Kullu to Chandigarh,G.T.SHolidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,02:00,06h 30m,899,31 Seats available,2.3
+715,Kullu to Chandigarh,Zakir Flights,Volvo A/C Semi Sleeper (2+2),19:30,00:55,05h 25m,584,41 Seats available,2.9
+716,Kullu to Chandigarh,Himgiri Adventure Tour,Bharat Benz A/C Semi Sleeper (2+2),20:40,03:30,06h 50m,494,25 Seats available,2.2
+717,Kullu to Chandigarh,Abtc Tour and Travels,Bharat Benz A/C Semi Sleeper (2+2),22:00,05:00,07h 00m,527,21 Seats available,1.1
+718,Kullu to Chandigarh,R S YADAV SMART BUS PRIVATE LIMITED,Volvo 9600 A/C Semi Sleeper (2+2),18:40,02:45,08h 05m,1899,35 Seats available,4.4
+719,Kullu to Chandigarh,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),19:15,02:45,07h 30m,INR 1649,41 Seats available,4.0
+720,Kullu to Chandigarh,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Semi Sleeper (2+2),19:40,03:45,08h 05m,1899,36 Seats available,4.4
+721,Kullu to Chandigarh,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),19:45,00:50,05h 05m,INR 1649,41 Seats available,4.0
+722,Kullu to Chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),21:15,02:50,05h 35m,1395,41 Seats available,3.8
+723,Kullu to Chandigarh,SPEED BUS,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),21:30,04:30,07h 00m,1756,49 Seats available,3.7
+724,Kullu to Chandigarh,ROYAL SAFARI INDIA TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),20:00,02:45,06h 45m,1349,17 Seats available,2.4
+725,Kullu to Chandigarh,RAO TRAVELS INDIA PVT LTD.,Volvo AC Seater Pushback 2+2,20:30,04:30,08h 00m,INR 1700,40 Seats available,2.3
+726,Kullu to Chandigarh,Snow Line Holidays Manali,A/C Seater (2+2),20:45,04:45,08h 00m,INR 3000,45 Seats available,No rating
+727,Delhi to Kangra,HRTC - 14,Himsuta AC Seater Volvo/Scania 2+2,20:10,06:40,10h 30m,INR 1191,29 Seats available,4.9
+728,Delhi to Kangra,HRTC - 547,A/C Executive (2+3),20:16,05:50,09h 34m,INR 750,37 Seats available,4.2
+729,Delhi to Kangra,HRTC - 599,Himsuta AC Seater Volvo/Scania 2+2,20:29,06:50,10h 21m,INR 1158,20 Seats available,4.2
+730,Delhi to Kangra,HRTC - 26,Himsuta AC Seater Volvo/Scania 2+2,20:50,07:25,10h 35m,INR 1205,28 Seats available,3.1
+731,Delhi to Kangra,HRTC - 565,Ordinary 3+2 Non AC Seater,21:05,06:00,08h 55m,INR 630,26 Seats available,3.5
+732,Delhi to Kangra,HRTC - 569,Himmani Deluxe 2+2 Non AC Seater,21:22,08:30,11h 08m,INR 709,21 Seats available,3.4
+733,Delhi to Kangra,HRTC - 577,A/C Executive (2+3),21:40,08:30,10h 50m,INR 638,44 Seats available,3.8
+734,Delhi to Kangra,HRTC - 575,A/C Executive (2+3),21:59,09:16,11h 17m,INR 780,46 Seats available,4.4
+735,Delhi to Kangra,HRTC - 582,Ordinary 3+2 Non AC Seater,23:05,10:52,11h 47m,INR 638,37 Seats available,3.8
+736,Delhi to Kangra,HRTC - 581,Ordinary 3+2 Non AC Seater,23:30,11:00,11h 30m,INR 660,35 Seats available,3.8
+737,Delhi to Kangra,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:50,07:05,10h 15m,720,13 Seats available,4.8
+738,Delhi to Kangra,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:30,05:50,10h 20m,494,20 Seats available,4.8
+739,Delhi to Kangra,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:30,06:45,10h 15m,567,12 Seats available,4.8
+740,Delhi to Kangra,AdCity Land Travels,Volvo A/C Semi Sleeper (2+2),20:30,05:00,08h 30m,495,6 Seats available,3.4
+741,Delhi to Kangra,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),21:15,07:30,10h 15m,585,14 Seats available,4.8
+742,Delhi to Kangra,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:00,08:30,10h 30m,569,18 Seats available,4.7
+743,Delhi to Kangra,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),20:05,05:20,09h 15m,540,22 Seats available,4.7
+744,Delhi to Kangra,Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,07:40,09h 35m,520,37 Seats available,4.7
+745,Delhi to Kangra,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,06:25,10h 25m,554,19 Seats available,4.6
+746,Delhi to Kangra,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:00,06:30,09h 30m,665,14 Seats available,4.7
+747,Delhi to Kangra,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),19:45,06:15,10h 30m,630,14 Seats available,4.5
+748,Delhi to Kangra,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:00,06:30,10h 30m,648,12 Seats available,4.4
+749,Delhi to Kangra,Triptara tour & Travel,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,06:00,09h 30m,INR 500,32 Seats available,4.5
+750,Delhi to Kangra,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:00,05:10,10h 10m,554,9 Seats available,4.7
+751,Delhi to Kangra,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,05:10,10h 10m,647,7 Seats available,4.6
+752,Delhi to Kangra,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:30,05:10,09h 40m,INR 630,6 Seats available,4.6
+753,Delhi to Kangra,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),20:20,05:15,08h 55m,INR 630,9 Seats available,4.0
+754,Delhi to Kangra,Bharmani Travels,Volvo A/C Semi Sleeper (2+2),21:15,05:15,08h 00m,620,24 Seats available,3.8
+755,Delhi to Kangra,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,06:00,10h 30m,494,22 Seats available,3.4
+756,Delhi to Kangra,FlixBus,A/C Seater (2+2),19:00,06:45,11h 45m,INR 515,21 Seats available,3.6
+757,Delhi to Kangra,Raghukul Holidays,Volvo A/C Semi Sleeper (2+2),20:00,07:00,11h 00m,494,32 Seats available,3.4
+758,Delhi to Kangra,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),20:00,05:15,09h 15m,630,5 Seats available,3.9
+759,Delhi to Kangra,Asian's Shina Tour & Travels (Swoyambhu Manjushree Yatayat P. LTD),A/C Semi Sleeper (2+2),19:00,05:30,10h 30m,INR 999,35 Seats available,2.3
+760,Delhi to Kangra,City Land Travels,Volvo A/C Semi Sleeper (2+2),19:55,05:10,09h 15m,540,10 Seats available,2.2
+761,Delhi to Kangra,Northern Travels,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),19:30,07:00,11h 30m,INR 600,10 Seats available,2.4
+762,Palampur to Chandigarh,HRTC - 1152,Ordinary 3+2 Non AC Seater,20:00,03:00,07h 00m,INR 457,37 Seats available,3.9
+763,Palampur to Chandigarh,HRTC - 1103,A/C Executive (2+3),20:40,03:00,06h 20m,INR 486,25 Seats available,2.7
+764,Palampur to Chandigarh,HRTC - 1116,A/C Executive (2+3),21:35,04:05,06h 30m,INR 510,13 Seats available,2.2
+765,Palampur to Chandigarh,Northern Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),18:45,01:00,06h 15m,INR 529,13 Seats available,3.7
+766,Palampur to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),18:50,01:10,06h 20m,675,16 Seats available,4.5
+767,Palampur to Chandigarh,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),19:05,01:45,06h 40m,630,8 Seats available,4.4
+768,Palampur to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),19:20,01:50,06h 30m,509,18 Seats available,4.5
+769,Palampur to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),19:30,01:30,06h 00m,540,17 Seats available,3.5
+770,Palampur to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),19:30,02:05,06h 35m,720,13 Seats available,3.7
+771,Palampur to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:35,01:30,05h 55m,INR 600,11 Seats available,5.0
+772,Palampur to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:50,03:20,06h 30m,648,12 Seats available,4.6
+773,Palampur to Chandigarh,Bharmani Travels,Volvo A/C Semi Sleeper (2+2),21:10,02:30,05h 20m,698,18 Seats available,2.1
+774,Chandigarh to Shimla,HRTC - 1510,Ordinary 3+2 Non AC Seater,20:00,00:30,04h 30m,INR 240,37 Seats available,3.9
+775,Chandigarh to Shimla,HRTC - 1729,Ordinary 3+2 Non AC Seater,20:20,01:00,04h 40m,INR 238,37 Seats available,3.9
+776,Chandigarh to Kangra,HRTC - 1505,Ordinary 3+2 Non AC Seater,20:16,02:25,06h 09m,INR 365,37 Seats available,3.9
+777,Chandigarh to Kangra,HRTC - 1150,Ordinary 3+2 Non AC Seater,20:30,03:25,06h 55m,INR 371,37 Seats available,3.9
+778,Chandigarh to Kangra,HRTC - 91,Himsuta AC Seater Volvo/Scania 2+2,22:10,04:05,05h 55m,INR 655,34 Seats available,3.9
+779,Chandigarh to Kangra,Laxmi holidays,VE A/C Semi Sleeper (2+2),23:50,04:50,05h 00m,759,31 Seats available,4.4
+780,Chandigarh to Kangra,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:55,05:10,05h 15m,569,15 Seats available,4.6
+781,Chandigarh to Kangra,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,05:10,05h 15m,664,12 Seats available,4.7
+782,Chandigarh to Kangra,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),23:59,06:00,06h 01m,494,21 Seats available,1.5
+783,Delhi to Nalagarh,HRTC - 568,Ordinary 3+2 Non AC Seater,21:30,07:15,09h 45m,INR 332,39 Seats available,2.5
+784,Delhi to Nalagarh,HRTC - 580,Ordinary 3+2 Non AC Seater,22:45,06:00,07h 15m,INR 332,37 Seats available,4.5
+785,Delhi to Nalagarh,HRTC - 576,Himsuta AC Seater Volvo/Scania 2+2,23:20,06:00,06h 40m,INR 632,21 Seats available,3.6
+786,Baddi (Himachal Pradesh) to Delhi,HRTC - 6639,Himsuta AC Seater Volvo/Scania 2+2,20:45,03:30,06h 45m,INR 595,35 Seats available,3.5
+787,Kangra to Delhi,HRTC - 925,A/C Executive (2+3),19:55,06:30,10h 35m,INR 770,43 Seats available,3.7
+788,Kangra to Delhi,HRTC - 1855,Himsuta AC Seater Volvo/Scania 2+2,20:00,06:00,10h 00m,INR 1158,34 Seats available,3.4
+789,Kangra to Delhi,HRTC - 13,Himsuta AC Seater Volvo/Scania 2+2,20:40,07:45,11h 05m,INR 1191,33 Seats available,3.7
+790,Kangra to Delhi,HRTC - 905,Ordinary 3+2 Non AC Seater,21:00,07:45,10h 45m,INR 650,37 Seats available,3.7
+791,Kangra to Delhi,HRTC - 1152,Ordinary 3+2 Non AC Seater,21:30,08:10,10h 40m,INR 630,37 Seats available,4.0
+792,Kangra to Delhi,HRTC - 1103,A/C Executive (2+3),21:55,07:30,09h 35m,INR 750,26 Seats available,3.8
+793,Kangra to Delhi,HRTC - 1116,A/C Executive (2+3),22:35,09:00,10h 25m,INR 780,34 Seats available,4.3
+794,Kangra to Delhi,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:20,05:45,09h 25m,540,7 Seats available,4.8
+795,Kangra to Delhi,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:10,06:30,09h 20m,765,30 Seats available,4.8
+796,Kangra to Delhi,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:45,05:30,09h 45m,630,5 Seats available,4.8
+797,Kangra to Delhi,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:45,06:20,09h 35m,759,5 Seats available,4.7
+798,Kangra to Delhi,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),20:10,05:05,08h 55m,511,5 Seats available,4.6
+799,Kangra to Delhi,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),20:30,05:30,09h 00m,675,16 Seats available,4.7
+800,Kangra to Delhi,Bedi Travels,Volvo A/C Semi Sleeper (2+2 ),22:15,07:30,09h 15m,630,4 Seats available,4.7
+801,Kangra to Delhi,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),20:30,06:00,09h 30m,630,8 Seats available,4.9
+802,Kangra to Delhi,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),22:00,07:30,09h 30m,665,13 Seats available,4.6
+803,Kangra to Delhi,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,06:00,09h 30m,509,17 Seats available,4.4
+804,Kangra to Delhi,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),20:10,06:20,10h 10m,INR 550,19 Seats available,4.5
+805,Kangra to Delhi,Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,06:55,08h 50m,568,11 Seats available,4.4
+806,Kangra to Delhi,City Land Travels,Volvo A/C Semi Sleeper (2+2),20:40,06:00,09h 20m,540,14 Seats available,4.2
+807,Kangra to Delhi,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),20:45,06:15,09h 30m,INR 600,11 Seats available,4.5
+808,Kangra to Delhi,Bharmani Travels,Volvo A/C Semi Sleeper (2+2),22:00,06:30,08h 30m,698,18 Seats available,3.5
+809,Kangra to Delhi,Northern Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),19:45,05:15,09h 30m,INR 529,13 Seats available,2.5
+810,Kangra to Delhi,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),20:10,06:15,10h 05m,674,23 Seats available,3.6
+811,Ghumarwin to Delhi,HRTC - 651,Ordinary 3+2 Non AC Seater,20:14,04:30,08h 16m,INR 463,33 Seats available,4.3
+812,Ghumarwin to Delhi,HRTC - 750,A/C Executive (2+3),20:30,06:00,09h 30m,INR 485,30 Seats available,3.4
+813,Ghumarwin to Delhi,HRTC - 1107,Ordinary 3+2 Non AC Seater,20:30,04:15,07h 45m,INR 463,17 Seats available,4.3
+814,Ghumarwin to Delhi,HRTC - 78,Himsuta AC Seater Volvo/Scania 2+2,21:15,05:00,07h 45m,INR 892,23 Seats available,4.8
+815,Delhi to Sarkaghat,HRTC - 557,Ordinary 3+2 Non AC Seater,20:15,07:10,10h 55m,INR 575,37 Seats available,3.9
+816,Delhi to Sarkaghat,HRTC - 597,Himsuta AC Seater Volvo/Scania 2+2,20:35,06:40,10h 05m,INR 1078,15 Seats available,4.3
